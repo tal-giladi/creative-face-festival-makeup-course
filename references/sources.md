@@ -46,3 +46,8 @@ label and the official page.
 - [Snazaroo FAQ](https://www.snazaroo.com/pages/faq) and [Quality & Safety](https://www.snazaroo.com/pages/quality-safety)
 - [Hygiene Tips for Face Painters, Mehron](https://www.mehron.com/mehron-blog/hygiene-tips-for-face-painters)
 - [How do you solve a problem like glitter?, National Geographic (2024)](https://www.nationalgeographic.com/environment/article/glitter-microplastics-biodegradable)
+
+## Culture and respect
+
+- [Native American Is Not a Costume, Smithsonian National Museum of the American Indian](https://americanindian.si.edu/nk360/informational/cultures-and-clothing)
+- [Colorful Calaveras for the Day of the Dead, Google Arts & Culture](https://artsandculture.google.com/story/TQJyS0dYYCYCIw)

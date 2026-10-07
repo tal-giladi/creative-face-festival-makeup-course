@@ -1,0 +1,50 @@
+- id: q1
+  question: >-
+    You love one artist's dragon face photo and paint it exactly, line for line. Is it your original
+    design?
+  options:
+    - Yes, because you painted every line yourself.
+    - Yes, as long as you change the color of the horns.
+    - No, it is a copy, which is good practice but not original.
+    - No, because dragon designs can only be painted by professionals.
+  correct: 2
+  explanation: >-
+    Copying a whole design is useful practice but not original work. An original takes single ideas
+    from several references and mixes them your way.
+- id: q2
+  question: >-
+    Your version 1 self-check shows three problems: it is busy, the blend is streaky and one side sits
+    higher. What do you do for version 2?
+  options:
+    - Pick one goal, such as removing clutter, and change only that.
+    - Fix all three at once so version 2 is finished faster.
+    - Start a completely new design, since version 1 has failed.
+    - Add more details so the three problems are much harder to see.
+  correct: 0
+  explanation: >-
+    The self-check template says to choose one goal per round. Changing one thing at a time shows
+    what actually helped.
+- id: q3
+  question: >-
+    You have no idea what to paint and the blank sheet feels impossible. Which first step helps most?
+  options:
+    - Start painting and see what design appears on the face.
+    - Copy the first design you find online to get going.
+    - Wait until you feel really inspired before you plan anything.
+    - Write a short brief and choose one constraint, like three colors.
+  correct: 3
+  explanation: >-
+    A brief and a deliberate limit turn a blank page into a few clear choices, which makes starting
+    much easier.
+- id: q4
+  question: >-
+    Your portfolio photos all look different: one with flash, one in the bathroom, one outside. What
+    makes them comparable?
+  options:
+    - A flash every time, so the colors are bright.
+    - Window light in front, a plain background, the same distance.
+    - Different backgrounds that match the colors of each design.
+    - Close-ups only, so the light doesn't matter.
+  correct: 1
+  explanation: >-
+    Taking photos the same way each time lets you compare your designs honestly and see real progress.

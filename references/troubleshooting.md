@@ -104,7 +104,7 @@ stings, itches, swells or turns red, stop and take the paint off first: see the
 | Tiger stripes look like bars | same pressure along the stroke | press at the edge of the face, lift toward the middle | [04.5](../lessons/module-04/lesson-05.md) |
 | Stripes on the two sides don't match | one whole side painted first | paint each stripe left, then right | [04.5](../lessons/module-04/lesson-05.md) |
 | Whiskers are blunt and heavy | pressing to the end | flick off to a point | [04.5](../lessons/module-04/lesson-05.md) |
-| Mask paint creeps onto the lashes | eye holes sketched too small | sketch big eye ovals first and fill only outside them | [04.6](../lessons/module-04/lesson-06.md) |
+| Mask paint creeps onto the lashes | eye holes sketched too small | sketch big eye ovals first and fill only outside them | [04.6](../lessons/module-04/lesson-06.md), [09.2](../lessons/module-09/lesson-02.md) |
 | Mask is higher on one side | tips not planned | dot both outer tips level before filling | [04.6](../lessons/module-04/lesson-06.md) |
 | Crown looks flat yellow | one color, no contrast | orange along the band, a thin black outline, white shine | [04.6](../lessons/module-04/lesson-06.md) |
 
@@ -182,3 +182,21 @@ stings, itches, swells or turns red, stop and take the paint off first: see the
 | Painted opening looks like a flat sticker | no shadow inside the edge | dark band inside the edge nearest the light, thin light line on the far inner edge | [08.4](../lessons/module-08/lesson-04.md) |
 | Painted hole looks like a bump | shadow on the wrong side | put the shadow inside the edge nearest the light | [08.4](../lessons/module-08/lesson-04.md) |
 | Cracks look like a road map | smooth curves, even thickness | change direction often, taper each line, add thinner branches | [08.4](../lessons/module-08/lesson-04.md) |
+
+## Module 9: Fantasy Characters and Masks
+
+| What you see | Likely cause | Try this | Lesson |
+|---|---|---|---|
+| Design looks like a pile of stickers | too many small motifs, no star zone | keep 3-5 features and make one of them big | [09.1](../lessons/module-09/lesson-01.md) |
+| A feature is too hard to paint | copied from a photo, not simplified | rebuild it from curls, teardrops, dots, lines and U shapes | [09.1](../lessons/module-09/lesson-01.md) |
+| Design is clear close up but a mess from across the room | small scattered details | do the distance test on thumbnails; choose big connected shapes | [09.1](../lessons/module-09/lesson-01.md) |
+| Mask looks like a flat sticker | one flat color, no shading | darker shade inside every edge, light band over the brows | [09.2](../lessons/module-09/lesson-02.md) |
+| Filigree curls end in blobs | too much paint, pressing to the end | load only the tip, light pressure, lift at the end of each curl | [09.2](../lessons/module-09/lesson-02.md) |
+| Filigree differs from side to side | both sides painted freehand | copy curl by curl, matching the end points first | [09.2](../lessons/module-09/lesson-02.md) |
+| Nobody can tell what the character is | too many features or colors | 3-5 features, one color story, one main texture | [09.3](../lessons/module-09/lesson-03.md) |
+| Scales look like a stocking over the face | texture everywhere, hard edges | scales in one zone, faded softly into the skin | [09.3](../lessons/module-09/lesson-03.md) |
+| Rows of scales slope or drift | rows painted without guides | dot the start of each row; paint from the bottom row up | [09.3](../lessons/module-09/lesson-03.md) |
+| Light fantasy colors look dull on deep skin | painted straight on dark skin | thin white layer first, let it dry, then the color | [09.3](../lessons/module-09/lesson-03.md) |
+| Stuck at a blank page | no brief or constraints | write a brief and pick one constraint | [09.4](../lessons/module-09/lesson-04.md) |
+| Each new version is completely different | changing everything at once | change only the one goal from the self-check | [09.4](../lessons/module-09/lesson-04.md) |
+| Portfolio photos can't be compared | mixed light, flash, busy background | window light in front, plain background, same distance | [09.4](../lessons/module-09/lesson-04.md) |

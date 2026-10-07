@@ -1,0 +1,50 @@
+- id: q1
+  question: >-
+    Your dragon has scales over the whole face in one flat green. From across the room it just looks
+    green. What is the best fix?
+  options:
+    - Paint the scales even smaller so they look much more detailed.
+    - Add a second texture, like leaves, on top of the scales.
+    - Scales only from temple to cheek, faded, plus horns as a focus.
+    - Outline every single scale in thick black so each one shows.
+  correct: 2
+  explanation: >-
+    One main texture in one area, fading into the skin, plus a clear focal point reads instantly.
+    Texture everywhere hides the character.
+- id: q2
+  question: >-
+    You are planning a fairy. Which color story fits "light, sparkly and soft"?
+  options:
+    - Soft pink, lilac and aqua with a little gold.
+    - Black, dark red and deep brown with silver.
+    - Every color in the kit, so the fairy looks magical.
+    - Neon green and orange, the brightest colors you own.
+  correct: 0
+  explanation: >-
+    A color story matches the mood words. Pastels and a little gold say light and magical; dark or
+    random colors fight the mood.
+- id: q3
+  question: >-
+    A friend wants a Día de los Muertos sugar skull for a Halloween party "because it looks cool".
+    What does this lesson suggest?
+  options:
+    - Paint it exactly as on the internet, since it is only for one night.
+    - Paint it, but mix in some dragon scales so it becomes a new design.
+    - Paint it only if you add a lot of glitter so it looks festive.
+    - Suggest an invented character, since the skulls honor the dead.
+  correct: 3
+  explanation: >-
+    The decorated skulls have real meaning for a living culture. Invented characters avoid wearing that
+    meaning as a costume.
+- id: q4
+  question: >-
+    Your painted scales slope downhill across the temple and the rows drift apart. What prevents this?
+  options:
+    - Painting each scale bigger so you need fewer rows.
+    - Dotting each row start, then painting from the bottom row up.
+    - Sponging the whole area darker first so mistakes don't show.
+    - Painting the scales very fast in one go so the hand stays steady.
+  correct: 1
+  explanation: >-
+    Anchor dots keep the rows level and evenly spaced, and starting at the bottom lets each new row
+    overlap the tops of the row below.

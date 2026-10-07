@@ -403,6 +403,33 @@ them over the eyes. Fishnet or lace used as a stencil must be **new and washed**
 
 **A substitute must:** be soft and new, squeeze almost dry, and be used for one person only.
 
+### Metallic gold face paint
+
+**What it is for:** filigree and jewel effects on masks and characters (lesson 09.2, P11).
+
+**Ideal:** metallic gold face paint whose label allows eye-area use if it goes on a mask.
+
+**Cheaper or easier to find:** yellow face paint with a thin orange line beside it and a white shine
+dot, which reads as gold (lesson 04.6).
+
+**A substitute must:** be sold as face paint; metallic craft paint, gold leaf or "gilding" products
+are never substitutes.
+
+### Pencils and colored pencils (planning only)
+
+**What they are for:** thumbnails and planning sheets (lessons 09.1, 09.4).
+
+**Ideal:** a soft pencil and a few colored pencils or felt pens.
+
+**Must:** stay on paper. Never draw on skin with pencils, pens or markers.
+
+### Reference pictures
+
+**What they are for:** single ideas for color, shape and texture (lesson 09.4).
+
+**Ideal:** your own photos of skies, plants, fabrics and animals. **Cheaper:** pictures in books or
+online, for study only. **Must:** be used for one idea each, not copied as a whole design.
+
 ### Rainbow split cake (optional)
 
 **What it is for:** one-stroke rainbows and petals: several colors loaded onto a flat brush at once (lesson 04.4 optional upgrade; Module 8).

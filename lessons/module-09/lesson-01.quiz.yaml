@@ -1,0 +1,51 @@
+- id: q1
+  question: >-
+    You want to paint a "forest" theme. You list eight features: trees, leaves, mushrooms, owls,
+    moss, rain, deer and flowers. What should you do next?
+  options:
+    - Paint all eight small, so every part of the forest is included.
+    - Keep the 3-5 features that say forest best and drop the rest.
+    - Choose the hardest feature first, because it shows your skill.
+    - Add a few more features so the design looks richer from far away.
+  correct: 1
+  explanation: >-
+    A face is small. Three to five key features, each simplified, read clearly; eight turn into
+    clutter.
+- id: q2
+  question: >-
+    Your thumbnail has a realistic owl copied from a photo, and you can't paint it on your arm. What
+    is the best fix?
+  options:
+    - Practice the photo-realistic owl until you can paint every feather.
+    - Use a fine marker on the skin to draw the owl's details.
+    - Rebuild the owl from shapes you know, like teardrops and circles.
+    - Move the owl to the eyelid, where the skin is smoother to paint on.
+  correct: 2
+  explanation: >-
+    Simplify means rebuilding the feature from strokes you can already paint. Markers never go on
+    skin, and the eyelid is for eye-safe products only.
+- id: q3
+  question: >-
+    You prop up three thumbnails across the room. Design A is one big wave crown. Design C has twenty
+    small stars, shells and dots all over the face. Which do you choose, and why?
+  options:
+    - Design C, because more details make a design look more professional.
+    - Design C, because the motifs are spread evenly over the whole face.
+    - Either one, because the distance test only matters for festivals.
+    - Design A, because it still reads as one clear shape from far away.
+  correct: 3
+  explanation: >-
+    The one-second read from about three meters is the test. Small scattered details blur into spots;
+    one big connected shape survives.
+- id: q4
+  question: >-
+    Your "volcano" theme needs a palette. Which choice fits the mood and follows lesson 03.5?
+  options:
+    - Warm colors (red, orange, yellow) with a small dark accent.
+    - All the colors in your kit, so the volcano looks exciting.
+    - Pastel pink, mint and baby blue, to keep it soft.
+    - Only black and white, because color is added later.
+  correct: 0
+  explanation: >-
+    The palette should match the mood: fire is warm. A small accent and 60-30-10 keep it from looking
+    random.

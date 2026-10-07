@@ -1,0 +1,14 @@
+- Design looks like a pile of stickers | too many small motifs, no star zone | keep 3-5 features and make one of them big | 09.1
+- A feature is too hard to paint | copied from a photo, not simplified | rebuild it from curls, teardrops, dots, lines and U shapes | 09.1
+- Design is clear close up but a mess from across the room | small scattered details | do the distance test on thumbnails; choose big connected shapes | 09.1
+- Mask paint creeps onto the lashes | eye holes sketched too small | sketch wide almonds first and fill only outside them | 09.2
+- Mask looks like a flat sticker | one flat color, no shading | darker shade inside every edge, light band over the brows | 09.2
+- Filigree curls end in blobs | too much paint, pressing to the end | load only the tip, light pressure, lift at the end of each curl | 09.2
+- Filigree differs from side to side | both sides painted freehand | copy curl by curl, matching the end points first | 09.2
+- Nobody can tell what the character is | too many features or colors | 3-5 features, one color story, one main texture | 09.3
+- Scales look like a stocking over the face | texture everywhere, hard edges | scales in one zone, faded softly into the skin | 09.3
+- Rows of scales slope or drift | rows painted without guides | dot the start of each row; paint from the bottom row up | 09.3
+- Light fantasy colors look dull on deep skin | painted straight on dark skin | thin white layer first, let it dry, then the color | 09.3
+- Stuck at a blank page | no brief or constraints | write a brief and pick one constraint | 09.4
+- Each new version is completely different | changing everything at once | change only the one goal from the self-check | 09.4
+- Portfolio photos can't be compared | mixed light, flash, busy background | window light in front, plain background, same distance | 09.4

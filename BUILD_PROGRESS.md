@@ -37,14 +37,14 @@ Tools: `curriculum/tools/lib/` (geom, face, art, figure, sheet), `assets-mNN.mjs
 - [x] M6 Glitter, Gems and Neon (+ P7, P8)
 - [x] M7 Patterns and Complete Looks (+ P6, P9)
 - [x] M8 Advanced Color and Illusion
-- [ ] M9 Fantasy Characters and Masks (+ P10-P12)
+- [x] M9 Fantasy Characters and Masks (+ P10-P12)
 - [ ] M10 Body Art (Optional) (+ P13)
 - [x] Simulations: color mixing (03.1); symmetry mirror not needed (03.4 works without it)
 - [ ] Final QA (dry-run 0 problems, links, renders, sheets print at 100%, git clean)
 
 ## Working now
 
-- Agent A: M9 (+ P10-P12). Agent B: M10 (+ P13). Main session: merges inboxes, checks, commits after each module.
+- Agent B: M10 (+ P13). Main session: final QA prep. Main session: merges inboxes, checks, commits after each module.
 
 ## Decisions during the build
 

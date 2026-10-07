@@ -1,0 +1,129 @@
+- id: q1
+  question: >-
+    You are designing a "winter queen" look. You have listed snowflakes, icicles, a crown, frost
+    swirls, a fur collar, a sleigh, pine trees and stars. What is the next step?
+  options:
+    - Paint all eight features small so nothing important is missing.
+    - Choose the hardest feature first so the design looks advanced.
+    - Keep the 3-5 clearest features and turn each into a simple shape.
+    - Skip the list and paint whatever the brush suggests on the day.
+  correct: 2
+  explanation: >-
+    A face has room for only a few features. Keeping 3-5 and simplifying each into strokes you know
+    makes the design readable and paintable.
+- id: q2
+  question: >-
+    You photograph three thumbnails and look at them small on your phone. One is a single big crown
+    shape; one is many tiny stars all over the face; one is a one-sided swirl. Which should you drop?
+  options:
+    - The many tiny stars, because they blur into spots from far away.
+    - The big crown shape, because big shapes look too simple.
+    - The one-sided swirl, because designs must always be symmetrical.
+    - None, because a phone photo can't tell you anything useful.
+  correct: 0
+  explanation: >-
+    The one-second read favors big, connected shapes. Small scattered motifs turn into noise from a
+    distance; one-sided designs are fine when they read clearly.
+- id: q3
+  question: >-
+    A friend wants a masquerade mask with the paint following the exact outline of her eyes, "so it
+    frames them perfectly". What do you do?
+  options:
+    - Paint right up to the lashes with a fine brush, very carefully.
+    - Paint up to the lashes but only with your best quality paint.
+    - Paint it as she asks, then wipe off anything that runs into the eye.
+    - Leave a wide almond of bare skin around each eye and use eye-safe paint.
+  correct: 3
+  explanation: >-
+    Masks keep a clear ring of bare skin around the eyes and use only eye-safe products. The gap is
+    safer and also looks more elegant.
+- id: q4
+  question: >-
+    Your painted mask looks flat. You have the mask color, a darker shade of it, white and black.
+    How do you make it look raised?
+  options:
+    - Paint the whole mask again in the darker shade so it looks richer.
+    - Dark shade inside the edges, a light band over the brows.
+    - Add cosmetic glitter all over, including the eye holes, for shine.
+    - Outline it in thick black twice so it stands out from the skin.
+  correct: 1
+  explanation: >-
+    3D shading from lesson 08.2: shadow where the surface turns away, light where it faces the
+    light. Glitter never goes near the eyes.
+- id: q5
+  question: >-
+    You want gems on your mask. Where do they go?
+  options:
+    - Along the lower edge of each eye hole, right under the lashes.
+    - On the eyelids, where they catch the most light when you blink.
+    - On the forehead and the temple tips, well away from the eyes.
+    - Anywhere, as long as you use eyelash glue to hold them.
+  correct: 2
+  explanation: >-
+    Gems near the lashes can fall into the eye and scratch it. Lesson 06.3 places them on the
+    forehead, temples and upper cheekbones, away from the eye area.
+- id: q6
+  question: >-
+    Your dragon has scales, horns, a crest, wings, flames, stars and a rainbow palette. People think it
+    is "some kind of colorful pattern". What is the best fix?
+  options:
+    - Keep three features and a small color story like emerald, teal and gold.
+    - Add a label or a word on the forehead so people know it is a dragon.
+    - Make every feature smaller so they all fit better on the face.
+    - Add even more dragon features so the theme becomes obvious.
+  correct: 0
+  explanation: >-
+    A character reads from a few key features and one color story. Too many features and colors hide
+    the character instead of showing it.
+- id: q7
+  question: >-
+    You paint fairy wings with pale pink and lilac on deep skin, and they look dull and see-through.
+    What do you change?
+  options:
+    - Use more water so the pale colors spread more smoothly.
+    - Switch to craft paint, since it covers better than face paint.
+    - Mix the pink with black so it shows up against the skin.
+    - Paint a thin white layer first, let it dry, then the colors.
+  correct: 3
+  explanation: >-
+    Light colors over deep skin need a white underlayer to look bright and solid (lesson 03.5). Craft
+    paint never goes on skin.
+- id: q8
+  question: >-
+    Your scales look like a stocking pulled over the face: hard edges and the same everywhere. What
+    helps most?
+  options:
+    - Paint the scales bigger and add a thick black outline around the area.
+    - Keep them to one area and fade them softly into the skin at the edges.
+    - Cover the whole face so there are no edges at all.
+    - Use a darker color so the scales stand out more.
+  correct: 1
+  explanation: >-
+    Scales look like they grow out of the skin when they sit in one zone and get smaller and softer
+    toward the edges.
+- id: q9
+  question: >-
+    You find a beautiful face design online and want to make your "own original" for Project 12. What
+    is the right way to use it?
+  options:
+    - Copy it exactly, since you will paint every line yourself.
+    - Copy it but change the colors so it counts as your own.
+    - Take one idea from it and mix it with ideas from other references.
+    - Avoid looking at any references so the design is truly original.
+  correct: 2
+  explanation: >-
+    References are for single ideas (a color, a shape, a texture). Mixing ideas from several sources
+    your way makes an original; copying, even recolored, does not.
+- id: q10
+  question: >-
+    Your version 1 has a busy layout, streaky blending and crooked sides. You want version 2 to be
+    better. What does the self-check method tell you to do?
+  options:
+    - Fix one goal, such as removing clutter, and change only that.
+    - Fix all three problems at once to save time.
+    - Throw the design away and start a completely new idea.
+    - Ask someone else to paint version 2 so it looks different.
+  correct: 0
+  explanation: >-
+    One goal per version shows clearly what helped. Two or three rounds usually turn a busy idea
+    into a clear one.

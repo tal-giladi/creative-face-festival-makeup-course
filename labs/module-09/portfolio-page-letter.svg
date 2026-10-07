@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="215.9mm" height="279.4mm" viewBox="0 0 215.9 279.4">
+<title>Portfolio page</title>
+<rect width="215.9" height="279.4" fill="#fff"/>
+<text x="12" y="16" font-family="Helvetica,Arial,sans-serif" font-size="4.6" fill="#1f2a44" text-anchor="start" font-weight="700">Portfolio page</text>
+<text x="12" y="21.5" font-family="Helvetica,Arial,sans-serif" font-size="3" fill="#9aa1ad" text-anchor="start">One page per finished design. Glue or tape in your photos, or note the photo file names. Lesson 09.4.</text>
+<text x="151.9" y="16" font-family="Helvetica,Arial,sans-serif" font-size="3" fill="#9aa1ad" text-anchor="end">Name:</text>
+<line x1="153.9" y1="16.6" x2="203.9" y2="16.6" stroke="#c9ced6" stroke-width="0.25"/>
+<line x1="12" y1="269.4" x2="112" y2="269.4" stroke="#9aa1ad" stroke-width="0.35"/>
+<line x1="12" y1="267.2" x2="12" y2="269.4" stroke="#9aa1ad" stroke-width="0.3"/>
+<line x1="22" y1="268.2" x2="22" y2="269.4" stroke="#9aa1ad" stroke-width="0.3"/>
+<line x1="32" y1="268.2" x2="32" y2="269.4" stroke="#9aa1ad" stroke-width="0.3"/>
+<line x1="42" y1="268.2" x2="42" y2="269.4" stroke="#9aa1ad" stroke-width="0.3"/>
+<line x1="52" y1="268.2" x2="52" y2="269.4" stroke="#9aa1ad" stroke-width="0.3"/>
+<line x1="62" y1="267.2" x2="62" y2="269.4" stroke="#9aa1ad" stroke-width="0.3"/>
+<line x1="72" y1="268.2" x2="72" y2="269.4" stroke="#9aa1ad" stroke-width="0.3"/>
+<line x1="82" y1="268.2" x2="82" y2="269.4" stroke="#9aa1ad" stroke-width="0.3"/>
+<line x1="92" y1="268.2" x2="92" y2="269.4" stroke="#9aa1ad" stroke-width="0.3"/>
+<line x1="102" y1="268.2" x2="102" y2="269.4" stroke="#9aa1ad" stroke-width="0.3"/>
+<line x1="112" y1="267.2" x2="112" y2="269.4" stroke="#9aa1ad" stroke-width="0.3"/>
+<text x="115" y="270.2" font-family="Helvetica,Arial,sans-serif" font-size="2.5" fill="#9aa1ad" text-anchor="start">Must measure 10 cm. If not, print at 100% ("Actual size").</text>
+<text x="12" y="31" font-family="Helvetica,Arial,sans-serif" font-size="2.9" fill="#1f2a44" text-anchor="start">Design name:</text>
+<line x1="34.14" y1="31.6" x2="127.14" y2="31.6" stroke="#c9ced6" stroke-width="0.25"/>
+<text x="134.82" y="31" font-family="Helvetica,Arial,sans-serif" font-size="2.9" fill="#1f2a44" text-anchor="start">Date:</text>
+<line x1="145.79" y1="31.6" x2="203.9" y2="31.6" stroke="#c9ced6" stroke-width="0.25"/>
+<text x="12" y="38" font-family="Helvetica,Arial,sans-serif" font-size="2.9" fill="#1f2a44" text-anchor="start">Time taken:</text>
+<line x1="32.55" y1="38.6" x2="69.57" y2="38.6" stroke="#c9ced6" stroke-width="0.25"/>
+<text x="77.25" y="38" font-family="Helvetica,Arial,sans-serif" font-size="2.9" fill="#1f2a44" text-anchor="start">Painted on:</text>
+<line x1="97.79" y1="38.6" x2="203.9" y2="38.6" stroke="#c9ced6" stroke-width="0.25"/>
+<rect x="12" y="43" width="92.11" height="98.45" fill="none" stroke="#9aa1ad" stroke-width="0.3"/>
+<text x="58.06" y="92.22" font-family="Helvetica,Arial,sans-serif" font-size="2.8" fill="#c9ced6" text-anchor="middle">Front photo, about 1 m away</text>
+<rect x="108.11" y="43" width="95.79" height="47.22" fill="none" stroke="#9aa1ad" stroke-width="0.3"/>
+<text x="156.01" y="66.61" font-family="Helvetica,Arial,sans-serif" font-size="2.8" fill="#c9ced6" text-anchor="middle">Close-up of the best part</text>
+<rect x="108.11" y="94.22" width="95.79" height="47.22" fill="none" stroke="#9aa1ad" stroke-width="0.3"/>
+<text x="156.01" y="117.84" font-family="Helvetica,Arial,sans-serif" font-size="2.8" fill="#c9ced6" text-anchor="middle">Thumbnail or earlier version</text>
+<text x="12" y="149.45" font-family="Helvetica,Arial,sans-serif" font-size="2.9" fill="#1f2a44" text-anchor="start">Brief:</text>
+<line x1="24.57" y1="150.05" x2="203.9" y2="150.05" stroke="#c9ced6" stroke-width="0.25"/>
+<text x="12" y="157.45" font-family="Helvetica,Arial,sans-serif" font-size="2.9" fill="#1f2a44" text-anchor="start">Palette:</text>
+<path d="M38 156.45L37.8 157.71L37.23 158.81L36.36 159.68L35.26 160.24L34 160.45L32.74 160.24L31.64 159.68L30.77 158.81L30.2 157.71L30 156.45L30.2 155.18L30.77 154.09L31.64 153.22L32.74 152.65L34 152.45L35.26 152.65L36.36 153.22L37.23 154.09L37.8 155.18L38 156.45L38 156.45Z" fill="none" stroke="#c9ced6" stroke-width="0.35" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M49 156.45L48.8 157.71L48.23 158.81L47.36 159.68L46.26 160.24L45 160.45L43.74 160.24L42.64 159.68L41.77 158.81L41.2 157.71L41 156.45L41.2 155.18L41.77 154.09L42.64 153.22L43.74 152.65L45 152.45L46.26 152.65L47.36 153.22L48.23 154.09L48.8 155.18L49 156.45L49 156.45Z" fill="none" stroke="#c9ced6" stroke-width="0.35" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M60 156.45L59.8 157.71L59.23 158.81L58.36 159.68L57.26 160.24L56 160.45L54.74 160.24L53.64 159.68L52.77 158.81L52.2 157.71L52 156.45L52.2 155.18L52.77 154.09L53.64 153.22L54.74 152.65L56 152.45L57.26 152.65L58.36 153.22L59.23 154.09L59.8 155.18L60 156.45L60 156.45Z" fill="none" stroke="#c9ced6" stroke-width="0.35" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M71 156.45L70.8 157.71L70.23 158.81L69.36 159.68L68.26 160.24L67 160.45L65.74 160.24L64.64 159.68L63.77 158.81L63.2 157.71L63 156.45L63.2 155.18L63.77 154.09L64.64 153.22L65.74 152.65L67 152.45L68.26 152.65L69.36 153.22L70.23 154.09L70.8 155.18L71 156.45L71 156.45Z" fill="none" stroke="#c9ced6" stroke-width="0.35" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M82 156.45L81.8 157.71L81.23 158.81L80.36 159.68L79.26 160.24L78 160.45L76.74 160.24L75.64 159.68L74.77 158.81L74.2 157.71L74 156.45L74.2 155.18L74.77 154.09L75.64 153.22L76.74 152.65L78 152.45L79.26 152.65L80.36 153.22L81.23 154.09L81.8 155.18L82 156.45L82 156.45Z" fill="none" stroke="#c9ced6" stroke-width="0.35" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="94" y="157.45" font-family="Helvetica,Arial,sans-serif" font-size="2.9" fill="#1f2a44" text-anchor="start">References used:</text>
+<line x1="122.52" y1="158.05" x2="203.9" y2="158.05" stroke="#c9ced6" stroke-width="0.25"/>
+<text x="12" y="166.45" font-family="Helvetica,Arial,sans-serif" font-size="2.9" fill="#1f2a44" text-anchor="start">What worked:</text>
+<line x1="34.14" y1="167.05" x2="203.9" y2="167.05" stroke="#c9ced6" stroke-width="0.25"/>
+<text x="12" y="172.45" font-family="Helvetica,Arial,sans-serif" font-size="2.9" fill="#1f2a44" text-anchor="start"></text>
+<line x1="15" y1="173.05" x2="203.9" y2="173.05" stroke="#c9ced6" stroke-width="0.25"/>
+<text x="12" y="180.45" font-family="Helvetica,Arial,sans-serif" font-size="2.9" fill="#1f2a44" text-anchor="start">Next time I will:</text>
+<line x1="42.12" y1="181.05" x2="203.9" y2="181.05" stroke="#c9ced6" stroke-width="0.25"/>
+<text x="12" y="186.45" font-family="Helvetica,Arial,sans-serif" font-size="2.9" fill="#1f2a44" text-anchor="start"></text>
+<line x1="15" y1="187.05" x2="203.9" y2="187.05" stroke="#c9ced6" stroke-width="0.25"/>
+<text x="12" y="194.45" font-family="Helvetica,Arial,sans-serif" font-size="3.4" fill="#1f2a44" text-anchor="start" font-weight="700">Self-check (templates/self-check.md)</text>
+<rect x="12" y="197.65" width="3.2" height="3.2" fill="none" stroke="#9aa1ad" stroke-width="0.3"/>
+<text x="17" y="200.45" font-family="Helvetica,Arial,sans-serif" font-size="2.6" fill="#9aa1ad" text-anchor="start">Reads in one second from 1-3 m</text>
+<rect x="107.95" y="197.65" width="3.2" height="3.2" fill="none" stroke="#9aa1ad" stroke-width="0.3"/>
+<text x="112.95" y="200.45" font-family="Helvetica,Arial,sans-serif" font-size="2.6" fill="#9aa1ad" text-anchor="start">Sits where I planned</text>
+<rect x="12" y="203.05" width="3.2" height="3.2" fill="none" stroke="#9aa1ad" stroke-width="0.3"/>
+<text x="17" y="205.85" font-family="Helvetica,Arial,sans-serif" font-size="2.6" fill="#9aa1ad" text-anchor="start">Clear main color</text>
+<rect x="107.95" y="203.05" width="3.2" height="3.2" fill="none" stroke="#9aa1ad" stroke-width="0.3"/>
+<text x="112.95" y="205.85" font-family="Helvetica,Arial,sans-serif" font-size="2.6" fill="#9aa1ad" text-anchor="start">Smooth lines, clean ends</text>
+<rect x="12" y="208.45" width="3.2" height="3.2" fill="none" stroke="#9aa1ad" stroke-width="0.3"/>
+<text x="17" y="211.25" font-family="Helvetica,Arial,sans-serif" font-size="2.6" fill="#9aa1ad" text-anchor="start">Even base, soft blends</text>
+<rect x="107.95" y="208.45" width="3.2" height="3.2" fill="none" stroke="#9aa1ad" stroke-width="0.3"/>
+<text x="112.95" y="211.25" font-family="Helvetica,Arial,sans-serif" font-size="2.6" fill="#9aa1ad" text-anchor="start">Eye area clear of glitter, gems, neon</text>
+<rect x="12" y="213.85" width="3.2" height="3.2" fill="none" stroke="#9aa1ad" stroke-width="0.3"/>
+<text x="17" y="216.65" font-family="Helvetica,Arial,sans-serif" font-size="2.6" fill="#9aa1ad" text-anchor="start">Lasted as long as needed</text>
+<rect x="107.95" y="213.85" width="3.2" height="3.2" fill="none" stroke="#9aa1ad" stroke-width="0.3"/>
+<text x="112.95" y="216.65" font-family="Helvetica,Arial,sans-serif" font-size="2.6" fill="#9aa1ad" text-anchor="start">Skin fine; came off easily</text>
+<text x="12" y="225.05" font-family="Helvetica,Arial,sans-serif" font-size="2.9" fill="#1f2a44" text-anchor="start">My goal for next time:</text>
+<line x1="48" y1="225.65" x2="203.9" y2="225.65" stroke="#c9ced6" stroke-width="0.25"/>
+</svg>

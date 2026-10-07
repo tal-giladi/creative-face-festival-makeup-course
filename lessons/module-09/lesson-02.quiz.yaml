@@ -1,0 +1,63 @@
+- id: q1
+  question: >-
+    You sketch a masquerade mask. How big should the eye holes be?
+  options:
+    - Exactly the shape of the eye, so the color frames it tightly.
+    - A wide almond with a clear ring of bare skin around each eye.
+    - Small, because more painted skin makes the mask look richer.
+    - It doesn't matter if you close your eyes while painting.
+  correct: 1
+  explanation: >-
+    A wide almond keeps paint off the lash line and waterline, and the bare ring is also what makes a
+    mask look elegant.
+- id: q2
+  question: >-
+    Your painted mask is one even purple and looks like a flat sticker. What makes it look raised off
+    the face?
+  options:
+    - A second thick layer of the same purple all over the mask.
+    - Glitter over the whole mask, including around the eyes.
+    - A wide black outline painted twice as thick as before.
+    - A darker shade just inside every edge and light bands over the brows.
+  correct: 3
+  explanation: >-
+    Shading from lesson 08.2: dark where the surface turns away, light where it faces the light. Glitter
+    never goes near the eyes.
+- id: q3
+  question: >-
+    A friend wants a big gem in the center of each eye hole's lower edge, right under the lashes. What
+    do you do?
+  options:
+    - Put the gems on the forehead and the temple tips instead.
+    - Use eyelash glue, since it is made for the lash line.
+    - Add them, but only small ones so they are lighter.
+    - Use a little superglue so they can't fall into the eye.
+  correct: 0
+  explanation: >-
+    Gems near the lashes can fall into the eye and scratch it. On a mask they go on the forehead and
+    temples, and superglue is never used on skin.
+- id: q4
+  question: >-
+    Your gold filigree curls end in round blobs and look clumsy. What is the most likely cause?
+  options:
+    - The gold paint is not shiny enough to look like real metal.
+    - The mask base under the filigree was still slightly damp.
+    - Too much paint on the brush and pressing to the very end.
+    - The curls were painted after the lace instead of before it.
+  correct: 2
+  explanation: >-
+    Fine lines need the liner loaded only at the tip and a light touch that lifts at the end, so each
+    curl finishes in a point.
+- id: q5
+  question: >-
+    Your face paint box says "not for use near the eyes", but the photo on it shows a mask. Can you
+    use it for the mask?
+  options:
+    - Yes, the photo shows it is fine for masks around the eyes.
+    - Yes, if you leave a thin gap and wash it off within an hour.
+    - Yes, if you mix it with an eye-safe paint first.
+    - No, believe the label and use a paint labeled eye-safe.
+  correct: 3
+  explanation: >-
+    FDA says to believe a "not for use near the eyes" label even when the packaging photo shows
+    otherwise. Mixing does not make a color eye-safe.
