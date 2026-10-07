@@ -29,7 +29,7 @@ Tools: `curriculum/tools/lib/` (geom, face, art, figure, sheet), `assets-mNN.mjs
 - [x] Safety and product research (`curriculum/research/safety-sources.md`)
 - [x] Foundations: README, `_sidebar.md`, glossary, templates, references (materials, safety, sources), writing guide
 - [x] Example lesson 01.1
-- [ ] M1 Tools, Materials and Safety
+- [x] M1 Tools, Materials and Safety
 - [ ] M2 Brush Control
 - [ ] M3 Color and Symmetry
 - [ ] M4 First Designs (+ P1-P5)
@@ -44,7 +44,7 @@ Tools: `curriculum/tools/lib/` (geom, face, art, figure, sheet), `assets-mNN.mjs
 
 ## Working now
 
-- Agent A: M1 (01.2-01.5, module quiz). Agent B: M2. Main session: waits, then merges inboxes, checks, commits.
+- Agent A: M3. Agent B: M2. Main session: merges inboxes, checks, commits after each module.
 
 ## Decisions during the build
 
