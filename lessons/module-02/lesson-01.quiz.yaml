@@ -1,0 +1,50 @@
+- id: q1
+  question: >-
+    Every stroke you paint starts with a round blob before it thins out. What is the most likely
+    cause?
+  options:
+    - The paint is too dry, so it clumps at the start.
+    - You press the brush down before it starts to move.
+    - Your brush is too small for this kind of stroke.
+    - You are pulling the brush toward you instead of away.
+  correct: 1
+  explanation: >-
+    Pressing while the brush stands still leaves a blob. Touch with the tip only and start moving at
+    once, then press while you pull.
+- id: q2
+  question: >-
+    Your lines wobble, even though the paint is the right wetness. What should you change first?
+  options:
+    - Hold the brush closer to the hairs for more control.
+    - Paint more slowly so you can correct the line as you go.
+    - Use more water so the brush glides more easily.
+    - Rest your little finger on the paper and paint faster.
+  correct: 3
+  explanation: >-
+    A resting finger steadies the hand and a steady, confident speed gives a smooth line. Slow
+    strokes with a floating hand wobble.
+- id: q3
+  question: >-
+    After loading, you see paint up to the metal part of the brush. What does that mean?
+  options:
+    - Too much paint; wipe it and load only the front half.
+    - The brush is loaded well and will paint a long, even line.
+    - The paint is too dry and needs more water before you paint.
+    - The brush is the wrong shape for pressure strokes.
+  correct: 0
+  explanation: >-
+    Paint belongs on the front half of the hairs. Paint at the metal part makes blobs and drips and
+    is hard to wash out.
+- id: q4
+  question: >-
+    You want one stroke that goes thin, then thick, then thin. How do you do it with a single round
+    brush?
+  options:
+    - Paint a thin line, then go over the middle a second time.
+    - Use the flat brush for the middle and the round brush for the ends.
+    - Touch with the tip, press while pulling, then lift.
+    - Load extra paint so the middle spreads out on its own.
+  correct: 2
+  explanation: >-
+    Pressure changes the width: the tip makes thin lines and pressing spreads the belly wide. The
+    brush keeps moving the whole time.

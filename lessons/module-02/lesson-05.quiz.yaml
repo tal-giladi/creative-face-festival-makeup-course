@@ -1,0 +1,61 @@
+- id: q1
+  question: >-
+    A long curved stroke across your knuckles keeps skipping and breaking. What should you do?
+  options:
+    - Press harder so the brush reaches into the dips.
+    - Use more water so the paint flows over the bumps.
+    - Bend your fingers into a fist to make the skin rounder.
+    - Paint short strokes on flat parts, joined at thin ends.
+  correct: 3
+  explanation: >-
+    Skin curves over bones, and a long stroke skips over the bumps. Short strokes joined at their
+    thin ends look like one line.
+- id: q2
+  question: >-
+    Your strokes were smooth on paper but wobble on your own hand. What is the most likely fix?
+  options:
+    - Lay the hand flat and rest your little finger on it.
+    - Switch to a bigger brush, which wobbles less on skin.
+    - Paint faster and hold the brush right next to the hairs.
+    - Wet the skin first so the brush glides more easily.
+  correct: 0
+  explanation: >-
+    On skin both hands can move. A flat, resting hand and a resting little finger keep everything
+    steady.
+- id: q3
+  question: >-
+    You paint your face for the first time with ordinary water-activated face paint. Where do you
+    start?
+  options:
+    - Around the eyes, because the design will look best there.
+    - On the eyelids, since the skin there is thin and smooth.
+    - On the cheek or forehead, the flattest parts of the face.
+    - On the lips, because the shape is already outlined.
+  correct: 2
+  explanation: >-
+    The cheeks and forehead are flat and easy. The eye area needs products labeled for it and comes
+    later; keep paint out of the eyes and mouth.
+- id: q4
+  question: >-
+    You have dark brown skin and want your stroke sampler to show clearly in a photo. Which colors
+    are the best choice?
+  options:
+    - Dark brown, navy and black, so the colors look natural.
+    - White, yellow, light blue and pink, for contrast.
+    - Only black, because outlines show on every skin tone.
+    - Any colors, because paint looks the same on all skin.
+  correct: 1
+  explanation: >-
+    Light, bright colors contrast with darker skin and show every stroke. On very light skin, darker
+    colors show better.
+- id: q5
+  question: >-
+    You notice a small scratch on the back of your hand where the sampler should go. What do you do?
+  options:
+    - Paint over it, since face paint is made for skin.
+    - Cover it with a thick layer of white first.
+    - Paint it, but wash it off sooner than usual.
+    - Paint a healthy patch, like your other hand.
+  correct: 3
+  explanation: >-
+    Never paint over broken skin. Choose a healthy patch of skin instead.

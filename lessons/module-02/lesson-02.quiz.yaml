@@ -1,0 +1,50 @@
+- id: q1
+  question: >-
+    Your teardrops come out as round blobs with a tiny stub instead of a tail. What should you
+    change?
+  options:
+    - Add more water so the paint flows into a tail.
+    - Keep pulling while you lift, until the brush leaves the paper.
+    - Press harder at the start so there is more paint to pull into a tail.
+    - Switch to a flat brush, which makes longer tails.
+  correct: 1
+  explanation: >-
+    The tail comes from moving while lifting. If the brush stops and then lifts straight up, you get
+    a blob.
+- id: q2
+  question: >-
+    You paint a flower with round-brush teardrop petals. Which way should each petal point?
+  options:
+    - Head at the center, tail pointing outward to the edge.
+    - Head and tail side by side, around the center.
+    - Head on the outside, tail pointing to the center.
+    - Any way, as long as all petals match.
+  correct: 2
+  explanation: >-
+    Head outside and tail toward the center gives the classic petal shape, and the center dot then
+    covers all the tails.
+- id: q3
+  question: >-
+    Your five-petal flowers always end up with one big gap. What is the best fix?
+  options:
+    - Mark the center and five points before painting any petal.
+    - Paint the petals smaller so they never touch.
+    - Paint the petals one after another clockwise without stopping.
+    - Fill the gap with an extra sixth petal at the end.
+  correct: 0
+  explanation: >-
+    Marking five points first spaces the petals evenly. Painting top, then sides, then bottom keeps
+    the flower balanced.
+- id: q4
+  question: >-
+    You paint petals with a flat brush, but each one ends in a square edge instead of a point.
+    What is happening?
+  options:
+    - The flat brush is too wide for petals of this size.
+    - The paint is too dry to spread into a point.
+    - You need to press harder at the end of the stroke.
+    - You press the edge down but don't lift as you pull.
+  correct: 3
+  explanation: >-
+    A flat-brush petal narrows to a point only if you lift while pulling toward the center. Pressing
+    all the way keeps the full width.

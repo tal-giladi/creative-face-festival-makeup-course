@@ -30,7 +30,7 @@ Tools: `curriculum/tools/lib/` (geom, face, art, figure, sheet), `assets-mNN.mjs
 - [x] Foundations: README, `_sidebar.md`, glossary, templates, references (materials, safety, sources), writing guide
 - [x] Example lesson 01.1
 - [x] M1 Tools, Materials and Safety
-- [ ] M2 Brush Control
+- [x] M2 Brush Control
 - [ ] M3 Color and Symmetry
 - [ ] M4 First Designs (+ P1-P5)
 - [ ] M5 Festival Faces
@@ -59,4 +59,4 @@ Tools: `curriculum/tools/lib/` (geom, face, art, figure, sheet), `assets-mNN.mjs
 
 ## Open questions
 
-- none yet
+- QA: m02-l05-sampler crops the hand so tightly it reads as a brown block; show the whole hand in final QA.

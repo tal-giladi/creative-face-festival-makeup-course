@@ -1,0 +1,48 @@
+- id: q1
+  question: >-
+    Your swirls are small and wobbly, even with good paint. What is the most likely cause?
+  options:
+    - The brush is too big for swirls.
+    - The paint dries before you finish the curve.
+    - You are moving only your fingers instead of your arm.
+    - You are painting too fast for a curved line.
+  correct: 2
+  explanation: >-
+    Finger movements are small and shaky. Moving from the elbow and shoulder, with the little finger
+    gliding, gives smooth curves.
+- id: q2
+  question: >-
+    The second half of every S swirl looks worse than the first, because your wrist has to bend
+    backwards. What should you do?
+  options:
+    - Turn the paper so the second half is the same easy move.
+    - Paint the second half more slowly to control it.
+    - Switch to your other hand for the second half.
+    - Paint the second half with a smaller brush.
+  correct: 0
+  explanation: >-
+    Turning the surface lets you repeat one comfortable move. On a person, you turn your body or ask
+    them to turn their head.
+- id: q3
+  question: >-
+    Your curls end in a round blob at the center. What should you change?
+  options:
+    - Use less water so the paint can't pool at the end.
+    - Start the curl at the center and go outward instead.
+    - Press harder at the start so less paint reaches the end.
+    - Lift the brush slowly as you reach the center.
+  correct: 3
+  explanation: >-
+    A curl is a pressure stroke: it ends thin only if you lift while still moving into the center.
+- id: q4
+  question: >-
+    Your swirl has small bumps along it. You painted it in four short pieces. What is the fix?
+  options:
+    - Go over the bumps with a second coat to hide them.
+    - Load enough paint and paint each curl in one move.
+    - Paint even shorter pieces so each one is more exact.
+    - Use a flat brush, which makes smoother curves.
+  correct: 1
+  explanation: >-
+    Every stop and restart leaves a bump. One loaded brush and one continuous move gives a smooth
+    curl.

@@ -1,0 +1,47 @@
+- id: q1
+  question: >-
+    You want a trail of dots that get smaller and smaller. How do you load the tool?
+  options:
+    - Dip before every dot, a little less deep each time.
+    - Dip once, then dot several times without dipping again.
+    - Dip deeply once, then wipe the tool before each dot.
+    - Use a different, smaller tool for each dot in the trail.
+  correct: 1
+  explanation: >-
+    Each dot uses up some of the paint, so dots from one dip get smaller on their own. That makes a
+    smooth trail.
+- id: q2
+  question: >-
+    Your dots keep getting little tails. What is the most likely cause?
+  options:
+    - The paint is too dry to make round dots.
+    - The tool is too small for the size of dot.
+    - The tool slides a little as it touches or lifts.
+    - You are dipping the tool too deep into the paint.
+  correct: 2
+  explanation: >-
+    A dot is a straight touch: straight down and straight up. Any sliding while the tool touches
+    drags a tail.
+- id: q3
+  question: >-
+    You need a row of dots that are all the same size. What do you do?
+  options:
+    - Dip again before every dot, the same depth each time.
+    - Dip once and press harder on each later dot.
+    - Dip once and make the dots further apart as you go.
+    - Use a brush tip, since brush dots are always even.
+  correct: 0
+  explanation: >-
+    Even dots need the same amount of paint each time, so dip before every dot to the same depth.
+- id: q4
+  question: >-
+    You have no dotting tool. Which item gives you medium-sized round dots?
+  options:
+    - A ballpoint pen with the ink tube taken out.
+    - A toothpick, because its point is very precise.
+    - A craft paint dauber from the art shop.
+    - The round end of a clean brush handle.
+  correct: 3
+  explanation: >-
+    The round end of a brush handle is smooth and washable and makes medium dots. Pens and craft
+    tools are not clean face paint tools, and a sharp point can scratch.

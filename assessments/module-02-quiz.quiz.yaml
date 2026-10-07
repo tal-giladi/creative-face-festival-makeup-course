@@ -1,0 +1,129 @@
+- id: q1
+  question: >-
+    You test a stroke on paper and it leaves a puddle at the start and a drip running down. What do
+    you do before painting the real stroke?
+  options:
+    - Paint the stroke anyway and wipe the drip off afterwards.
+    - Press harder, so the extra paint spreads out evenly.
+    - Blot the brush on a paper towel, reshape the tip and test again.
+    - Add more paint to the brush so the color is stronger.
+  correct: 2
+  explanation: >-
+    A puddle and a drip mean too much water. Blot, bring the brush back to a point and test once more
+    before it touches the design.
+- id: q2
+  question: >-
+    A friend's strokes are all the same width from start to end. They are using a good round brush.
+    What advice helps most?
+  options:
+    - Press down in the middle of the stroke and lift toward the end.
+    - Buy a liner brush, which makes thin and thick lines on its own.
+    - Paint each stroke twice, the second time only in the middle.
+    - Use thicker paint so the middle of the stroke builds up.
+  correct: 0
+  explanation: >-
+    The width of a round-brush stroke comes from pressure: tip for thin, pressed belly for thick.
+    Same pressure all the way gives the same width.
+- id: q3
+  question: >-
+    You paint a five-petal flower with teardrops. Afterwards you can see five thin tails meeting in
+    the middle and it looks messy. What would have prevented this?
+  options:
+    - Painting the petals with the round heads at the center.
+    - Using a flat brush, since flat petals have no tails.
+    - Painting the petals smaller so the tails don't meet.
+    - Tails to the center, hidden under a center dot.
+  correct: 3
+  explanation: >-
+    Petals go head outside, tail to the center. The center dot is painted last and hides where the
+    tails meet.
+- id: q4
+  question: >-
+    Your spirals always come out squashed like eggs. You notice your wrist bends at an awkward angle
+    halfway round. What do you change?
+  options:
+    - Paint smaller spirals, because big ones always get squashed.
+    - Turn the paper as you go round the spiral.
+    - Hold the brush closer to the hairs to get more control.
+    - Paint each spiral in several short pieces instead of one.
+  correct: 1
+  explanation: >-
+    Turning the paper (or your body) keeps every part of the curve a comfortable move. Short pieces
+    would add bumps, and gripping near the hairs makes lines shakier.
+- id: q5
+  question: >-
+    You need a row of white dots of equal size along the edge of a design, and you have no dotting
+    tool. What works best?
+  options:
+    - The tip of the round brush, pressed harder for each dot.
+    - The round end of a clean brush handle, dipped before every dot.
+    - The round end of a brush handle, dipped once for the whole row.
+    - A cotton swab, rolled a little on each dot to make it round.
+  correct: 1
+  explanation: >-
+    A handle end gives round medium dots, and dipping before every dot keeps the size even. Dipping
+    once makes the dots shrink, which is a dot trail.
+- id: q6
+  question: >-
+    Your dot trail goes big, big, small, big, tiny instead of shrinking smoothly. What is the most
+    likely cause?
+  options:
+    - The dots were too close together.
+    - The paint was too thick for dots.
+    - The tool was too small for a trail.
+    - You dipped again partway through the trail.
+  correct: 3
+  explanation: >-
+    A trail shrinks because each dot uses up paint from a single dip. Dipping again in the middle
+    makes the size jump.
+- id: q7
+  question: >-
+    You paint a vine across the back of your hand. The long stroke breaks into pieces where it
+    crosses your knuckles. What is the best fix?
+  options:
+    - Short strokes on the flat parts, joined at thin ends.
+    - Make a fist so the skin over the knuckles stretches flat.
+    - Use more water so the paint runs into the dips.
+    - Paint the same long stroke again over the gaps.
+  correct: 0
+  explanation: >-
+    Skin bends over bones. Short strokes on flatter parts, joined at their thin ends, read as one
+    smooth line.
+- id: q8
+  question: >-
+    You want to try your swirl design on your own face for the first time, using ordinary face paint.
+    Where and how do you start?
+  options:
+    - On the eyelid, because it is the smoothest skin on the face.
+    - Across the whole face, so the swirls look balanced.
+    - On the cheek, in a mirror, little finger on your jaw.
+    - Around the eye, with your eye closed so it is protected.
+  correct: 2
+  explanation: >-
+    The cheek and forehead are the flattest, easiest places. The eye area needs products whose label
+    allows eye use, and comes later in the course.
+- id: q9
+  question: >-
+    Your strokes look great on paper, but on your forearm they wobble and smudge. Which change helps
+    the most?
+  options:
+    - Paint faster and keep your painting hand in the air.
+    - Use a wetter brush so it glides over the skin.
+    - Paint the whole design before letting any part dry.
+    - Rest the arm and rest your little finger on the skin.
+  correct: 3
+  explanation: >-
+    On skin both the surface and your hand can move. Resting the arm and your little finger steadies
+    both; letting parts dry stops smudges.
+- id: q10
+  question: >-
+    You find a small sore on the back of your hand where you planned the stroke sampler. What is the
+    right choice?
+  options:
+    - Paint the sampler on healthy skin, like your other hand or forearm.
+    - Paint over it with a thin layer, since face paint is made for skin.
+    - Cover the sore with white first, then paint the sampler on top.
+    - Paint around it, then take the paint off sooner than usual.
+  correct: 0
+  explanation: >-
+    Never paint over broken or irritated skin. Move the design to a patch of healthy skin instead.

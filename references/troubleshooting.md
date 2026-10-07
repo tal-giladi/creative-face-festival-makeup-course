@@ -29,3 +29,29 @@ stings, itches, swells or turns red, stop and take the paint off first: see the
 | Eyes sting while removing paint | rubbing back and forth or a remover not made for eyes | eyes closed, eye-safe remover, press, then one wipe outward | [01.5](../lessons/module-01/lesson-05.md) |
 | Brush tip bent or splayed | left standing in the water cup | never leave brushes in water; shape the tip and dry flat | [01.5](../lessons/module-01/lesson-05.md) |
 | Sponge smells musty | put away wet | wash after every use and air-dry before storing | [01.5](../lessons/module-01/lesson-05.md) |
+
+## Module 2: Brush Control
+
+| What you see | Likely cause | Try this | Lesson |
+|---|---|---|---|
+| A round blob at the start of a stroke | the brush pressed down before it moved | touch with the tip only and start moving at once | [02.1](../lessons/module-02/lesson-01.md) |
+| Shaky, wobbly lines | painting slowly with the hand floating in the air | rest your little finger and paint a little faster | [02.1](../lessons/module-02/lesson-01.md) |
+| Every stroke is the same width | the same pressure all the way | press in the middle, lift at the end | [02.1](../lessons/module-02/lesson-01.md) |
+| Puddles and drips when painting a stroke | too much water on the brush or cake | blot the brush on a paper towel and test again | [02.1](../lessons/module-02/lesson-01.md) |
+| Pale, streaky strokes | paint too dry or too little paint on the brush | add a drop of water to the cake and load again | [02.1](../lessons/module-02/lesson-01.md) |
+| Teardrop is a blob with no tail | the brush stopped, then lifted straight up | keep pulling while you lift, until the brush leaves the surface | [02.2](../lessons/module-02/lesson-02.md) |
+| Teardrop tail hooks up at the end | flicking the brush sideways | lift straight along the line of the stroke | [02.2](../lessons/module-02/lesson-02.md) |
+| Flower petals are different sizes, with gaps | no plan for the spacing | mark five points first; paint top, then sides, then bottom | [02.2](../lessons/module-02/lesson-02.md) |
+| Petal tails show at the flower center | painting from the center outward | head outside, tail toward the center, then cover with a center dot | [02.2](../lessons/module-02/lesson-02.md) |
+| Small, shaky swirls | moving only the fingers | move from the elbow; practice big spirals in the air first | [02.3](../lessons/module-02/lesson-03.md) |
+| Spirals look squashed or egg-shaped | the wrist bends at an awkward angle | turn the paper after each half turn | [02.3](../lessons/module-02/lesson-03.md) |
+| Bumps along a swirl | painting it in short pieces | load enough paint and paint each curl in one move | [02.3](../lessons/module-02/lesson-03.md) |
+| A curl ends in a blob | pressing at the end instead of lifting | lift slowly as you reach the center | [02.3](../lessons/module-02/lesson-03.md) |
+| Dots have little tails | the tool slid while touching or lifting | touch straight down and lift straight up | [02.4](../lessons/module-02/lesson-04.md) |
+| Dots are random sizes | dipping sometimes and not other times | even dots: dip every time to the same depth; trails: dip once | [02.4](../lessons/module-02/lesson-04.md) |
+| Dots run into each other | paint too wet, dots too close | use a little less water and leave a gap the size of a dot | [02.4](../lessons/module-02/lesson-04.md) |
+| A dot trail jumps from big to small | dipping again in the middle of a trail | finish the trail from one dip | [02.4](../lessons/module-02/lesson-04.md) |
+| A long stroke skips and breaks on the hand | the stroke crosses a knuckle or bone | use short strokes on flat parts, joined at thin ends | [02.5](../lessons/module-02/lesson-05.md) |
+| Lines wobble on skin but not on paper | the skin moves or the painting hand floats | lay the hand flat and rest your little finger on the skin | [02.5](../lessons/module-02/lesson-05.md) |
+| Paint slides or looks streaky on skin | too much water, or oily skin | wash and dry the skin first; use a little less water | [02.5](../lessons/module-02/lesson-05.md) |
+| Your hand moves the wrong way in the mirror | the mirror flips left and right | paint small and slow; start on the easier cheek | [02.5](../lessons/module-02/lesson-05.md) |

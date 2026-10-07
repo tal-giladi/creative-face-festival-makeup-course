@@ -1,0 +1,21 @@
+- A round blob at the start of a stroke | the brush pressed down before it moved | touch with the tip only and start moving at once | 02.1
+- Shaky, wobbly lines | painting slowly with the hand floating in the air | rest your little finger and paint a little faster | 02.1
+- Every stroke is the same width | the same pressure all the way | press in the middle, lift at the end | 02.1
+- Puddles and drips when painting a stroke | too much water on the brush or cake | blot the brush on a paper towel and test again | 02.1
+- Pale, streaky strokes | paint too dry or too little paint on the brush | add a drop of water to the cake and load again | 02.1
+- Teardrop is a blob with no tail | the brush stopped, then lifted straight up | keep pulling while you lift, until the brush leaves the surface | 02.2
+- Teardrop tail hooks up at the end | flicking the brush sideways | lift straight along the line of the stroke | 02.2
+- Flower petals are different sizes, with gaps | no plan for the spacing | mark five points first; paint top, then sides, then bottom | 02.2
+- Petal tails show at the flower center | painting from the center outward | head outside, tail toward the center, then cover with a center dot | 02.2
+- Small, shaky swirls | moving only the fingers | move from the elbow; practice big spirals in the air first | 02.3
+- Spirals look squashed or egg-shaped | the wrist bends at an awkward angle | turn the paper after each half turn | 02.3
+- Bumps along a swirl | painting it in short pieces | load enough paint and paint each curl in one move | 02.3
+- A curl ends in a blob | pressing at the end instead of lifting | lift slowly as you reach the center | 02.3
+- Dots have little tails | the tool slid while touching or lifting | touch straight down and lift straight up | 02.4
+- Dots are random sizes | dipping sometimes and not other times | even dots: dip every time to the same depth; trails: dip once | 02.4
+- Dots run into each other | paint too wet, dots too close | use a little less water and leave a gap the size of a dot | 02.4
+- A dot trail jumps from big to small | dipping again in the middle of a trail | finish the trail from one dip | 02.4
+- A long stroke skips and breaks on the hand | the stroke crosses a knuckle or bone | use short strokes on flat parts, joined at thin ends | 02.5
+- Lines wobble on skin but not on paper | the skin moves or the painting hand floats | lay the hand flat and rest your little finger on the skin | 02.5
+- Paint slides or looks streaky on skin | too much water, or oily skin | wash and dry the skin first; use a little less water | 02.5
+- Your hand moves the wrong way in the mirror | the mirror flips left and right | paint small and slow; start on the easier cheek | 02.5
