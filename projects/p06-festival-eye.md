@@ -3,7 +3,7 @@
 Intermediate · 60 minutes. A bold, symmetrical festival eye: a sharp black wing, a cyan floating
 crease, a magenta-to-violet glow on the brow bone and dots under the brows, framed outside the eye
 area by chevrons and dot trails at the temples and a gem at each tip. It combines the eye designs
-from lesson 05.4 with the dots and geometric lines of Module 7, and keeps every product near the eyes
+from [lesson 05.4](../lessons/module-05/lesson-04.md) with the dots and geometric lines of Module 7, and keeps every product near the eyes
 eye-safe.
 
 ## Finished look

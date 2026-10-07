@@ -123,7 +123,7 @@ then paint over it once.
 Make your **swatch card**: one box for every color you own, each with a swatch (a small filled
 square with the flat brush), a line and a dot with the round brush, and a note "little / some /
 lots" of water. Then sponge one small patch (about 3 x 3 cm) of your favorite color on your
-patch-tested forearm. You will take it off in lesson 01.5, or now with soap and water.
+patch-tested forearm. You will take it off in [lesson 01.5](../module-01/lesson-05.md), or now with soap and water.
 
 You're done when:
 

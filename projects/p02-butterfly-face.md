@@ -17,7 +17,7 @@ each wing blends two or three colors, and white teardrops along the edges catch 
 > The upper wings go over the eyelids. Use only face paint whose label allows use around the eyes,
 > paint the lids with the eyes closed, keep paint off the lash line and use no glitter or gems near
 > the eyes ([lesson 04.3](../lessons/module-04/lesson-03.md)). If your paint is not labeled
-> eye-safe, paint the cheek butterfly from lesson 04.3 instead.
+> eye-safe, paint the cheek butterfly from [lesson 04.3](../lessons/module-04/lesson-03.md) instead.
 
 - Two or three sponge pieces (one per color group), a round brush size 2-4, a thin liner.
 - Face paint: yellow, orange, magenta or pink, purple, black, white; **eye-safe** for the lids.
@@ -50,7 +50,7 @@ finally the full face in a mirror.
 
 ## Variations
 
-- **Blue morpho:** light blue, blue and purple, like lesson 04.3.
+- **Blue morpho:** light blue, blue and purple, like [lesson 04.3](../lessons/module-04/lesson-03.md).
 - **Monarch:** orange wings with thick black edges and rows of white dots in the black.
 - **Half butterfly:** only one upper and one lower wing on one side, with a vine of dots on the other.
 

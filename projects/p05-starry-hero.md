@@ -2,7 +2,7 @@
 
 Beginner+ · 50 minutes. A blue hero mask that fades from light blue to navy, outlined in black, with
 yellow stars on the mask, a big star emblem on the forehead, stars on both cheeks and white sparkles.
-It combines the mask from lesson 04.6 with the stars from lesson 04.2.
+It combines the mask from [lesson 04.6](../lessons/module-04/lesson-06.md) with the stars from [lesson 04.2](../lessons/module-04/lesson-02.md).
 
 ## Finished look
 
@@ -53,9 +53,9 @@ in a mirror.
 
 ## Variations
 
-- **Red hero:** the red mask from lesson 04.6 with a yellow lightning bolt.
+- **Red hero:** the red mask from [lesson 04.6](../lessons/module-04/lesson-06.md) with a yellow lightning bolt.
 - **Galaxy mask:** purple and navy with tiny white dots like stars and a pink glow at the tips.
-- **Royal hero:** add the gold crown from lesson 04.6 above the mask instead of the forehead star.
+- **Royal hero:** add the gold crown from [lesson 04.6](../lessons/module-04/lesson-06.md) above the mask instead of the forehead star.
 
 ## You're done when
 

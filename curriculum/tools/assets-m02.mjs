@@ -344,7 +344,8 @@ const motif = (x, y, k = 1, c1 = P.pink, c2 = P.white) => `<g transform="transla
   + [-50, -90, -130].map((a) => { const h = pol(0, 0, 34, a); return teardrop(h[0], h[1], a + 180, 30, 20, c1); }).join('')
   + dot(0, 4, 8, P.yellow) + dots([[14, 12], [34, 22], [52, 18], [64, 4]], 5, 5, 2, c2) + '</g>';
 const OV = [0, 0, 200, 200];
-const view = (vb, content) => `<svg x="0" y="0" width="200" height="200" viewBox="${vb}">${content}</svg>`;
+const OVS = [0, 0, 200, 314];
+const view = (vb, content, h = 200) => `<svg x="0" y="0" width="200" height="${h}" viewBox="${vb}">${content}</svg>`;
 strip('m02-l05-order', 'Practice in this order. 1: on paper. 2: on the back of your hand. 3: on your inner forearm. 4: on your face in a mirror, on the cheek. The same small design of three teardrops, a center dot and a dot trail is shown on each.', [
   paperPanel(motif(100, 110, 1.2, P.pink, P.purple), OV, '1', 'Paper'),
   paperPanel(view('110 220 180 180', hand(motif(196, 310, 0.9), 'tan')), OV, '2', 'Back of the hand'),
@@ -372,7 +373,7 @@ strip('m02-l05-steady', 'Keep the skin still and your hand steady. 1: lay the ha
 ], { pw: 190 });
 
 // The stroke sampler on the back of the hand, step by step (deep skin, light colors)
-const SH = '122 236 145 145';
+const SH = '70 60 210 330';
 const sRow1 = [0, 1, 2].map((i) => stroke([[150 + i * 32, 262], [162 + i * 32, 256], [176 + i * 32, 262]], { w: 8, color: P.white })).join('');
 const sRow2 = [0, 1, 2, 3].map((i) => teardrop(154 + i * 24, 292, 60, 22, 11, P.yellow)).join('');
 const sRow3 = stroke(curlPts(166, 326, 10, { turns: 1, startDeg: 0, dir: -1, lead: 14 }), { w: 6, color: P.sky })
@@ -380,11 +381,11 @@ const sRow3 = stroke(curlPts(166, 326, 10, { turns: 1, startDeg: 0, dir: -1, lea
 const sRow4 = dots([[150, 356], [180, 352], [210, 356], [244, 352]], 7, 5, 1.6, P.pink);
 const sFlower = `<g transform="translate(166 296) scale(0.3)">${dotFlowerDone}</g>`;
 strip('m02-l05-sampler', 'The stroke sampler on the back of the hand in five steps. 1: three white pressure strokes near the knuckles. 2: a row of yellow teardrops. 3: two light blue curls facing each other. 4: a pink dot trail. Done: a small dot flower between the two curls.', [
-  { ...paperPanel(view(SH, hand(sRow1, 'deep')), OV, '1', 'Pressure strokes'), bg: '#fbf8f4' },
-  { ...paperPanel(view(SH, hand(sRow1 + sRow2, 'deep')), OV, '2', 'Teardrops'), bg: '#fbf8f4' },
-  { ...paperPanel(view(SH, hand(sRow1 + sRow2 + sRow3, 'deep')), OV, '3', 'Curls'), bg: '#fbf8f4' },
-  { ...paperPanel(view(SH, hand(sRow1 + sRow2 + sRow3 + sRow4, 'deep')), OV, '4', 'Dot trail'), bg: '#fbf8f4' },
-  { ...paperPanel(view(SH, hand(sRow1 + sRow2 + sRow3 + sRow4 + sFlower, 'deep')), OV, 'Done', 'Dot flower'), bg: '#fbf8f4' },
+  { ...paperPanel(view(SH, hand(sRow1, 'deep'), 314), OVS, '1', 'Pressure strokes'), bg: '#fbf8f4' },
+  { ...paperPanel(view(SH, hand(sRow1 + sRow2, 'deep'), 314), OVS, '2', 'Teardrops'), bg: '#fbf8f4' },
+  { ...paperPanel(view(SH, hand(sRow1 + sRow2 + sRow3, 'deep'), 314), OVS, '3', 'Curls'), bg: '#fbf8f4' },
+  { ...paperPanel(view(SH, hand(sRow1 + sRow2 + sRow3 + sRow4, 'deep'), 314), OVS, '4', 'Dot trail'), bg: '#fbf8f4' },
+  { ...paperPanel(view(SH, hand(sRow1 + sRow2 + sRow3 + sRow4 + sFlower, 'deep'), 314), OVS, 'Done', 'Dot flower'), bg: '#fbf8f4' },
 ], { pw: 170, gap: 36 });
 
 // Where to start on the face

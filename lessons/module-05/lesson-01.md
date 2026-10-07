@@ -35,7 +35,7 @@ on any skin tone.
 > [!WARNING]
 > Use only patch-tested face paint ([lesson 01.3](../module-01/lesson-03.md)). This lesson gets a
 > "neon look" from ordinary face paint on purpose: real fluorescent (UV, "neon") paints are **never
-> allowed near the eyes** (US FDA), and you will learn where they may go in Module 6. The design here
+> allowed near the eyes** (US FDA), and you will learn where they may go in [lesson 06.4](../module-06/lesson-04.md). The design here
 > sits above the brows, on the temples and on the cheekbones. If any part comes close to the eyes,
 > use only paint whose label allows eye-area use.
 

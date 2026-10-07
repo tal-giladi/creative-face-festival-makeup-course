@@ -90,10 +90,10 @@ The plan turns into paint in the same order as always: big to small, light to da
 
 1. **Theme.** Write two or three words on the `mood-palette` planner. Add three mood words (calm, wild, royal…).
 2. **Features.** List 3-5 key features. Next to each, draw the real thing small, then the brush shape it becomes.
-3. **Palette.** Pick a palette type from lesson 03.5 and fill the main, second and accent circles.
+3. **Palette.** Pick a palette type from [lesson 03.5](../module-03/lesson-05.md) and fill the main, second and accent circles.
 4. **Thumbnails.** On the `idea-thumbnails` sheet, sketch the idea three ways, 3-5 minutes each. Use colored pencils, not paint.
 5. **Distance test.** Prop the sheet up about three meters away, or photograph it and look at the photo small. Tick "reads from 3 m" for each.
-6. **Choose.** Keep the clearest one. If two are close, pick the one with one big **star zone** (lesson 07.4).
+6. **Choose.** Keep the clearest one. If two are close, pick the one with one big **star zone** ([lesson 07.4](../module-07/lesson-04.md)).
 7. **Place it.** Draw the winner on the `face-map`: center line first, then mirror it if it is symmetrical. Mark the eye area.
 8. **Write the plan** with the [Design plan](../../templates/design-plan.md): parts, palette, order of work, products.
 

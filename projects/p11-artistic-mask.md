@@ -1,6 +1,6 @@
 # Project 11 · Artistic mask
 
-Advanced · 120 minutes. A royal masquerade mask in plum and gold: shaded so it looks lifted off the face, edged with white lace, covered in fine gold filigree, with painted feathers sweeping up from one temple and jewels at the tips. It brings together lesson 09.2 with the 3D shading and lace of Module 8.
+Advanced · 120 minutes. A royal masquerade mask in plum and gold: shaded so it looks lifted off the face, edged with white lace, covered in fine gold filigree, with painted feathers sweeping up from one temple and jewels at the tips. It brings together [lesson 09.2](../lessons/module-09/lesson-02.md) with the 3D shading and lace of Module 8.
 
 ## Finished look
 
@@ -63,11 +63,11 @@ hand before you start on your face.
 
 - **Black and gold:** a black-to-charcoal mask with gold filigree and white lace; striking on every
   skin tone.
-- **Ocean mask:** teal to navy with silver filigree and pearl gems; the scales of lesson 09.3 on the
+- **Ocean mask:** teal to navy with silver filigree and pearl gems; the scales of [lesson 09.3](../lessons/module-09/lesson-03.md) on the
   temple tips.
 - **Half mask:** only the right side, sweeping up into big feathers; the left side bare with a small
   filigree echo above the brow.
-- **Different shape:** the cat-eye, butterfly or swept-up shapes from lesson 09.2.
+- **Different shape:** the cat-eye, butterfly or swept-up shapes from [lesson 09.2](../lessons/module-09/lesson-02.md).
 
 ## You're done when
 

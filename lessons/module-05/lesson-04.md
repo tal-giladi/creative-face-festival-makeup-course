@@ -67,7 +67,7 @@ where:
 
 - **Eye area:** only products whose label allows eye-area use. No neon, UV or glow-in-the-dark paint,
   and no glitter for beginners: flakes can fall into the eye and scratch it, especially with contact
-  lenses. Save neon and glitter for outside the eye area (Module 6).
+  lenses. Save neon and glitter for outside the eye area ([lesson 06.2](../module-06/lesson-02.md), [lesson 06.4](../module-06/lesson-04.md)).
 - **Lash line:** eye-safe liner along the base of the lashes, on the outside only.
 - **Waterline:** nothing. Makeup on the wet rim of the lid can block the tiny oil glands there and
   irritate the eye.
@@ -121,7 +121,7 @@ Always check your design both ways in the mirror before you set it.
    of the lid out to the wing. Both eyes.
 7. **Brow-bone color or dots:** dab soft color under the brow with a sponge, or place dots along the
    curve of the brow. Both eyes.
-8. **Check eyes open and closed**, step back, then set the face as in lesson 05.2 with your eyes
+8. **Check eyes open and closed**, step back, then set the face as in [lesson 05.2](../module-05/lesson-02.md) with your eyes
    closed.
 
 ## Practice exercise

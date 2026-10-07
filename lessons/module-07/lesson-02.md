@@ -41,7 +41,7 @@ four geometric shapes, and place a symmetrical geometric design on the face map.
 |---|---|---|---|---|
 | Liner brush | Thin, even straight lines | Synthetic liner or round, size 0-1 | A size 1-2 synthetic watercolor brush with a sharp point | Spring back to a sharp point and hold enough paint for a short stroke |
 | Flat or round brush | Filling triangles and diamonds | Synthetic flat, 6-10 mm, or round size 4 | A small concealer brush | Have a clean edge or point for crisp corners |
-| Face paint | Color fills, black lines, white dots | Your bold palette (lesson 05.1) plus black and white | Kids' face paint | Be face paint; black mixed like ink for lines |
+| Face paint | Color fills, black lines, white dots | Your bold palette ([lesson 05.1](../module-05/lesson-01.md)) plus black and white | Kids' face paint | Be face paint; black mixed like ink for lines |
 | Light sketching color | Anchor dots | A light face paint with a fine brush | A white or light brown cosmetic pencil | Be a cosmetic, never a pen or marker |
 | Guide sheet | Practice | `geometric-guides` from [labs/module-07](../../labs/module-07/) | `festival-face-map` from [labs/module-05](../../labs/module-05/), or an oval with a center line and brow line | Show the center line and eye area |
 | Paper | Shape drills | Plain or printer paper | The back of a cereal box | Be smooth |

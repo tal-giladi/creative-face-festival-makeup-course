@@ -91,7 +91,7 @@ ways.
 
 ![Where neon may go, on a tan-skin face map. Green zones: the forehead above the brows, the temples outside the eye area, the cheeks, the chin and jaw. Red hatched zone: the whole eye area from the brows to the skin under the eyes, where no neon, UV or glow-in-the-dark paint goes. Near the eyes: ordinary eye-safe colors only.](../../assets/m06-l04-where-neon.svg)
 
-The neon eye area (brows included) is larger than the glitter no-go zone in lesson 06.2.
+The neon eye area (brows included) is larger than the glitter no-go zone in [lesson 06.2](../module-06/lesson-02.md).
 
 ![Three neon labels. Label A, neon UV face and body paint, a cosmetic labeled do not use in the eye area: face, not eyes. Label B, UV body paint, a cosmetic for body use only: body only. Label C, UV neon paint sold as Special FX, not a cosmetic, for paper, fabric and props: never on skin.](../../assets/m06-l04-labels.svg)
 

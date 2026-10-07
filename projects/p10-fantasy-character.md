@@ -1,6 +1,6 @@
 # Project 10 · Fantasy character
 
-Advanced · 120 minutes. An emerald dragon: shimmering scales that grow out of the skin from the forehead around the temples and down the cheeks, gold horns with real 3D shading, a crest of spikes down the center and a sharp eye-safe liner flick. It uses the character method of lesson 09.3 and the blends, 3D shapes and scales of Module 8.
+Advanced · 120 minutes. An emerald dragon: shimmering scales that grow out of the skin from the forehead around the temples and down the cheeks, gold horns with real 3D shading, a crest of spikes down the center and a sharp eye-safe liner flick. It uses the character method of [lesson 09.3](../lessons/module-09/lesson-03.md) and the blends, 3D shapes and scales of Module 8.
 
 ## Finished look
 
@@ -57,7 +57,7 @@ Substitutes for everything are in [Materials and substitutes](../references/mate
 
 Trace the scale area, horns and crest on the `fantasy-character` sheet in a sheet protector, and
 paint the whole dragon once on the plastic. Practice a 6 x 6 cm patch of scales on paper first (the
-textures from lesson 09.3), then on your forearm. Then paint the face in a mirror.
+textures from [lesson 09.3](../lessons/module-09/lesson-03.md)), then on your forearm. Then paint the face in a mirror.
 
 ## Variations
 

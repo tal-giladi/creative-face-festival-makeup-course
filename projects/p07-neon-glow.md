@@ -2,7 +2,7 @@
 
 Intermediate · 60 minutes. A festival face that glows under a black light: neon ribbons that sweep
 from the cheeks up toward the ears, a neon sun-burst on the forehead and glowing dot trails at the
-temples, with ordinary eye-safe color near the eyes. It combines the neon rules from lesson 06.4 with
+temples, with ordinary eye-safe color near the eyes. It combines the neon rules from [lesson 06.4](../lessons/module-06/lesson-04.md) with
 the bold color and layouts of Module 5.
 
 ## Finished look

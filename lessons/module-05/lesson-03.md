@@ -31,7 +31,7 @@ complete layouts on the face map.
 > [!WARNING]
 > Every layout here stays outside the eye area (the dotted ovals on the festival face map). If a
 > design comes onto the brow bone or near the eyes, use only paint whose label allows eye-area use,
-> and keep it off the lids and lash line: lesson 05.4 shows how. Use only patch-tested face paint
+> and keep it off the lids and lash line: [lesson 05.4](../module-05/lesson-04.md) shows how. Use only patch-tested face paint
 > ([lesson 01.3](../module-01/lesson-03.md)).
 
 | Item | What it does here | Ideal | Cheaper or easier to find | It must… |
@@ -132,7 +132,7 @@ temple". It is true on both sides, so the two sides mirror correctly.
 ## Mini-project
 
 Paint **three festival layouts** on the `festival-layouts` sheet: A temple arcs, B cheekbone line and
-C crown. Use your palette from lesson 05.1, sketch each one lightly first, and paint element by
+C crown. Use your palette from [lesson 05.1](../module-05/lesson-01.md), sketch each one lightly first, and paint element by
 element on both sides. Use the fourth face to design your own layout from two or three zones. Then
 paint your favorite on your face in a mirror.
 

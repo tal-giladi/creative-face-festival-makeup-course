@@ -49,7 +49,7 @@ For your own design, follow the loop of [lesson 09.4](../lessons/module-09/lesso
 2. **References.** Three or four pictures; write the one idea you take from each on the
    `mood-palette` planner.
 3. **Features, shapes and color story.** 3-5 features as simple shapes
-   ([lesson 09.1](../lessons/module-09/lesson-01.md)), a palette from lesson 03.5 and three mood words.
+   ([lesson 09.1](../lessons/module-09/lesson-01.md)), a palette from [lesson 03.5](../lessons/module-03/lesson-05.md) and three mood words.
 4. **Thumbnails.** At least three on the `idea-thumbnails` sheet; distance test; choose one.
 5. **Plan.** Place it on the `face-map`; fill in the Design plan with parts, order of work and the
    products check. Mark the eye area.
@@ -75,8 +75,8 @@ smooth, then on the forearm.
 - **Symmetrical version:** mirror your one-sided design (or the other way round) and see which reads
   better.
 - **Character version:** turn your design into a character with horns, wings or leaves from
-  lesson 09.3.
-- **Mask version:** build your design into a masquerade mask shape from lesson 09.2.
+  [lesson 09.3](../lessons/module-09/lesson-03.md).
+- **Mask version:** build your design into a masquerade mask shape from [lesson 09.2](../lessons/module-09/lesson-02.md).
 
 ## You're done when
 

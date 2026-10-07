@@ -41,7 +41,7 @@ rubbing, where glitter looks best on a face, and how to take it all off again cl
 
 | Item | What it does here | Ideal | Cheaper or easier to find | The substitute must… |
 |---|---|---|---|---|
-| Cosmetic glitter | The sparkle | Cosmetic or bio glitter from your kit (lesson 06.1) | A ready-made cosmetic glitter gel (base and glitter in one) | Be sold for skin, patch-tested |
+| Cosmetic glitter | The sparkle | Cosmetic or bio glitter from your kit ([lesson 06.1](../module-06/lesson-01.md)) | A ready-made cosmetic glitter gel (base and glitter in one) | Be sold for skin, patch-tested |
 | Glitter base | Holds the glitter | Cosmetic glitter gel or glitter glue | Plain, fragrance-free aloe vera gel; on the body, a very thin layer of petroleum jelly | Be a skin product that washes off; never school glue or craft glue |
 | Small flat or synthetic brush | Spreads base, presses glitter | A small flat synthetic brush | A clean fingertip | Be clean and used only for cosmetics |
 | Fluffy brush | Taps off loose flakes | A clean, soft powder brush | A clean, dry makeup sponge | Be soft and clean |

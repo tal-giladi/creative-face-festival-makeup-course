@@ -151,7 +151,7 @@ glitter, one bio glitter, one craft glitter. The craft listing usually has no in
 Set up **your glitter kit** for Module 6: one cosmetic glitter (bio glitter if you can find it), one
 glitter base, and a small bag or box to keep them in, away from small children. Move all craft
 glitter to the craft drawer. Patch-test the glitter and base together today, so you are ready for
-lesson 06.2 in two days.
+[lesson 06.2](../module-06/lesson-02.md) in two days.
 
 You're done when:
 

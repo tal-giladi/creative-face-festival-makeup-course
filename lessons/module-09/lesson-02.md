@@ -40,7 +40,7 @@ Advanced · 80 minutes. A masquerade mask is the most elegant thing you can pain
 | Item | What it does here | Ideal | Cheaper or easier to find | The substitute must… |
 |---|---|---|---|---|
 | Face paint | Mask color, shading, lace | **Eye-safe** face paint: a mid color, its dark shade, white, black | A face paint set whose label allows the eye area | Be face paint, eye-safe, patch-tested |
-| Gold | Filigree | Metallic gold face paint labeled for the eye area | Yellow face paint with an orange line beside it (lesson 04.6) | Be face paint; metallic only if labeled for skin |
+| Gold | Filigree | Metallic gold face paint labeled for the eye area | Yellow face paint with an orange line beside it ([lesson 04.6](../module-04/lesson-06.md)) | Be face paint; metallic only if labeled for skin |
 | Sponge | Base and shading | Face-painting sponge, cut to a small wedge | Makeup wedge sponge | Be soft, new, one per person |
 | Liner brush, size 0-1 | Filigree, lace, outlines | Synthetic face-painting liner | The tip of a size 2 round | Make a hair-thin line and hold a point |
 | Round brush, size 3-4 | Edges, fills, 3D shading | Synthetic round | Synthetic watercolor brush | Spring back to a point |

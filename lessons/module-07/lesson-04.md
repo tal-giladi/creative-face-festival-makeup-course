@@ -46,14 +46,14 @@ It is the module's final practical.
 | Item | What it does here | Ideal | Cheaper or easier to find | It must… |
 |---|---|---|---|---|
 | Design plan | Brief, palette, sketch, order | `festival-look-plan` from [labs/module-07](../../labs/module-07/) | The [Design plan](../../templates/design-plan.md) template in a notebook | Have room for a sketch and the order of work |
-| Face paint | The design | Your bold palette (lesson 05.1) plus black and white | Kids' face paint | Be face paint; UV paint only if labeled for skin |
+| Face paint | The design | Your bold palette ([lesson 05.1](../module-05/lesson-01.md)) plus black and white | Kids' face paint | Be face paint; UV paint only if labeled for skin |
 | Brushes, sponge, dotting tools | Bands, lines, dots | Round size 3-4, liner size 0-1, a dotting tool, a sponge | Synthetic art brushes, a brush handle, a makeup sponge | Be clean and used only for face paint |
-| Prep and setting | Long wear | Gentle cleanser, light moisturizer, setting spray | Mild soap; translucent powder instead of spray | Be made for skin (lesson 05.2) |
+| Prep and setting | Long wear | Gentle cleanser, light moisturizer, setting spray | Mild soap; translucent powder instead of spray | Be made for skin ([lesson 05.2](../module-05/lesson-02.md)) |
 | Eye makeup | Liner and mascara | Your own eye-safe liner and mascara | A black eye pencil | Be labeled for the eyes, your own, in date |
 | Cosmetic glitter and gems | Sparkle, last | Cosmetic glitter with a glitter gel; self-adhesive face gems | Glitter gel only; latex-free lash glue for loose gems | Be sold for skin (Module 6) |
 | UV torch (optional) | Checking UV paint | A small 365 nm UV torch | Skip it and check UV at the event | Never point at eyes |
 | Phone | Photos | Phone camera with a timer | A friend's photo | Take photos in daylight |
-| Touch-up kit | Fixes during the day | The kit from lesson 05.2 | A zip bag with tissues and a mini palette | Stay in the shade |
+| Touch-up kit | Fixes during the day | The kit from [lesson 05.2](../module-05/lesson-02.md) | A zip bag with tissues and a mini palette | Stay in the shade |
 
 The full list is in [Materials and substitutes](../../references/materials.md) and the rules in the
 [safety guide](../../references/safety.md).

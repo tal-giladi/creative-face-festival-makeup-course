@@ -73,7 +73,7 @@ palette. Practice the swirl bands on the `wave-drill` sheet and the mandala on t
 - **UV trance:** the same design with UV face paint on the swirls, mandala and chevrons only; the eye
   area keeps ordinary eye-safe makeup and stays dark under black light.
 - **Geometric trance:** replace the swirls with mirrored triangles and a diamond on the third eye
-  from lesson 07.2.
+  from [lesson 07.2](../lessons/module-07/lesson-02.md).
 - **Glitter trance:** cosmetic glitter on the outer swirl band at the temples (Module 6 rules).
 
 ## You're done when

@@ -59,5 +59,3 @@ Tools: `curriculum/tools/lib/` (geom, face, art, figure, sheet), `assets-mNN.mjs
 
 ## Open questions
 
-- QA: turn plain-text "Module 6" mentions in 05.1 and 05.4 into links.
-- QA: m02-l05-sampler crops the hand so tightly it reads as a brown block; show the whole hand in final QA.

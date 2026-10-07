@@ -47,7 +47,7 @@ patch test on your own arm, learn to read it, and set up a clean place to paint.
 
 | Item | What it does here | Ideal | Cheaper or easier to find | It must… |
 |---|---|---|---|---|
-| The products to test | What you are checking | Every new face paint, glitter gel or glue you plan to use | Start with your main palette | Be sold for skin (lesson 01.2) |
+| The products to test | What you are checking | Every new face paint, glitter gel or glue you plan to use | Start with your main palette | Be sold for skin ([lesson 01.2](../module-01/lesson-02.md)) |
 | Mild soap and water | Clean skin and hands | Fragrance-free hand soap | Any mild soap | Be gentle; rinse off fully |
 | Clean brush or cotton bud | Put a spot of paint on | Your round brush, washed | A cotton bud (Q-tip) | Be clean and used only for face paint |
 | Patch test log | Write down what you tested and what happened | The [patch test log](../../templates/patch-test-log.md) | A page in a notebook | Have the date and the product name |

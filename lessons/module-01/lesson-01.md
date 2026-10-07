@@ -103,7 +103,7 @@ Test all your paint colors and brushes on paper (15 minutes).
 4. With the flat brush, paint one small square of white and one of black.
 
 Stop when every color has a line. If a line is pale or streaky, note "needs less water" or "needs
-two layers" next to it. You will fix this in lesson 01.4.
+two layers" next to it. You will fix this in [lesson 01.4](../module-01/lesson-04.md).
 
 ## Mini-project
 
