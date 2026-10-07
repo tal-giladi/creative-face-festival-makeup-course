@@ -26,9 +26,9 @@ Tools: `curriculum/tools/lib/` (geom, face, art, figure, sheet), `assets-mNN.mjs
 - [x] Decisions: Level 4 is an optional final module (Tal, 2026-10-07); repo created and pushed by Claude
 - [x] Tooling: drawing library (face, strokes, sponge, glitter, gems, step strips), sheet writer
 - [x] Common printables (`labs/common`, 10 templates x A4/Letter x PDF/SVG)
-- [ ] Safety and product research (`curriculum/research/safety-sources.md`)
-- [ ] Foundations: README, `_sidebar.md`, glossary, templates, references (materials, safety, sources), writing guide
-- [ ] Example lesson 01.1
+- [x] Safety and product research (`curriculum/research/safety-sources.md`)
+- [x] Foundations: README, `_sidebar.md`, glossary, templates, references (materials, safety, sources), writing guide
+- [x] Example lesson 01.1
 - [ ] M1 Tools, Materials and Safety
 - [ ] M2 Brush Control
 - [ ] M3 Color and Symmetry
@@ -44,7 +44,7 @@ Tools: `curriculum/tools/lib/` (geom, face, art, figure, sheet), `assets-mNN.mjs
 
 ## Working now
 
-- Main session: foundations.
+- Agent A: M1 (01.2-01.5, module quiz). Agent B: M2. Main session: waits, then merges inboxes, checks, commits.
 
 ## Decisions during the build
 

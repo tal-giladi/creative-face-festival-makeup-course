@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="215.9mm" height="279.4mm" viewBox="0 0 215.9 279.4">
+<title>Paint consistency test</title>
+<rect width="215.9" height="279.4" fill="#fff"/>
+<text x="12" y="16" font-family="Helvetica,Arial,sans-serif" font-size="4.6" fill="#1f2a44" text-anchor="start" font-weight="700">Paint consistency test</text>
+<text x="12" y="21.5" font-family="Helvetica,Arial,sans-serif" font-size="3" fill="#9aa1ad" text-anchor="start">For each color paint three short lines: too wet, just right, too dry. Lesson 01.4.</text>
+<text x="151.9" y="16" font-family="Helvetica,Arial,sans-serif" font-size="3" fill="#9aa1ad" text-anchor="end">Name:</text>
+<line x1="153.9" y1="16.6" x2="203.9" y2="16.6" stroke="#c9ced6" stroke-width="0.25"/>
+<line x1="12" y1="269.4" x2="112" y2="269.4" stroke="#9aa1ad" stroke-width="0.35"/>
+<line x1="12" y1="267.2" x2="12" y2="269.4" stroke="#9aa1ad" stroke-width="0.3"/>
+<line x1="22" y1="268.2" x2="22" y2="269.4" stroke="#9aa1ad" stroke-width="0.3"/>
+<line x1="32" y1="268.2" x2="32" y2="269.4" stroke="#9aa1ad" stroke-width="0.3"/>
+<line x1="42" y1="268.2" x2="42" y2="269.4" stroke="#9aa1ad" stroke-width="0.3"/>
+<line x1="52" y1="268.2" x2="52" y2="269.4" stroke="#9aa1ad" stroke-width="0.3"/>
+<line x1="62" y1="267.2" x2="62" y2="269.4" stroke="#9aa1ad" stroke-width="0.3"/>
+<line x1="72" y1="268.2" x2="72" y2="269.4" stroke="#9aa1ad" stroke-width="0.3"/>
+<line x1="82" y1="268.2" x2="82" y2="269.4" stroke="#9aa1ad" stroke-width="0.3"/>
+<line x1="92" y1="268.2" x2="92" y2="269.4" stroke="#9aa1ad" stroke-width="0.3"/>
+<line x1="102" y1="268.2" x2="102" y2="269.4" stroke="#9aa1ad" stroke-width="0.3"/>
+<line x1="112" y1="267.2" x2="112" y2="269.4" stroke="#9aa1ad" stroke-width="0.3"/>
+<text x="115" y="270.2" font-family="Helvetica,Arial,sans-serif" font-size="2.5" fill="#9aa1ad" text-anchor="start">Must measure 10 cm. If not, print at 100% ("Actual size").</text>
+<rect x="12" y="29" width="191.9" height="9" fill="#f1f3f5"/>
+<text x="14" y="35" font-family="Helvetica,Arial,sans-serif" font-size="2.9" fill="#1f2a44" text-anchor="start" font-weight="700">Color</text>
+<line x1="42.7" y1="29" x2="42.7" y2="247.4" stroke="#c9ced6" stroke-width="0.25"/>
+<text x="44.7" y="35" font-family="Helvetica,Arial,sans-serif" font-size="2.9" fill="#1f2a44" text-anchor="start" font-weight="700">Too wet</text>
+<line x1="88.76" y1="29" x2="88.76" y2="247.4" stroke="#c9ced6" stroke-width="0.25"/>
+<text x="90.76" y="35" font-family="Helvetica,Arial,sans-serif" font-size="2.9" fill="#1f2a44" text-anchor="start" font-weight="700">Just right</text>
+<line x1="134.82" y1="29" x2="134.82" y2="247.4" stroke="#c9ced6" stroke-width="0.25"/>
+<text x="136.82" y="35" font-family="Helvetica,Arial,sans-serif" font-size="2.9" fill="#1f2a44" text-anchor="start" font-weight="700">Too dry</text>
+<line x1="180.87" y1="29" x2="180.87" y2="247.4" stroke="#c9ced6" stroke-width="0.25"/>
+<text x="182.87" y="35" font-family="Helvetica,Arial,sans-serif" font-size="2.9" fill="#1f2a44" text-anchor="start" font-weight="700">Drops</text>
+<line x1="12" y1="38" x2="203.9" y2="38" stroke="#c9ced6" stroke-width="0.25"/>
+<line x1="12" y1="67.91" x2="203.9" y2="67.91" stroke="#c9ced6" stroke-width="0.25"/>
+<line x1="12" y1="97.83" x2="203.9" y2="97.83" stroke="#c9ced6" stroke-width="0.25"/>
+<line x1="12" y1="127.74" x2="203.9" y2="127.74" stroke="#c9ced6" stroke-width="0.25"/>
+<line x1="12" y1="157.66" x2="203.9" y2="157.66" stroke="#c9ced6" stroke-width="0.25"/>
+<line x1="12" y1="187.57" x2="203.9" y2="187.57" stroke="#c9ced6" stroke-width="0.25"/>
+<line x1="12" y1="217.49" x2="203.9" y2="217.49" stroke="#c9ced6" stroke-width="0.25"/>
+<line x1="12" y1="247.4" x2="203.9" y2="247.4" stroke="#c9ced6" stroke-width="0.25"/>
+<line x1="12" y1="29" x2="203.9" y2="29" stroke="#c9ced6" stroke-width="0.25"/>
+<line x1="12" y1="29" x2="12" y2="247.4" stroke="#c9ced6" stroke-width="0.25"/>
+<line x1="203.9" y1="29" x2="203.9" y2="247.4" stroke="#c9ced6" stroke-width="0.25"/>
+<line x1="46.54" y1="52.96" x2="84.92" y2="52.96" stroke="#e3e6eb" stroke-width="0.2" stroke-dasharray="1.2 1.2"/>
+<line x1="92.6" y1="52.96" x2="130.98" y2="52.96" stroke="#e3e6eb" stroke-width="0.2" stroke-dasharray="1.2 1.2"/>
+<line x1="138.65" y1="52.96" x2="177.03" y2="52.96" stroke="#e3e6eb" stroke-width="0.2" stroke-dasharray="1.2 1.2"/>
+<line x1="46.54" y1="82.87" x2="84.92" y2="82.87" stroke="#e3e6eb" stroke-width="0.2" stroke-dasharray="1.2 1.2"/>
+<line x1="92.6" y1="82.87" x2="130.98" y2="82.87" stroke="#e3e6eb" stroke-width="0.2" stroke-dasharray="1.2 1.2"/>
+<line x1="138.65" y1="82.87" x2="177.03" y2="82.87" stroke="#e3e6eb" stroke-width="0.2" stroke-dasharray="1.2 1.2"/>
+<line x1="46.54" y1="112.79" x2="84.92" y2="112.79" stroke="#e3e6eb" stroke-width="0.2" stroke-dasharray="1.2 1.2"/>
+<line x1="92.6" y1="112.79" x2="130.98" y2="112.79" stroke="#e3e6eb" stroke-width="0.2" stroke-dasharray="1.2 1.2"/>
+<line x1="138.65" y1="112.79" x2="177.03" y2="112.79" stroke="#e3e6eb" stroke-width="0.2" stroke-dasharray="1.2 1.2"/>
+<line x1="46.54" y1="142.7" x2="84.92" y2="142.7" stroke="#e3e6eb" stroke-width="0.2" stroke-dasharray="1.2 1.2"/>
+<line x1="92.6" y1="142.7" x2="130.98" y2="142.7" stroke="#e3e6eb" stroke-width="0.2" stroke-dasharray="1.2 1.2"/>
+<line x1="138.65" y1="142.7" x2="177.03" y2="142.7" stroke="#e3e6eb" stroke-width="0.2" stroke-dasharray="1.2 1.2"/>
+<line x1="46.54" y1="172.61" x2="84.92" y2="172.61" stroke="#e3e6eb" stroke-width="0.2" stroke-dasharray="1.2 1.2"/>
+<line x1="92.6" y1="172.61" x2="130.98" y2="172.61" stroke="#e3e6eb" stroke-width="0.2" stroke-dasharray="1.2 1.2"/>
+<line x1="138.65" y1="172.61" x2="177.03" y2="172.61" stroke="#e3e6eb" stroke-width="0.2" stroke-dasharray="1.2 1.2"/>
+<line x1="46.54" y1="202.53" x2="84.92" y2="202.53" stroke="#e3e6eb" stroke-width="0.2" stroke-dasharray="1.2 1.2"/>
+<line x1="92.6" y1="202.53" x2="130.98" y2="202.53" stroke="#e3e6eb" stroke-width="0.2" stroke-dasharray="1.2 1.2"/>
+<line x1="138.65" y1="202.53" x2="177.03" y2="202.53" stroke="#e3e6eb" stroke-width="0.2" stroke-dasharray="1.2 1.2"/>
+<line x1="46.54" y1="232.44" x2="84.92" y2="232.44" stroke="#e3e6eb" stroke-width="0.2" stroke-dasharray="1.2 1.2"/>
+<line x1="92.6" y1="232.44" x2="130.98" y2="232.44" stroke="#e3e6eb" stroke-width="0.2" stroke-dasharray="1.2 1.2"/>
+<line x1="138.65" y1="232.44" x2="177.03" y2="232.44" stroke="#e3e6eb" stroke-width="0.2" stroke-dasharray="1.2 1.2"/>
+<text x="12" y="253.4" font-family="Helvetica,Arial,sans-serif" font-size="2.8" fill="#1f2a44" text-anchor="start">Just right = like melted ice cream: the line is solid, smooth and dries in a minute without cracking.</text>
+</svg>

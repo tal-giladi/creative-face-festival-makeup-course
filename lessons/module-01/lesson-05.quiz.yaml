@@ -1,0 +1,48 @@
+- id: q1
+  question: >-
+    After a party, some water-activated face paint is still on your cheeks. What should you try first?
+  options:
+    - Rubbing alcohol on a cotton pad, because it dissolves paint fast.
+    - Nail polish remover, but only on the cheeks and not near the eyes.
+    - A dry towel, rubbed hard until the color is gone.
+    - Warm water and mild soap, then a wipe for leftovers.
+  correct: 3
+  explanation: >-
+    Water-activated face paint is made to come off with warm water and mild soap. Alcohol, acetone
+    and hard scrubbing irritate skin and are never used on the face.
+- id: q2
+  question: >-
+    You painted a blue swirl close to your eye. How do you take it off?
+  options:
+    - Eyes open, scrub quickly with a wet wipe so it is over fast.
+    - Eyes closed, press an eye-safe pad for ten seconds, wipe once outward.
+    - Eyes closed, rub back and forth with soap until no blue is left.
+    - Use spirit gum remover on a cotton bud for a precise clean.
+  correct: 1
+  explanation: >-
+    Around the eyes you press, wait and wipe once outward with an eye-safe remover or gentle oil
+    cleanser. Scrubbing and solvent removers can hurt the eye.
+- id: q3
+  question: >-
+    After washing, a light pink tint stays on your arm. What do you do?
+  options:
+    - Try micellar water, or leave it; it fades within hours.
+    - Scrub harder with soap until the skin is fully clear.
+    - Wipe it with acetone, which removes any stain.
+    - Paint over it with skin-colored paint so nobody sees it.
+  correct: 0
+  explanation: >-
+    Some bright colors stain lightly for a few hours. Micellar water helps; scrubbing only irritates
+    the skin.
+- id: q4
+  question: >-
+    You finished painting and you're tired. What should happen to your brushes tonight?
+  options:
+    - Leave them standing tip-down in the rinse cup so they stay soft.
+    - Rinse them, then store them tip-up in a closed pencil case while wet.
+    - Wash until the water is clear, shape the tips, dry them flat.
+    - Wipe them on a towel only; soap damages synthetic hairs.
+  correct: 2
+  explanation: >-
+    Clean brushes keep their shape and don't spread old paint or germs. Brushes left in water bend,
+    and tools put away wet stay damp.

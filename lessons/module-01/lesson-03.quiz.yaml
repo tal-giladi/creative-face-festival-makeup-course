@@ -1,0 +1,50 @@
+- id: q1
+  question: >-
+    You bought a new face paint palette on Monday and want to paint your face for a party on
+    Saturday. What is the best plan?
+  options:
+    - Test a spot on the back of your hand on Saturday morning for a few minutes.
+    - Test a coin-sized spot on your inner forearm early, and check it for 48 hours.
+    - Skip the test, because any face paint sold as a cosmetic is already tested on skin.
+    - Paint your whole face on Monday as a test, so you see exactly how it will look.
+  correct: 1
+  explanation: >-
+    A spot on the inner forearm, watched for 24-48 hours, shows a reaction before the paint goes on a
+    face. Starting early leaves time to change products.
+- id: q2
+  question: >-
+    The day after your patch test, the spot is a little pink and itchy. What do you do?
+  options:
+    - Use the paint anyway, because a mild reaction is normal for new products.
+    - Use it only on the cheeks, where the skin is thicker than the arm.
+    - Test it again with a thicker layer to be sure.
+    - Wash the spot, don't use that product, and see a pharmacist if it doesn't settle.
+  correct: 3
+  explanation: >-
+    Any redness or itching means "don't use it". Wash the spot with mild soap and water and get advice
+    if it is strong or doesn't settle.
+- id: q3
+  question: >-
+    Your little cousin wants a cheek design, but she has a scraped knee and a small cold sore on her
+    lip. What can you do?
+  options:
+    - Paint the cheek away from the lip, after a patch test and a parent's OK.
+    - Paint the cold sore over with a thick layer, so it is covered and protected.
+    - Paint her whole face, because cold sores only matter for eye designs.
+    - Use the same sponge as you used on yourself, so there is less waste.
+  correct: 0
+  explanation: >-
+    Never paint over broken or sore skin, and keep well away from a cold sore. Asking a parent and
+    patch-testing come first.
+- id: q4
+  question: >-
+    You are painting two friends one after the other. Which habit keeps it hygienic?
+  options:
+    - Rinse the sponge in the water cup and use it again on the second friend.
+    - Dip the used sponge straight back into the paint cake to save paint.
+    - Use a fresh sponge for the second friend; used ones never go in the cake.
+    - Share the same eye pencil, since it was only used on one eye.
+  correct: 2
+  explanation: >-
+    One sponge per person, never back into the cake, and never share eye makeup. Germs travel on
+    sponges, brushes and pencils.

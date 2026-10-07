@@ -1,2 +1,21 @@
 - Using craft or acrylic paint on skin | it looks like face paint and costs less | use only paint sold as face or body paint | 01.1
 - Lines are fuzzy or doubled | the round brush tip is split | use it for filling; use a brush that springs to one point for lines | 01.1
+- Using a "non-toxic" marker or craft paint on skin | "non-toxic" sounds safe for skin | non-toxic means safe for art use only; use face paint | 01.2
+- Neon paint painted around the eyes | the pack photo shows a neon eye design | believe the label, not the photo; neon stays on cheeks, forehead and body | 01.2
+- Trusting a product with no ingredient list | it is sold next to face paints | no ingredient list means it doesn't go on skin | 01.2
+- Wanting "black henna" for a tattoo look | it looks like real henna | never use it; paint the design with black face paint | 01.2
+- Patch test done on the back of the hand for a few minutes | it seems quick and easy | test on the inner forearm and watch it for 24-48 hours | 01.3
+- Painting over a small scratch or spot | it seems too small to matter | never paint over broken or sore skin; paint somewhere else | 01.3
+- Used sponge dipped back into the paint | it saves time | use a fresh sponge or corner; load paint with a clean brush | 01.3
+- Mild itch or redness after a patch test | "it's only a little red" | any reaction means don't use that product; wash it off | 01.3
+- Can't tell which palette color caused a reaction | the palette was tested as one spot | test one small spot per color and note the order | 01.3
+- Pale, see-through, streaky color | too much water | wait 20 seconds, blot the brush, or add a second thin layer when dry | 01.4
+- Paint drips or runs | brush or sponge too wet | touch the brush to a paper towel; squeeze the sponge almost dry | 01.4
+- Scratchy, broken line that drags | too little water | add one drop of clean water and swirl again | 01.4
+- Colors look muddy | water taken from the dirty rinse cup | rinse in one cup, wet paint only from the clean cup | 01.4
+- Sponge patch is dotty or streaky | sponge too dry, or wiping instead of dabbing | reload the sponge; dab with light overlapping presses | 01.4
+- Skin red and sore after removal | scrubbing hard or using alcohol or acetone | soap and warm water in gentle circles; never alcohol or acetone on the face | 01.5
+- A light tint stays after washing | some bright colors stain lightly | micellar water on a cotton pad; the tint fades within hours | 01.5
+- Eyes sting while removing paint | rubbing back and forth or a remover not made for eyes | eyes closed, eye-safe remover, press, then one wipe outward | 01.5
+- Brush tip bent or splayed | left standing in the water cup | never leave brushes in water; shape the tip and dry flat | 01.5
+- Sponge smells musty | put away wet | wash after every use and air-dry before storing | 01.5

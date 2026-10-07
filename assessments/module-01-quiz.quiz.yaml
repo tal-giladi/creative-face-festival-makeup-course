@@ -1,0 +1,128 @@
+- id: q1
+  question: >-
+    You have no face paint black, but your little brother has a black permanent marker labeled
+    "non-toxic". You want thin cat whiskers on your own cheeks tonight. What do you do?
+  options:
+    - Use the marker, because thin lines put very little ink on the skin.
+    - Use the marker and take it off with rubbing alcohol afterwards.
+    - Paint the whiskers in another face paint color, or wait for black.
+    - Use the marker only if you patch-test it on your arm for an hour first.
+  correct: 2
+  explanation: >-
+    Markers are not made with colors approved for skin, and "non-toxic" only means safe for art use.
+    A patch test can't make a non-cosmetic product suitable; use face paint.
+- id: q2
+  question: >-
+    A friend asks for a glowing UV design around her eyes for a festival. Your neon face paint says
+    "face and body paint". What do you suggest?
+  options:
+    - Neon on her cheekbones and forehead, nothing neon near the eyes.
+    - Neon around the eyes, because the label says "face" and the eyes are on the face.
+    - Neon on the eyelids only, since the lids are closed most of the time.
+    - Neon mixed with white, which makes it gentle enough for the eye area.
+  correct: 0
+  explanation: >-
+    No fluorescent (neon) color is allowed near the eyes. Keep it on cheeks, forehead and body, and
+    use only eye-safe products around the eyes.
+- id: q3
+  question: >-
+    A cheap online palette looks great in the photos, but the listing has no ingredient list and
+    never says "cosmetic" or "face paint". What should you do?
+  options:
+    - Buy it and patch-test it, since the test will show if it is safe.
+    - Buy it only for children, whose designs are smaller.
+    - Buy it and use it on the arms and body, but not the face.
+    - Choose a palette sold as face paint that lists its ingredients.
+  correct: 3
+  explanation: >-
+    If a product isn't sold for skin and has no ingredient list, you can't know its colors are
+    approved for skin. Choose one that is clearly a cosmetic.
+- id: q4
+  question: >-
+    You patch-tested a new white paint two days ago. Today the spot is fine, but your friend has a
+    sunburned nose and wants a white star on it. What do you do?
+  options:
+    - Paint the star, because the white passed your patch test.
+    - Paint the star on the cheek instead and leave the sunburn alone.
+    - Paint the star with extra water so it is softer on the burn.
+    - Cover the sunburn with a sponge base first to protect it.
+  correct: 1
+  explanation: >-
+    Never paint over broken, sunburned or irritated skin, even with a product that passed a patch
+    test. Choose a healthy area instead.
+- id: q5
+  question: >-
+    You're about to paint a neighbor's six-year-old. What comes first?
+  options:
+    - Choose the design together with the child, then start straight away.
+    - Ask a parent about allergies and skin, get their OK, use tested paint.
+    - Use the brightest neon colors, because children like them most.
+    - Use the same sponge for every child at the party to save time.
+  correct: 1
+  explanation: >-
+    For a child, a parent's OK and questions about allergies, skin and eyes come first, with paint
+    tested on the child's arm. One sponge per child, and no neon near the eyes.
+- id: q6
+  question: >-
+    Your red line looks pale and streaky on your arm, and your second color looks muddy. Which
+    single change fixes most of this?
+  options:
+    - Mix creamy paint using only water from the clean cup.
+    - Press harder with the brush so more color comes out.
+    - Add more water so the colors flow and blend better.
+    - Paint faster so the paint has less time to dry on the brush.
+  correct: 0
+  explanation: >-
+    Pale and streaky means too wet; muddy means dirty rinse water. Creamy paint mixed with water from
+    the clean cup fixes both.
+- id: q7
+  question: >-
+    You load a sponge and dab it on your arm, but the patch looks dotty, with skin showing through.
+    What is the most likely cause?
+  options:
+    - The sponge is too wet and the paint is running.
+    - The paint is too creamy for a sponge.
+    - The sponge is too dry or has too little paint.
+    - The sponge is new and needs to be used a few times first.
+  correct: 2
+  explanation: >-
+    A dotty, gappy patch usually means not enough paint in a damp sponge. Reload it, dab off the
+    extra on the plate, then dab with overlapping presses.
+- id: q8
+  question: >-
+    You painted a blue design around your eye and now want to take it off. You have rubbing
+    alcohol, an oil cleanser and cotton pads. What do you do?
+  options:
+    - Alcohol on a pad, wiped quickly so it doesn't sting.
+    - Alcohol for the cheek part and oil cleanser for the eyelid.
+    - Oil cleanser rubbed in with the fingertips, back and forth over the lid.
+    - Eyes closed, oil cleanser on a pad, press, wait, wipe once outward.
+  correct: 3
+  explanation: >-
+    Rubbing alcohol never goes on the face. Around the eyes, press a gentle remover on the closed
+    eye, wait, and wipe once outward, without scrubbing.
+- id: q9
+  question: >-
+    A week after your first practice, your round brush has a bent tip and your sponge smells
+    musty. What most likely caused both?
+  options:
+    - The brush was left in water and the sponge was put away wet.
+    - The paint was too creamy and soaked into both tools.
+    - Soap was used on them, which damages synthetic hairs and foam.
+    - They were used with the wrong brand of face paint.
+  correct: 0
+  explanation: >-
+    Brushes left in the water cup bend, and sponges stored wet stay damp and smell. Wash both, shape
+    the brush tip, and dry brushes flat and sponges in the open air.
+- id: q10
+  question: >-
+    You can't find a face-painting sponge in your town. Which substitute is best?
+  options:
+    - A kitchen dish sponge, because it holds a lot of paint.
+    - A used makeup sponge from a friend's makeup bag.
+    - A new, soft, fine-pored makeup wedge sponge.
+    - A clean piece of foam from packaging, cut to size.
+  correct: 2
+  explanation: >-
+    A substitute sponge must be soft, fine-pored, new and used only for face paint. A new makeup
+    wedge does the same job as a face-painting sponge.

@@ -1,0 +1,63 @@
+- id: q1
+  question: >-
+    A bright neon face paint says "face and body paint" and lists its ingredients. The photo on the
+    front shows neon lines around a model's eyes. Where can you use it?
+  options:
+    - Anywhere the photo shows, because the maker chose that photo.
+    - Around the eyes, as long as you keep it off the eyelashes.
+    - On cheeks, forehead and body, but not near the eyes.
+    - Nowhere, because neon colors are never allowed on skin.
+  correct: 2
+  explanation: >-
+    No fluorescent (neon) color is allowed near the eyes. The paint is fine on cheeks, forehead and
+    body; trust the rules and the label warnings, not the photo.
+- id: q2
+  question: >-
+    A craft glitter jar says "non-toxic" and has no ingredient list. A friend wants it on her
+    cheekbones. What do you do?
+  options:
+    - Use it, because "non-toxic" means it was tested on skin.
+    - Leave it out, because it isn't sold for skin and has no ingredient list.
+    - Use it, but only mixed into face paint so it can't fall off.
+    - Use it on the cheeks only, since cheek skin is thicker than eyelids.
+  correct: 1
+  explanation: >-
+    "Non-toxic" means safe for art use as intended, not tested on skin. With no ingredient list and
+    no "cosmetic" on the label, it does not go on skin.
+- id: q3
+  question: >-
+    A face paint's label lists CI 77891 and CI 77491 and says nothing about the eyes. You want to
+    paint close to the eyes. What is the best next step?
+  options:
+    - Paint the eye area, because a list of CI numbers means it is eye-safe.
+    - Patch-test it on your eyelid first, then decide from the result.
+    - Look up eye-area conditions first; keep it off the eyes until you know.
+    - Paint the eye area only with white, because white is always allowed.
+  correct: 2
+  explanation: >-
+    Eye-area use needs the label's permission, and some colors are not allowed in eye products. Look
+    it up first; until you know, use it away from the eyes.
+- id: q4
+  question: >-
+    At a market a stall offers "black henna" tattoos that stain in under an hour. Why should you say no?
+  options:
+    - It often contains PPD, which can cause blisters and scars.
+    - It is real henna, which is only a problem for people with dry skin.
+    - It fades too fast, so the design won't last the day.
+    - It is fine for adults but not allowed for anyone under 18.
+  correct: 0
+  explanation: >-
+    Real henna stains reddish-brown and is approved in the US only as a hair dye. "Black henna" often
+    contains PPD, which can cause serious skin reactions in anyone.
+- id: q5
+  question: >-
+    You find a glow-in-the-dark face paint for a Halloween party. Which plan follows its rules?
+  options:
+    - Paint a glowing mask around the eyes, then wash it off before bed.
+    - Wear it every weekend, as long as you remove it each night.
+    - Mix it with your regular face paint so it is weaker and safe near the eyes.
+    - Use it for the party on cheeks or forehead, away from the eyes.
+  correct: 3
+  explanation: >-
+    Glow-in-the-dark face paint is approved only for occasional use like Halloween and must not be
+    used in the eye area. Mixing it does not make it eye-safe.

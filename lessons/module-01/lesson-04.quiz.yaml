@@ -1,0 +1,50 @@
+- id: q1
+  question: >-
+    Your blue line on paper looks pale and see-through and a drop runs off the end. What is the most
+    likely cause and fix?
+  options:
+    - Too little water; add a few more drops and paint again.
+    - Too much water; blot the brush on a paper towel first.
+    - The paint is old; throw the cake away and buy a new one.
+    - You pressed too lightly; press much harder on the next line.
+  correct: 1
+  explanation: >-
+    Thin, see-through, runny paint means too much water. Take some off the brush or wait for the
+    surface to thicken to a creamy, melted-ice-cream consistency.
+- id: q2
+  question: >-
+    The brush drags on the paper and leaves a scratchy, broken line. What do you do?
+  options:
+    - Add one drop of clean water to the cake and swirl again.
+    - Press harder so the paint is forced out of the brush.
+    - Switch to the sponge, because the brush must be damaged.
+    - Dip the brush in the rinse cup and paint straight away.
+  correct: 0
+  explanation: >-
+    A scratchy, broken line means the paint is too dry. Add water a little at a time, from the clean
+    cup, until it is creamy.
+- id: q3
+  question: >-
+    Your yellow, red and white all look slightly gray and muddy on the swatch card. What is the most
+    likely reason?
+  options:
+    - The paper is too thin for face paint.
+    - You waited too long between colors.
+    - You wet the cakes with water from the dirty rinse cup.
+    - The colors need much more water to look bright.
+  correct: 2
+  explanation: >-
+    Rinse water carries the last color with it. Rinse in one cup and wet paint only with water from
+    the clean cup.
+- id: q4
+  question: >-
+    Your sponged patch on the arm looks streaky. Which change helps most?
+  options:
+    - Soak the sponge so it holds more paint, then wipe it on fast.
+    - Press the sponge once, very hard, in the middle of the patch.
+    - Use a completely dry sponge, because water causes streaks.
+    - Squeeze it almost dry, load it, then dab, overlapping.
+  correct: 3
+  explanation: >-
+    A damp (not wet) sponge, dabbed instead of wiped, gives an even patch. A soaking sponge or a
+    wiping motion leaves streaks.

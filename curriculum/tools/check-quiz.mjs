@@ -26,6 +26,7 @@ for (const f of files) {
     if (!q.id || ids.has(q.id)) bad(f, `${t}: missing or duplicate id`); ids.add(q.id);
     if (!q.question) bad(f, `${t}: no question`);
     if (!Array.isArray(q.options) || q.options.length !== 4) { bad(f, `${t}: needs exactly 4 options`); continue; }
+    if (q.options.some((o) => typeof o !== 'string') || typeof q.question !== 'string' || typeof q.explanation !== 'string') bad(f, `${t}: question, options and explanation must be plain strings (quote or use >- for text with a colon)`);
     if (new Set(q.options.map(String)).size !== 4) bad(f, `${t}: options not distinct`);
     if (![0, 1, 2, 3].includes(q.correct)) { bad(f, `${t}: correct must be 0-3`); continue; }
     if (!q.explanation) bad(f, `${t}: no explanation`);

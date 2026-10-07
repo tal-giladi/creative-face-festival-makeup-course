@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="210mm" height="297mm" viewBox="0 0 210 297">
+<title>Label check: skin, eyes or not for skin?</title>
+<rect width="210" height="297" fill="#fff"/>
+<text x="12" y="16" font-family="Helvetica,Arial,sans-serif" font-size="4.6" fill="#1f2a44" text-anchor="start" font-weight="700">Label check: skin, eyes or not for skin?</text>
+<text x="12" y="21.5" font-family="Helvetica,Arial,sans-serif" font-size="3" fill="#9aa1ad" text-anchor="start">One row per product you find at home. Read the label, then tick one box. Lesson 01.2.</text>
+<text x="146" y="16" font-family="Helvetica,Arial,sans-serif" font-size="3" fill="#9aa1ad" text-anchor="end">Name:</text>
+<line x1="148" y1="16.6" x2="198" y2="16.6" stroke="#c9ced6" stroke-width="0.25"/>
+<line x1="12" y1="287" x2="112" y2="287" stroke="#9aa1ad" stroke-width="0.35"/>
+<line x1="12" y1="284.8" x2="12" y2="287" stroke="#9aa1ad" stroke-width="0.3"/>
+<line x1="22" y1="285.8" x2="22" y2="287" stroke="#9aa1ad" stroke-width="0.3"/>
+<line x1="32" y1="285.8" x2="32" y2="287" stroke="#9aa1ad" stroke-width="0.3"/>
+<line x1="42" y1="285.8" x2="42" y2="287" stroke="#9aa1ad" stroke-width="0.3"/>
+<line x1="52" y1="285.8" x2="52" y2="287" stroke="#9aa1ad" stroke-width="0.3"/>
+<line x1="62" y1="284.8" x2="62" y2="287" stroke="#9aa1ad" stroke-width="0.3"/>
+<line x1="72" y1="285.8" x2="72" y2="287" stroke="#9aa1ad" stroke-width="0.3"/>
+<line x1="82" y1="285.8" x2="82" y2="287" stroke="#9aa1ad" stroke-width="0.3"/>
+<line x1="92" y1="285.8" x2="92" y2="287" stroke="#9aa1ad" stroke-width="0.3"/>
+<line x1="102" y1="285.8" x2="102" y2="287" stroke="#9aa1ad" stroke-width="0.3"/>
+<line x1="112" y1="284.8" x2="112" y2="287" stroke="#9aa1ad" stroke-width="0.3"/>
+<text x="115" y="287.8" font-family="Helvetica,Arial,sans-serif" font-size="2.5" fill="#9aa1ad" text-anchor="start">Must measure 10 cm. If not, print at 100% ("Actual size").</text>
+<rect x="12" y="29" width="186" height="9" fill="#f1f3f5"/>
+<text x="14" y="35" font-family="Helvetica,Arial,sans-serif" font-size="2.9" fill="#1f2a44" text-anchor="start" font-weight="700">Product</text>
+<line x1="67.8" y1="29" x2="67.8" y2="245" stroke="#c9ced6" stroke-width="0.25"/>
+<text x="69.8" y="35" font-family="Helvetica,Arial,sans-serif" font-size="2.9" fill="#1f2a44" text-anchor="start" font-weight="700">Face paint?</text>
+<line x1="95.7" y1="29" x2="95.7" y2="245" stroke="#c9ced6" stroke-width="0.25"/>
+<text x="97.7" y="35" font-family="Helvetica,Arial,sans-serif" font-size="2.9" fill="#1f2a44" text-anchor="start" font-weight="700">Ingredients?</text>
+<line x1="123.6" y1="29" x2="123.6" y2="245" stroke="#c9ced6" stroke-width="0.25"/>
+<text x="125.6" y="35" font-family="Helvetica,Arial,sans-serif" font-size="2.9" fill="#1f2a44" text-anchor="start" font-weight="700">Skin</text>
+<line x1="142.2" y1="29" x2="142.2" y2="245" stroke="#c9ced6" stroke-width="0.25"/>
+<text x="144.2" y="35" font-family="Helvetica,Arial,sans-serif" font-size="2.9" fill="#1f2a44" text-anchor="start" font-weight="700">Eye area</text>
+<line x1="164.52" y1="29" x2="164.52" y2="245" stroke="#c9ced6" stroke-width="0.25"/>
+<text x="166.52" y="35" font-family="Helvetica,Arial,sans-serif" font-size="2.9" fill="#1f2a44" text-anchor="start" font-weight="700">Not for skin</text>
+<line x1="12" y1="38" x2="198" y2="38" stroke="#c9ced6" stroke-width="0.25"/>
+<line x1="12" y1="55.25" x2="198" y2="55.25" stroke="#c9ced6" stroke-width="0.25"/>
+<line x1="12" y1="72.5" x2="198" y2="72.5" stroke="#c9ced6" stroke-width="0.25"/>
+<line x1="12" y1="89.75" x2="198" y2="89.75" stroke="#c9ced6" stroke-width="0.25"/>
+<line x1="12" y1="107" x2="198" y2="107" stroke="#c9ced6" stroke-width="0.25"/>
+<line x1="12" y1="124.25" x2="198" y2="124.25" stroke="#c9ced6" stroke-width="0.25"/>
+<line x1="12" y1="141.5" x2="198" y2="141.5" stroke="#c9ced6" stroke-width="0.25"/>
+<line x1="12" y1="158.75" x2="198" y2="158.75" stroke="#c9ced6" stroke-width="0.25"/>
+<line x1="12" y1="176" x2="198" y2="176" stroke="#c9ced6" stroke-width="0.25"/>
+<line x1="12" y1="193.25" x2="198" y2="193.25" stroke="#c9ced6" stroke-width="0.25"/>
+<line x1="12" y1="210.5" x2="198" y2="210.5" stroke="#c9ced6" stroke-width="0.25"/>
+<line x1="12" y1="227.75" x2="198" y2="227.75" stroke="#c9ced6" stroke-width="0.25"/>
+<line x1="12" y1="245" x2="198" y2="245" stroke="#c9ced6" stroke-width="0.25"/>
+<line x1="12" y1="29" x2="198" y2="29" stroke="#c9ced6" stroke-width="0.25"/>
+<line x1="12" y1="29" x2="12" y2="245" stroke="#c9ced6" stroke-width="0.25"/>
+<line x1="198" y1="29" x2="198" y2="245" stroke="#c9ced6" stroke-width="0.25"/>
+<text x="12" y="251" font-family="Helvetica,Arial,sans-serif" font-size="2.8" fill="#1f2a44" text-anchor="start">Not for skin, always: acrylic or craft paint, markers, craft glitter, any glue not sold for skin, "black henna", kohl.</text>
+<text x="12" y="257" font-family="Helvetica,Arial,sans-serif" font-size="2.8" fill="#1f2a44" text-anchor="start">Eye area only if the label allows it. Neon / fluorescent and glow-in-the-dark: never near the eyes.</text>
+<text x="12" y="263" font-family="Helvetica,Arial,sans-serif" font-size="2.8" fill="#9aa1ad" text-anchor="start">No ingredient list, or not sold as a cosmetic? Then it stays off skin.</text>
+</svg>
