@@ -74,6 +74,9 @@ concealer brush works well).
 - be new, or used only for face paint (never a brush that has been in craft paint or solvents);
 - be washable with soap and water.
 
+**For body art (Module 10):** a bigger synthetic round, size 6-8, and a flat of 2-2.5 cm for vines,
+petals and bands at body size; a whole sponge instead of half for glows. Same "must be able to" rules.
+
 **Test it:** wet it, flick off the water and look: a round brush should come to one sharp point; a
 flat should make a straight, thin edge.
 
@@ -439,3 +442,22 @@ online, for study only. **Must:** be used for one idea each, not copied as a who
 **Cheaper or easier to find:** skip it and paint rainbows stripe by stripe with a round brush from your normal colors.
 
 **A substitute must:** be sold as face paint. Never load a brush from craft paint, poster paint or watercolor sets, even for stripes.
+
+## Optional Level 4 extras (body art)
+
+### Rolled towel (arm rest)
+
+**What it is for:** holding your own forearm steady at any angle while you turn it to paint all the
+way round (lesson 10.2).
+
+**Ideal:** a small towel rolled up. **Cheaper:** a folded sweater or a cushion. **Must:** be clean and
+hold the arm still; let paint dry before it touches the towel.
+
+### Old top (body art)
+
+**What it is for:** protecting clothes while you paint shoulders and collarbones, and wearing over
+fresh paint (lesson 10.3).
+
+**Ideal:** an old strapless or wide-neck top. **Cheaper:** an old towel round you, or any dark top you
+don't mind staining. **Must:** leave the skin you paint free, and be something that may stain (some
+face paint colors can stain fabric).

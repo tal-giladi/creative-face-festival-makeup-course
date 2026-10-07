@@ -1,0 +1,114 @@
+- id: q1
+  question: >-
+    A friend asks for "something big on my arm" for a festival. You only have craft acrylics in big
+    tubes and a small set of face paints. What do you use?
+  options:
+    - The acrylics for the big areas, because they cover more skin for less money.
+    - The face paints, in thin layers, after a patch test on the inner arm.
+    - The acrylics mixed with water, which makes them gentle enough for skin.
+    - The acrylics, but only on the arm, since body skin is tougher than the face.
+  correct: 1
+  explanation: >-
+    Body art uses the same products as the face: face and body paint only. Craft acrylics are not
+    made with skin-approved colors, whatever the area or the mix.
+- id: q2
+  question: >-
+    You re-plan your cheek flower-and-vine design for the forearm. Which version will look like it
+    belongs on the arm?
+  options:
+    - The same coin-sized flower, centered on the forearm.
+    - Three copies of the cheek design in a straight row down the arm.
+    - A vine curling around the inside of the elbow to a flower on the upper arm.
+    - A bigger flower on the hand, a vine spiraling down the arm.
+  correct: 3
+  explanation: >-
+    Keep the motifs, scale them up, put the big one on a landmark and give the design a flow line
+    that wraps the arm. The inside of the elbow bends and cracks paint.
+- id: q3
+  question: >-
+    You are painting a vine round your own left wrist (you are right-handed). The part on the
+    underside keeps wobbling. What is the most likely cause?
+  options:
+    - Your hand twists under the wrist; the arm never turns.
+    - The paint is mixed too thin for the underside of the wrist.
+    - You are using your dominant hand to hold the brush.
+    - The bracelet sits too close above the bony part of the wrist.
+  correct: 0
+  explanation: >-
+    Turn the arm palm down, thumb up and palm up, resting it on a towel, and always paint the part
+    facing you with a normal grip.
+- id: q4
+  question: >-
+    You paint a bracelet on your wrist before a picnic. Lunch is ready. What do you do?
+  options:
+    - Eat without washing, so the bracelet stays perfect.
+    - Lick the paint off your fingertips before you eat.
+    - Wash your hands well and touch up later.
+    - Wipe the paint off completely with rubbing alcohol first.
+  correct: 2
+  explanation: >-
+    Face paint is made for skin, not for eating. Wash painted hands before meals as usual; the design
+    on the back of the hand can be touched up. Alcohol is not a remover.
+- id: q5
+  question: >-
+    You plan a collarbone necklace with a pendant. How do you make sure it hangs straight?
+  options:
+    - Paint the left side first, then copy the right side by eye.
+    - Guide dots at both collarbone ends and on the center line first.
+    - Paint it while looking only at the mirror, never at your skin.
+    - Start with the pendant and let the chain fall wherever it fits.
+  correct: 1
+  explanation: >-
+    The collarbones, the notch and the center line are the body's own guides. Guide dots on them
+    keep both sides of the chain level and the pendant centered.
+- id: q6
+  question: >-
+    You paint shoulder wings, dress straight away in a tank top, and by evening the straps are pink
+    and the wings smudged. What do you change next time?
+  options:
+    - Paint the wings under the straps so the straps hide the smudges.
+    - Use a thicker layer so there is more paint left after rubbing.
+    - Add craft glitter on top to seal the paint against the straps.
+    - Wings outside the straps; let the paint dry, then dress.
+  correct: 3
+  explanation: >-
+    Face paint dries to the touch but still rubs off where clothes touch, and some colors stain.
+    Plan around straps and necklines, dry, set lightly, then dress.
+- id: q7
+  question: >-
+    You want to paint wings over both shoulders and down the back. You live alone. What is a good
+    plan?
+  options:
+    - Paint the front in a mirror and skip the back, or ask someone you trust.
+    - Paint the back by holding a phone camera behind you while painting fast.
+    - Use a body paint spray on the back without looking.
+    - Give up on body art, since the module needs a model.
+  correct: 0
+  explanation: >-
+    The front of the shoulders and the collarbones are easy in a mirror. A helper is always optional;
+    the back can simply be skipped.
+- id: q8
+  question: >-
+    Your forearm is hairy and dry, and the paint goes on patchy. Which fix is right?
+  options:
+    - Shave right before painting and paint straight onto the fresh skin.
+    - Moisturize an hour before; two thin layers, with the hair.
+    - Paint one thick, wet layer so it fills every gap at once.
+    - Use school glue as a primer so the paint sticks better.
+  correct: 1
+  explanation: >-
+    Moisturizer helps dry skin if it has time to sink in, and thin layers brushed with the hair cover
+    best. Fresh shaving can irritate skin, and glue is never used on skin.
+- id: q9
+  question: >-
+    At the end of a festival day you have a painted arm and shoulder piece with some glitter gel.
+    How do you take it off?
+  options:
+    - Leave it on to sleep and wash it off in the morning.
+    - Rub it off quickly with a rough towel and rubbing alcohol.
+    - Peel the glitter off with strong packing tape, then go to bed.
+    - Shower with mild soap and an oil cleanser, no scrubbing.
+  correct: 3
+  explanation: >-
+    Remove everything before you sleep. Warm water, mild soap and a gentle oil cleanser take off
+    paint and glitter; rough towels, alcohol and strong tape irritate the skin.

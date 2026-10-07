@@ -1,0 +1,51 @@
+- id: q1
+  question: >-
+    You are right-handed and want to paint a vine all the way around your left forearm with no one
+    to help. How do you reach the underside?
+  options:
+    - Twist your painting hand under the arm and paint upside down.
+    - Turn the left arm in steps and paint the part facing you.
+    - Switch the brush to your left hand for the underside.
+    - Skip the underside and stop the vine at the edges of the arm.
+  correct: 1
+  explanation: >-
+    Turning the arm keeps your painting hand in its normal grip. Three positions take a vine all the
+    way round, so it looks like it belongs to the arm.
+- id: q2
+  question: >-
+    You paint a flower on your palm for a party. An hour later it is smeared and half gone. What is
+    the best fix next time?
+  options:
+    - Paint the palm with a thicker, wetter layer so more color stays.
+    - Use craft paint on the palm, since it is harder to rub off.
+    - Paint the palm last, just before you leave the house.
+    - Put the flower on the back of the hand and stop at the sides.
+  correct: 3
+  explanation: >-
+    The palm and the inner sides of the fingers touch everything and sweat, so paint rubs off there.
+    The back of the hand stays neat. Craft paint is never used on skin.
+- id: q3
+  question: >-
+    Your hands are painted and it is time for lunch. What should you do?
+  options:
+    - Wash your hands, especially palms and fingertips, and touch up after.
+    - Skip washing so the design is not damaged until the evening.
+    - Wipe your fingers on a napkin; face paint is safe to eat in small amounts.
+    - Eat with gloves on and wash only when you take the design off.
+  correct: 0
+  explanation: >-
+    Wash painted hands before eating, as always. Face paint is made for skin, not for eating, and
+    the back of the hand can be touched up afterwards.
+- id: q4
+  question: >-
+    Your painted wristband looks great, but by the evening it has cracked across the wrist. What was
+    the most likely cause?
+  options:
+    - The colors were too bright for a band that size.
+    - The band was too thin, so the skin showed through.
+    - A thick, wet layer was painted right over the bend of the wrist.
+    - The band was painted on the non-dominant arm.
+  correct: 2
+  explanation: >-
+    Thick paint cracks where skin bends. Keep bands just above the wrist bone and use thin layers,
+    with only thin lines over the crease.

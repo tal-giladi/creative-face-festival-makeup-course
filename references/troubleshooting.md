@@ -200,3 +200,18 @@ stings, itches, swells or turns red, stop and take the paint off first: see the
 | Stuck at a blank page | no brief or constraints | write a brief and pick one constraint | [09.4](../lessons/module-09/lesson-04.md) |
 | Each new version is completely different | changing everything at once | change only the one goal from the self-check | [09.4](../lessons/module-09/lesson-04.md) |
 | Portfolio photos can't be compared | mixed light, flash, busy background | window light in front, plain background, same distance | [09.4](../lessons/module-09/lesson-04.md) |
+
+## Module 10: Body Art (Optional)
+
+| What you see | Likely cause | Try this | Lesson |
+|---|---|---|---|
+| Design looks tiny and lost on the arm | face-size motifs and brush | double the motif size; size 6-8 round or a flat brush | [10.1](../lessons/module-10/lesson-01.md) |
+| Design on the arm looks stiff and stuck on | straight bars or boxes across a round arm | spirals, bands all the way round, curves along bones | [10.1](../lessons/module-10/lesson-01.md) |
+| Paint cracks at the elbow or wrist | thick paint across a bend | keep designs beside joints; thin layers | [10.1](../lessons/module-10/lesson-01.md) |
+| Paint skips and looks patchy on the forearm | hair or dry skin | brush with the hair in two thin layers; light moisturizer an hour before, wiped dry | [10.1](../lessons/module-10/lesson-01.md) |
+| Painting hand twists and lines wobble on your own arm | reaching round the arm instead of turning it | turn the arm on a rolled towel and paint the part facing you | [10.2](../lessons/module-10/lesson-02.md) |
+| Painted bracelet ends in a step where it meets | painted freehand all the way round | three guide dots at the same height, then paint dot to dot | [10.2](../lessons/module-10/lesson-02.md) |
+| Paint on the palm gone within minutes | the palm touches and sweats | stop the design at the sides of the hand | [10.2](../lessons/module-10/lesson-02.md) |
+| Painted necklace hangs crooked | no guide dots | dots at both collarbone ends and on the center line first; check in the mirror | [10.3](../lessons/module-10/lesson-03.md) |
+| Paint on your top or strap | design under a strap, or dressing too soon | keep designs between straps and above the neckline; dry, then dress | [10.3](../lessons/module-10/lesson-03.md) |
+| Skin red after removing body paint | scrubbing hard | shower with mild soap and an oil cleanser, a soft cloth, no scrubbing | [10.3](../lessons/module-10/lesson-03.md) |

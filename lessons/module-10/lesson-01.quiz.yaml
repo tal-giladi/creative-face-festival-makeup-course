@@ -1,0 +1,51 @@
+- id: q1
+  question: >-
+    You paint your favorite cheek flower on your forearm at the same size, with the same small brush.
+    From across the room it is hard to see. What is the best change?
+  options:
+    - Add more tiny details so the flower looks richer up close.
+    - Use darker colors, because dark paint always reads further away.
+    - Paint it twice as big with a bigger round or flat brush.
+    - Paint it on the inside of the elbow, where people look most.
+  correct: 2
+  explanation: >-
+    The body is a bigger canvas seen from further away, so motifs need to be about twice the face
+    size, painted with bigger tools. Tiny details get lost.
+- id: q2
+  question: >-
+    You want a vine on your arm that looks like it belongs there. Which plan works best?
+  options:
+    - Three straight lines of vine across the forearm, evenly spaced.
+    - A vine that spirals around the forearm, edge to edge.
+    - A square frame on the back of the hand with the vine inside it.
+    - A vine painted straight across the inside of the elbow.
+  correct: 1
+  explanation: >-
+    The arm is long and round, so lines that spiral or wrap around it follow its shape. Straight bars
+    and boxes fight the shape, and the inside of the elbow bends and cracks the paint.
+- id: q3
+  question: >-
+    Your forearm is quite hairy, and the paint looks patchy and skips. You don't want to shave.
+    What should you do?
+  options:
+    - Brush in the direction the hair grows and build two thin layers.
+    - Use a thick, wet layer so the paint fills in between the hairs.
+    - Mix the paint with a little craft glue so it grips the hair.
+    - Shave quickly just before painting so the skin is perfectly smooth.
+  correct: 0
+  explanation: >-
+    Paint goes on best with the hair, in thin layers. Thick paint cracks, glue is not for skin, and
+    shaving right before painting can leave the skin irritated.
+- id: q4
+  question: >-
+    You re-plan a face design for a day out in a tank top with a shoulder bag. Where should the main
+    flower go?
+  options:
+    - On the shoulder where the bag strap sits, so it shows above the strap.
+    - In the armpit area, where the skin is smooth and soft.
+    - Across the inside of the elbow, where the arm is easy to reach.
+    - On the shoulder cap of the arm without the bag, away from the straps.
+  correct: 3
+  explanation: >-
+    Use landmarks like the shoulder cap, and keep the design away from straps, armpits and bends,
+    where it would rub off, smear with sweat or crack.

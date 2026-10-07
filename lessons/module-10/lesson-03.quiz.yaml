@@ -1,0 +1,63 @@
+- id: q1
+  question: >-
+    You are painting a collarbone necklace on yourself and want the pendant to look centered. Where
+    does it go?
+  options:
+    - On the center line, just below the collarbone notch.
+    - Wherever the chain ends up lowest after you paint it freehand.
+    - On the collarbone of the side your painting hand reaches best.
+    - At the top of the breastbone, under the neckline of the top.
+  correct: 0
+  explanation: >-
+    The center line and the notch are the body's own guides. Put a guide dot there first and hang
+    the chain from both collarbone ends toward it.
+- id: q2
+  question: >-
+    You will wear a tank top with straps to a summer party. Where should the shoulder wings of your
+    design end?
+  options:
+    - Under the straps, so the straps hide the edge of the wings.
+    - Low on the chest, below the neckline, where they show through the top.
+    - On the shoulder caps, outside the straps and above the neckline.
+    - Across the back of the shoulders, where the top covers them.
+  correct: 2
+  explanation: >-
+    Paint rubs off and can stain where clothes touch. Keep designs between the straps and above the
+    neckline, and let them dry before you dress.
+- id: q3
+  question: >-
+    You are right-handed and painting both shoulder wings alone in a mirror. Which plan works best?
+  options:
+    - Paint only the right shoulder and leave the left one empty.
+    - Reach across to the left shoulder, elbow resting, mirror to check.
+    - Ask someone you don't know well to help, since a helper is required.
+    - Paint the left shoulder with your left hand without practicing first.
+  correct: 1
+  explanation: >-
+    Reaching across keeps your painting hand in control. A helper is optional and should be someone
+    you are comfortable with; the back of the shoulders can simply be skipped.
+- id: q4
+  question: >-
+    Your shoulder got sunburned yesterday. You planned to paint shoulder wings today. What do you do?
+  options:
+    - Paint it anyway; face paint is gentle and covers the redness.
+    - Paint over it with a cooling layer of white first.
+    - Paint it but take it off after one hour instead of in the evening.
+    - Skip the shoulder until the burn heals, or paint healthy skin.
+  correct: 3
+  explanation: >-
+    Never paint over sunburned, broken or irritated skin. Choose another area or wait until it has
+    healed.
+- id: q5
+  question: >-
+    At the end of the day you want to take off a painted necklace with a little glitter on the
+    collarbones. What is the best way?
+  options:
+    - Scrub hard with a dry towel before you get in the shower.
+    - In the shower, with mild soap and an oil cleanser.
+    - Rubbing alcohol on a cotton pad, which dissolves paint fastest.
+    - Leave it on overnight so it fades by itself on the pillow.
+  correct: 1
+  explanation: >-
+    Warm water, mild soap and a gentle oil cleanser take paint and glitter off without hurting the
+    skin. Alcohol and scrubbing irritate it, and paint is removed before sleep.
