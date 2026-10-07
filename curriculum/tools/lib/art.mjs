@@ -210,3 +210,11 @@ export function brush(x, y, deg = -60, len = 150, { tip = 'round', color = '#c03
 }
 
 export { rad, pol, spline, polyD, rng };
+
+// Points of a curl: a lead-in, then a spiral from radius r toward the center (use with stroke()).
+export function curlPts(cx, cy, r, { turns = 1, startDeg = 180, dir = 1, lead = 40, inner = 0.2 } = {}) {
+  const pts = [], n = Math.ceil(turns * 18);
+  for (let i = 0; i <= n; i++) { const t = i / n; pts.push(pol(cx, cy, r * (1 - t * (1 - inner)), startDeg + dir * t * turns * 360)); }
+  const back = startDeg - dir * 90;
+  return lead ? [pol(pts[0][0], pts[0][1], lead, back), ...pts] : pts;
+}

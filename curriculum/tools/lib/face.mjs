@@ -116,3 +116,15 @@ export const BODY = {
   collarbones: 'M120 175C150 168 175 172 195 182M280 175C250 168 225 172 205 182',
   sternum: [200, 230], shoulderL: [80, 180], shoulderR: [320, 180], collarL: [140, 172], collarR: [260, 172],
 };
+
+// Back of the hand and forearm (ARM frame, 400 x 500) filled with skin; content is clipped to it.
+let handId = 0;
+export function handSVG(content = '', skin = 'medium', { wrist = false } = {}) {
+  const id = `hd${handId++}`;
+  return `<defs><clipPath id="${id}"><path d="${ARM.outline}Z"/></clipPath></defs>`
+    + `<path d="${ARM.outline}Z" fill="${SKIN[skin] ?? skin}"/>`
+    + `<g clip-path="url(#${id})">${content}</g>`
+    + `<path d="${ARM.outline}" fill="none" stroke="#5b4636" stroke-width="2.4" stroke-linejoin="round"/>`
+    + ARM.knuckles.map(([x, y]) => `<path d="M${x - 7} ${y + 4}q7 -5 14 0" fill="none" stroke="#8a7462" stroke-width="1.4" stroke-linecap="round"/>`).join('')
+    + (wrist ? `<path d="M150 385C180 392 220 392 246 385" fill="none" stroke="#8a7462" stroke-width="1.2" stroke-dasharray="4 5"/>` : '');
+}

@@ -106,10 +106,10 @@ All demonstrations are drawn SVG made by your script `curriculum/tools/assets-mN
 shared library. Read these files before you start:
 
 - `curriculum/tools/lib/face.mjs` — the face (400 x 500 frame, center x = 200), landmarks `L`
-  (eyeL, cheekL, templeL, forehead, …), `SKIN` tones, `ARM`, `BODY`, `circleD`.
+  (eyeL, cheekL, templeL, forehead, …), `SKIN` tones, `ARM`, `BODY`, `circleD`, `handSVG` (filled hand + forearm).
 - `curriculum/tools/lib/art.mjs` — paint colors `P`; `stroke` (thin-thick-thin brush stroke through
   points), `line`, `teardrop`, `petal`, `dot`, `dots`, `spiral`, `star`, `sparkle`, `heart`,
-  `sponge` (soft gradient fill), `glow`, `stipple`, `glitter`, `gem`, `cake`, `brush`, `label`,
+  `sponge` (soft gradient fill), `glow`, `stipple`, `glitter`, `gem`, `cake`, `brush`, `curlPts`, `label`,
   `arrow`, `badge`, `tick`, `cross`.
 - `curriculum/tools/lib/figure.mjs` — `faceFig` (one face with `under` = paint layer below the
   eyes/brows/lips, `over` = gems/labels on top, `view` to crop), `strip` (Step 1 -> 2 -> … -> Done
