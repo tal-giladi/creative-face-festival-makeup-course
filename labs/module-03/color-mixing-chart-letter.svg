@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="215.9mm" height="279.4mm" viewBox="0 0 215.9 279.4">
+<title>Color-mixing chart</title>
+<rect width="215.9" height="279.4" fill="#fff"/>
+<text x="12" y="16" font-family="Helvetica,Arial,sans-serif" font-size="4.6" fill="#1f2a44" text-anchor="start" font-weight="700">Color-mixing chart</text>
+<text x="12" y="21.5" font-family="Helvetica,Arial,sans-serif" font-size="3" fill="#9aa1ad" text-anchor="start">In each circle mix its row color with its column color. Pure colors on the diagonal. Lesson 03.1.</text>
+<text x="151.9" y="16" font-family="Helvetica,Arial,sans-serif" font-size="3" fill="#9aa1ad" text-anchor="end">Name:</text>
+<line x1="153.9" y1="16.6" x2="203.9" y2="16.6" stroke="#c9ced6" stroke-width="0.25"/>
+<line x1="12" y1="269.4" x2="112" y2="269.4" stroke="#9aa1ad" stroke-width="0.35"/>
+<line x1="12" y1="267.2" x2="12" y2="269.4" stroke="#9aa1ad" stroke-width="0.3"/>
+<line x1="22" y1="268.2" x2="22" y2="269.4" stroke="#9aa1ad" stroke-width="0.3"/>
+<line x1="32" y1="268.2" x2="32" y2="269.4" stroke="#9aa1ad" stroke-width="0.3"/>
+<line x1="42" y1="268.2" x2="42" y2="269.4" stroke="#9aa1ad" stroke-width="0.3"/>
+<line x1="52" y1="268.2" x2="52" y2="269.4" stroke="#9aa1ad" stroke-width="0.3"/>
+<line x1="62" y1="267.2" x2="62" y2="269.4" stroke="#9aa1ad" stroke-width="0.3"/>
+<line x1="72" y1="268.2" x2="72" y2="269.4" stroke="#9aa1ad" stroke-width="0.3"/>
+<line x1="82" y1="268.2" x2="82" y2="269.4" stroke="#9aa1ad" stroke-width="0.3"/>
+<line x1="92" y1="268.2" x2="92" y2="269.4" stroke="#9aa1ad" stroke-width="0.3"/>
+<line x1="102" y1="268.2" x2="102" y2="269.4" stroke="#9aa1ad" stroke-width="0.3"/>
+<line x1="112" y1="267.2" x2="112" y2="269.4" stroke="#9aa1ad" stroke-width="0.3"/>
+<text x="115" y="270.2" font-family="Helvetica,Arial,sans-serif" font-size="2.5" fill="#9aa1ad" text-anchor="start">Must measure 10 cm. If not, print at 100% ("Actual size").</text>
+<text x="12" y="31" font-family="Helvetica,Arial,sans-serif" font-size="3.6" fill="#1f2a44" text-anchor="start" font-weight="700">Mixing grid</text>
+<text x="50" y="39" font-family="Helvetica,Arial,sans-serif" font-size="2.8" fill="#1f2a44" text-anchor="middle">yellow</text>
+<text x="12" y="58" font-family="Helvetica,Arial,sans-serif" font-size="2.8" fill="#1f2a44" text-anchor="start">yellow</text>
+<path d="M59.12 57L59.02 58.35L58.73 59.63L58.27 60.84L57.65 61.97L56.88 62.98L55.98 63.88L54.97 64.65L53.84 65.27L52.63 65.73L51.35 66.02L50 66.12L48.65 66.02L47.37 65.73L46.16 65.27L45.03 64.65L44.02 63.88L43.12 62.98L42.35 61.97L41.73 60.84L41.27 59.63L40.98 58.35L40.88 57L40.98 55.65L41.27 54.37L41.73 53.16L42.35 52.03L43.12 51.02L44.02 50.12L45.03 49.35L46.16 48.73L47.37 48.27L48.65 47.98L50 47.88L51.35 47.98L52.63 48.27L53.84 48.73L54.97 49.35L55.98 50.12L56.88 51.02L57.65 52.03L58.27 53.16L58.73 54.37L59.02 55.65L59.12 57L59.12 57Z" fill="none" stroke="#9aa1ad" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="50" y="69.12" font-family="Helvetica,Arial,sans-serif" font-size="2.2" fill="#9aa1ad" text-anchor="middle">pure</text>
+<text x="74" y="39" font-family="Helvetica,Arial,sans-serif" font-size="2.8" fill="#1f2a44" text-anchor="middle">red</text>
+<text x="12" y="82" font-family="Helvetica,Arial,sans-serif" font-size="2.8" fill="#1f2a44" text-anchor="start">red</text>
+<path d="M59.12 81L59.02 82.35L58.73 83.63L58.27 84.84L57.65 85.97L56.88 86.98L55.98 87.88L54.97 88.65L53.84 89.27L52.63 89.73L51.35 90.02L50 90.12L48.65 90.02L47.37 89.73L46.16 89.27L45.03 88.65L44.02 87.88L43.12 86.98L42.35 85.97L41.73 84.84L41.27 83.63L40.98 82.35L40.88 81L40.98 79.65L41.27 78.37L41.73 77.16L42.35 76.03L43.12 75.02L44.02 74.12L45.03 73.35L46.16 72.73L47.37 72.27L48.65 71.98L50 71.88L51.35 71.98L52.63 72.27L53.84 72.73L54.97 73.35L55.98 74.12L56.88 75.02L57.65 76.03L58.27 77.16L58.73 78.37L59.02 79.65L59.12 81L59.12 81Z" fill="none" stroke="#c9ced6" stroke-width="0.35" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M83.12 81L83.02 82.35L82.73 83.63L82.27 84.84L81.65 85.97L80.88 86.98L79.98 87.88L78.97 88.65L77.84 89.27L76.63 89.73L75.35 90.02L74 90.12L72.65 90.02L71.37 89.73L70.16 89.27L69.03 88.65L68.02 87.88L67.12 86.98L66.35 85.97L65.73 84.84L65.27 83.63L64.98 82.35L64.88 81L64.98 79.65L65.27 78.37L65.73 77.16L66.35 76.03L67.12 75.02L68.02 74.12L69.03 73.35L70.16 72.73L71.37 72.27L72.65 71.98L74 71.88L75.35 71.98L76.63 72.27L77.84 72.73L78.97 73.35L79.98 74.12L80.88 75.02L81.65 76.03L82.27 77.16L82.73 78.37L83.02 79.65L83.12 81L83.12 81Z" fill="none" stroke="#9aa1ad" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="74" y="93.12" font-family="Helvetica,Arial,sans-serif" font-size="2.2" fill="#9aa1ad" text-anchor="middle">pure</text>
+<text x="98" y="39" font-family="Helvetica,Arial,sans-serif" font-size="2.8" fill="#1f2a44" text-anchor="middle">blue</text>
+<text x="12" y="106" font-family="Helvetica,Arial,sans-serif" font-size="2.8" fill="#1f2a44" text-anchor="start">blue</text>
+<path d="M59.12 105L59.02 106.35L58.73 107.63L58.27 108.84L57.65 109.97L56.88 110.98L55.98 111.88L54.97 112.65L53.84 113.27L52.63 113.73L51.35 114.02L50 114.12L48.65 114.02L47.37 113.73L46.16 113.27L45.03 112.65L44.02 111.88L43.12 110.98L42.35 109.97L41.73 108.84L41.27 107.63L40.98 106.35L40.88 105L40.98 103.65L41.27 102.37L41.73 101.16L42.35 100.03L43.12 99.02L44.02 98.12L45.03 97.35L46.16 96.73L47.37 96.27L48.65 95.98L50 95.88L51.35 95.98L52.63 96.27L53.84 96.73L54.97 97.35L55.98 98.12L56.88 99.02L57.65 100.03L58.27 101.16L58.73 102.37L59.02 103.65L59.12 105L59.12 105Z" fill="none" stroke="#c9ced6" stroke-width="0.35" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M83.12 105L83.02 106.35L82.73 107.63L82.27 108.84L81.65 109.97L80.88 110.98L79.98 111.88L78.97 112.65L77.84 113.27L76.63 113.73L75.35 114.02L74 114.12L72.65 114.02L71.37 113.73L70.16 113.27L69.03 112.65L68.02 111.88L67.12 110.98L66.35 109.97L65.73 108.84L65.27 107.63L64.98 106.35L64.88 105L64.98 103.65L65.27 102.37L65.73 101.16L66.35 100.03L67.12 99.02L68.02 98.12L69.03 97.35L70.16 96.73L71.37 96.27L72.65 95.98L74 95.88L75.35 95.98L76.63 96.27L77.84 96.73L78.97 97.35L79.98 98.12L80.88 99.02L81.65 100.03L82.27 101.16L82.73 102.37L83.02 103.65L83.12 105L83.12 105Z" fill="none" stroke="#c9ced6" stroke-width="0.35" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M107.12 105L107.02 106.35L106.73 107.63L106.27 108.84L105.65 109.97L104.88 110.98L103.98 111.88L102.97 112.65L101.84 113.27L100.63 113.73L99.35 114.02L98 114.12L96.65 114.02L95.37 113.73L94.16 113.27L93.03 112.65L92.02 111.88L91.12 110.98L90.35 109.97L89.73 108.84L89.27 107.63L88.98 106.35L88.88 105L88.98 103.65L89.27 102.37L89.73 101.16L90.35 100.03L91.12 99.02L92.02 98.12L93.03 97.35L94.16 96.73L95.37 96.27L96.65 95.98L98 95.88L99.35 95.98L100.63 96.27L101.84 96.73L102.97 97.35L103.98 98.12L104.88 99.02L105.65 100.03L106.27 101.16L106.73 102.37L107.02 103.65L107.12 105L107.12 105Z" fill="none" stroke="#9aa1ad" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="98" y="117.12" font-family="Helvetica,Arial,sans-serif" font-size="2.2" fill="#9aa1ad" text-anchor="middle">pure</text>
+<text x="122" y="39" font-family="Helvetica,Arial,sans-serif" font-size="2.8" fill="#1f2a44" text-anchor="middle">white</text>
+<text x="12" y="130" font-family="Helvetica,Arial,sans-serif" font-size="2.8" fill="#1f2a44" text-anchor="start">white</text>
+<path d="M59.12 129L59.02 130.35L58.73 131.63L58.27 132.84L57.65 133.97L56.88 134.98L55.98 135.88L54.97 136.65L53.84 137.27L52.63 137.73L51.35 138.02L50 138.12L48.65 138.02L47.37 137.73L46.16 137.27L45.03 136.65L44.02 135.88L43.12 134.98L42.35 133.97L41.73 132.84L41.27 131.63L40.98 130.35L40.88 129L40.98 127.65L41.27 126.37L41.73 125.16L42.35 124.03L43.12 123.02L44.02 122.12L45.03 121.35L46.16 120.73L47.37 120.27L48.65 119.98L50 119.88L51.35 119.98L52.63 120.27L53.84 120.73L54.97 121.35L55.98 122.12L56.88 123.02L57.65 124.03L58.27 125.16L58.73 126.37L59.02 127.65L59.12 129L59.12 129Z" fill="none" stroke="#c9ced6" stroke-width="0.35" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M83.12 129L83.02 130.35L82.73 131.63L82.27 132.84L81.65 133.97L80.88 134.98L79.98 135.88L78.97 136.65L77.84 137.27L76.63 137.73L75.35 138.02L74 138.12L72.65 138.02L71.37 137.73L70.16 137.27L69.03 136.65L68.02 135.88L67.12 134.98L66.35 133.97L65.73 132.84L65.27 131.63L64.98 130.35L64.88 129L64.98 127.65L65.27 126.37L65.73 125.16L66.35 124.03L67.12 123.02L68.02 122.12L69.03 121.35L70.16 120.73L71.37 120.27L72.65 119.98L74 119.88L75.35 119.98L76.63 120.27L77.84 120.73L78.97 121.35L79.98 122.12L80.88 123.02L81.65 124.03L82.27 125.16L82.73 126.37L83.02 127.65L83.12 129L83.12 129Z" fill="none" stroke="#c9ced6" stroke-width="0.35" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M107.12 129L107.02 130.35L106.73 131.63L106.27 132.84L105.65 133.97L104.88 134.98L103.98 135.88L102.97 136.65L101.84 137.27L100.63 137.73L99.35 138.02L98 138.12L96.65 138.02L95.37 137.73L94.16 137.27L93.03 136.65L92.02 135.88L91.12 134.98L90.35 133.97L89.73 132.84L89.27 131.63L88.98 130.35L88.88 129L88.98 127.65L89.27 126.37L89.73 125.16L90.35 124.03L91.12 123.02L92.02 122.12L93.03 121.35L94.16 120.73L95.37 120.27L96.65 119.98L98 119.88L99.35 119.98L100.63 120.27L101.84 120.73L102.97 121.35L103.98 122.12L104.88 123.02L105.65 124.03L106.27 125.16L106.73 126.37L107.02 127.65L107.12 129L107.12 129Z" fill="none" stroke="#c9ced6" stroke-width="0.35" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M131.12 129L131.02 130.35L130.73 131.63L130.27 132.84L129.65 133.97L128.88 134.98L127.98 135.88L126.97 136.65L125.84 137.27L124.63 137.73L123.35 138.02L122 138.12L120.65 138.02L119.37 137.73L118.16 137.27L117.03 136.65L116.02 135.88L115.12 134.98L114.35 133.97L113.73 132.84L113.27 131.63L112.98 130.35L112.88 129L112.98 127.65L113.27 126.37L113.73 125.16L114.35 124.03L115.12 123.02L116.02 122.12L117.03 121.35L118.16 120.73L119.37 120.27L120.65 119.98L122 119.88L123.35 119.98L124.63 120.27L125.84 120.73L126.97 121.35L127.98 122.12L128.88 123.02L129.65 124.03L130.27 125.16L130.73 126.37L131.02 127.65L131.12 129L131.12 129Z" fill="none" stroke="#9aa1ad" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="122" y="141.12" font-family="Helvetica,Arial,sans-serif" font-size="2.2" fill="#9aa1ad" text-anchor="middle">pure</text>
+<text x="146" y="39" font-family="Helvetica,Arial,sans-serif" font-size="2.8" fill="#1f2a44" text-anchor="middle">black</text>
+<text x="12" y="154" font-family="Helvetica,Arial,sans-serif" font-size="2.8" fill="#1f2a44" text-anchor="start">black</text>
+<path d="M59.12 153L59.02 154.35L58.73 155.63L58.27 156.84L57.65 157.97L56.88 158.98L55.98 159.88L54.97 160.65L53.84 161.27L52.63 161.73L51.35 162.02L50 162.12L48.65 162.02L47.37 161.73L46.16 161.27L45.03 160.65L44.02 159.88L43.12 158.98L42.35 157.97L41.73 156.84L41.27 155.63L40.98 154.35L40.88 153L40.98 151.65L41.27 150.37L41.73 149.16L42.35 148.03L43.12 147.02L44.02 146.12L45.03 145.35L46.16 144.73L47.37 144.27L48.65 143.98L50 143.88L51.35 143.98L52.63 144.27L53.84 144.73L54.97 145.35L55.98 146.12L56.88 147.02L57.65 148.03L58.27 149.16L58.73 150.37L59.02 151.65L59.12 153L59.12 153Z" fill="none" stroke="#c9ced6" stroke-width="0.35" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M83.12 153L83.02 154.35L82.73 155.63L82.27 156.84L81.65 157.97L80.88 158.98L79.98 159.88L78.97 160.65L77.84 161.27L76.63 161.73L75.35 162.02L74 162.12L72.65 162.02L71.37 161.73L70.16 161.27L69.03 160.65L68.02 159.88L67.12 158.98L66.35 157.97L65.73 156.84L65.27 155.63L64.98 154.35L64.88 153L64.98 151.65L65.27 150.37L65.73 149.16L66.35 148.03L67.12 147.02L68.02 146.12L69.03 145.35L70.16 144.73L71.37 144.27L72.65 143.98L74 143.88L75.35 143.98L76.63 144.27L77.84 144.73L78.97 145.35L79.98 146.12L80.88 147.02L81.65 148.03L82.27 149.16L82.73 150.37L83.02 151.65L83.12 153L83.12 153Z" fill="none" stroke="#c9ced6" stroke-width="0.35" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M107.12 153L107.02 154.35L106.73 155.63L106.27 156.84L105.65 157.97L104.88 158.98L103.98 159.88L102.97 160.65L101.84 161.27L100.63 161.73L99.35 162.02L98 162.12L96.65 162.02L95.37 161.73L94.16 161.27L93.03 160.65L92.02 159.88L91.12 158.98L90.35 157.97L89.73 156.84L89.27 155.63L88.98 154.35L88.88 153L88.98 151.65L89.27 150.37L89.73 149.16L90.35 148.03L91.12 147.02L92.02 146.12L93.03 145.35L94.16 144.73L95.37 144.27L96.65 143.98L98 143.88L99.35 143.98L100.63 144.27L101.84 144.73L102.97 145.35L103.98 146.12L104.88 147.02L105.65 148.03L106.27 149.16L106.73 150.37L107.02 151.65L107.12 153L107.12 153Z" fill="none" stroke="#c9ced6" stroke-width="0.35" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M131.12 153L131.02 154.35L130.73 155.63L130.27 156.84L129.65 157.97L128.88 158.98L127.98 159.88L126.97 160.65L125.84 161.27L124.63 161.73L123.35 162.02L122 162.12L120.65 162.02L119.37 161.73L118.16 161.27L117.03 160.65L116.02 159.88L115.12 158.98L114.35 157.97L113.73 156.84L113.27 155.63L112.98 154.35L112.88 153L112.98 151.65L113.27 150.37L113.73 149.16L114.35 148.03L115.12 147.02L116.02 146.12L117.03 145.35L118.16 144.73L119.37 144.27L120.65 143.98L122 143.88L123.35 143.98L124.63 144.27L125.84 144.73L126.97 145.35L127.98 146.12L128.88 147.02L129.65 148.03L130.27 149.16L130.73 150.37L131.02 151.65L131.12 153L131.12 153Z" fill="none" stroke="#c9ced6" stroke-width="0.35" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M155.12 153L155.02 154.35L154.73 155.63L154.27 156.84L153.65 157.97L152.88 158.98L151.98 159.88L150.97 160.65L149.84 161.27L148.63 161.73L147.35 162.02L146 162.12L144.65 162.02L143.37 161.73L142.16 161.27L141.03 160.65L140.02 159.88L139.12 158.98L138.35 157.97L137.73 156.84L137.27 155.63L136.98 154.35L136.88 153L136.98 151.65L137.27 150.37L137.73 149.16L138.35 148.03L139.12 147.02L140.02 146.12L141.03 145.35L142.16 144.73L143.37 144.27L144.65 143.98L146 143.88L147.35 143.98L148.63 144.27L149.84 144.73L150.97 145.35L151.98 146.12L152.88 147.02L153.65 148.03L154.27 149.16L154.73 150.37L155.02 151.65L155.12 153L155.12 153Z" fill="none" stroke="#9aa1ad" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="146" y="165.12" font-family="Helvetica,Arial,sans-serif" font-size="2.2" fill="#9aa1ad" text-anchor="middle">pure</text>
+<text x="114" y="53" font-family="Helvetica,Arial,sans-serif" font-size="2.7" fill="#9aa1ad" text-anchor="start">Light color first, then add the</text>
+<text x="114" y="57.5" font-family="Helvetica,Arial,sans-serif" font-size="2.7" fill="#9aa1ad" text-anchor="start">darker one a little at a time.</text>
+<text x="114" y="64" font-family="Helvetica,Arial,sans-serif" font-size="2.7" fill="#9aa1ad" text-anchor="start">Write your recipe under a circle,</text>
+<text x="114" y="68.5" font-family="Helvetica,Arial,sans-serif" font-size="2.7" fill="#9aa1ad" text-anchor="start">e.g. "yellow 3 : blue 1".</text>
+<text x="114" y="75" font-family="Helvetica,Arial,sans-serif" font-size="2.7" fill="#9aa1ad" text-anchor="start">Extra: try pink + blue next to red + blue.</text>
+<text x="12" y="177" font-family="Helvetica,Arial,sans-serif" font-size="3.6" fill="#1f2a44" text-anchor="start" font-weight="700">Tint and shade ladders</text>
+<text x="49.85" y="185" font-family="Helvetica,Arial,sans-serif" font-size="2.3" fill="#9aa1ad" text-anchor="middle">lots of white</text>
+<text x="73.55" y="185" font-family="Helvetica,Arial,sans-serif" font-size="2.3" fill="#9aa1ad" text-anchor="middle">white</text>
+<text x="97.25" y="185" font-family="Helvetica,Arial,sans-serif" font-size="2.3" fill="#9aa1ad" text-anchor="middle">a little white</text>
+<text x="120.95" y="185" font-family="Helvetica,Arial,sans-serif" font-size="2.3" fill="#1f2a44" text-anchor="middle" font-weight="700">pure</text>
+<text x="144.65" y="185" font-family="Helvetica,Arial,sans-serif" font-size="2.3" fill="#9aa1ad" text-anchor="middle">touch of black</text>
+<text x="168.35" y="185" font-family="Helvetica,Arial,sans-serif" font-size="2.3" fill="#9aa1ad" text-anchor="middle">a bit more</text>
+<text x="192.05" y="185" font-family="Helvetica,Arial,sans-serif" font-size="2.3" fill="#9aa1ad" text-anchor="middle">more black</text>
+<text x="12" y="195.64" font-family="Helvetica,Arial,sans-serif" font-size="2.8" fill="#1f2a44" text-anchor="start">red</text>
+<rect x="39.5" y="189.5" width="20.7" height="10.28" fill="none" stroke="#c9ced6" stroke-width="0.3"/>
+<rect x="63.2" y="189.5" width="20.7" height="10.28" fill="none" stroke="#c9ced6" stroke-width="0.3"/>
+<rect x="86.9" y="189.5" width="20.7" height="10.28" fill="none" stroke="#c9ced6" stroke-width="0.3"/>
+<rect x="110.6" y="189.5" width="20.7" height="10.28" fill="none" stroke="#9aa1ad" stroke-width="0.5"/>
+<rect x="134.3" y="189.5" width="20.7" height="10.28" fill="none" stroke="#c9ced6" stroke-width="0.3"/>
+<rect x="158" y="189.5" width="20.7" height="10.28" fill="none" stroke="#c9ced6" stroke-width="0.3"/>
+<rect x="181.7" y="189.5" width="20.7" height="10.28" fill="none" stroke="#c9ced6" stroke-width="0.3"/>
+<text x="12" y="208.92" font-family="Helvetica,Arial,sans-serif" font-size="2.8" fill="#1f2a44" text-anchor="start">yellow</text>
+<rect x="39.5" y="202.78" width="20.7" height="10.28" fill="none" stroke="#c9ced6" stroke-width="0.3"/>
+<rect x="63.2" y="202.78" width="20.7" height="10.28" fill="none" stroke="#c9ced6" stroke-width="0.3"/>
+<rect x="86.9" y="202.78" width="20.7" height="10.28" fill="none" stroke="#c9ced6" stroke-width="0.3"/>
+<rect x="110.6" y="202.78" width="20.7" height="10.28" fill="none" stroke="#9aa1ad" stroke-width="0.5"/>
+<rect x="134.3" y="202.78" width="20.7" height="10.28" fill="none" stroke="#c9ced6" stroke-width="0.3"/>
+<rect x="158" y="202.78" width="20.7" height="10.28" fill="none" stroke="#c9ced6" stroke-width="0.3"/>
+<rect x="181.7" y="202.78" width="20.7" height="10.28" fill="none" stroke="#c9ced6" stroke-width="0.3"/>
+<text x="12" y="222.2" font-family="Helvetica,Arial,sans-serif" font-size="2.8" fill="#1f2a44" text-anchor="start">blue</text>
+<rect x="39.5" y="216.06" width="20.7" height="10.28" fill="none" stroke="#c9ced6" stroke-width="0.3"/>
+<rect x="63.2" y="216.06" width="20.7" height="10.28" fill="none" stroke="#c9ced6" stroke-width="0.3"/>
+<rect x="86.9" y="216.06" width="20.7" height="10.28" fill="none" stroke="#c9ced6" stroke-width="0.3"/>
+<rect x="110.6" y="216.06" width="20.7" height="10.28" fill="none" stroke="#9aa1ad" stroke-width="0.5"/>
+<rect x="134.3" y="216.06" width="20.7" height="10.28" fill="none" stroke="#c9ced6" stroke-width="0.3"/>
+<rect x="158" y="216.06" width="20.7" height="10.28" fill="none" stroke="#c9ced6" stroke-width="0.3"/>
+<rect x="181.7" y="216.06" width="20.7" height="10.28" fill="none" stroke="#c9ced6" stroke-width="0.3"/>
+<text x="12" y="235.48" font-family="Helvetica,Arial,sans-serif" font-size="2.8" fill="#1f2a44" text-anchor="start">green (mix)</text>
+<rect x="39.5" y="229.34" width="20.7" height="10.28" fill="none" stroke="#c9ced6" stroke-width="0.3"/>
+<rect x="63.2" y="229.34" width="20.7" height="10.28" fill="none" stroke="#c9ced6" stroke-width="0.3"/>
+<rect x="86.9" y="229.34" width="20.7" height="10.28" fill="none" stroke="#c9ced6" stroke-width="0.3"/>
+<rect x="110.6" y="229.34" width="20.7" height="10.28" fill="none" stroke="#9aa1ad" stroke-width="0.5"/>
+<rect x="134.3" y="229.34" width="20.7" height="10.28" fill="none" stroke="#c9ced6" stroke-width="0.3"/>
+<rect x="158" y="229.34" width="20.7" height="10.28" fill="none" stroke="#c9ced6" stroke-width="0.3"/>
+<rect x="181.7" y="229.34" width="20.7" height="10.28" fill="none" stroke="#c9ced6" stroke-width="0.3"/>
+<text x="12" y="248.76" font-family="Helvetica,Arial,sans-serif" font-size="2.8" fill="#1f2a44" text-anchor="start">purple (mix)</text>
+<rect x="39.5" y="242.62" width="20.7" height="10.28" fill="none" stroke="#c9ced6" stroke-width="0.3"/>
+<rect x="63.2" y="242.62" width="20.7" height="10.28" fill="none" stroke="#c9ced6" stroke-width="0.3"/>
+<rect x="86.9" y="242.62" width="20.7" height="10.28" fill="none" stroke="#c9ced6" stroke-width="0.3"/>
+<rect x="110.6" y="242.62" width="20.7" height="10.28" fill="none" stroke="#9aa1ad" stroke-width="0.5"/>
+<rect x="134.3" y="242.62" width="20.7" height="10.28" fill="none" stroke="#c9ced6" stroke-width="0.3"/>
+<rect x="158" y="242.62" width="20.7" height="10.28" fill="none" stroke="#c9ced6" stroke-width="0.3"/>
+<rect x="181.7" y="242.62" width="20.7" height="10.28" fill="none" stroke="#c9ced6" stroke-width="0.3"/>
+</svg>

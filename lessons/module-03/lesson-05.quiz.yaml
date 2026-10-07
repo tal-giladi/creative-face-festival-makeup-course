@@ -1,0 +1,63 @@
+- id: q1
+  question: >-
+    You want a calm, soft ocean design whose sponge gradient blends cleanly. Which palette fits best?
+  options:
+    - Blue with orange accents, because opposites are lively.
+    - Blue, teal and green, three neighbors on the wheel.
+    - Red, yellow and blue, so every primary is there.
+    - Purple and yellow sponged into each other.
+  correct: 1
+  explanation: >-
+    Analogous colors (neighbors) feel calm and blend into clean colors. Opposites sponged together
+    turn brown in the middle.
+- id: q2
+  question: >-
+    Your blue-and-orange design looks loud and messy: half the area is blue and half is orange. What
+    is the best change?
+  options:
+    - Add green and purple as well, so the colors feel more balanced.
+    - Sponge the blue and orange into each other to soften them.
+    - Make blue the main color and use orange only in small touches.
+    - Replace the black outlines with orange outlines.
+  correct: 2
+  explanation: >-
+    Complementary colors work best when one leads and the other is a small accent, roughly 60-30-10.
+    Blending them makes brown, and more colors make it busier.
+- id: q3
+  question: >-
+    You are painting a bright yellow star on a friend with deep skin, and the yellow looks thin and
+    dull. What do you do?
+  options:
+    - Paint a thin layer of white first, let it dry, then the yellow.
+    - Add more water to the yellow so it spreads better.
+    - Mix a little black into the yellow to make it stronger.
+    - Switch to craft paint, because it covers much better than face paint.
+  correct: 0
+  explanation: >-
+    Light colors are see-through over dark skin; a dry white layer underneath makes them bright and
+    solid. Black would turn yellow olive, and craft paint never goes on skin.
+- id: q4
+  question: >-
+    In a design using the 60-30-10 guide, what is the 10% part usually?
+  options:
+    - The sponge base that covers most of the area.
+    - The black outlines around every shape.
+    - The second color, such as the leaves.
+    - Small details like dots, a flower center or a sparkle.
+  correct: 3
+  explanation: >-
+    The accent is the smallest share, the details that catch the eye. Black outlines and white
+    highlights are not counted in the 60-30-10.
+- id: q5
+  question: >-
+    You paint pale lilac flowers on very light skin and from a meter away they almost disappear. What
+    is the best fix?
+  options:
+    - Add a thin black outline, or use a deeper purple.
+    - Add more white so the lilac looks brighter.
+    - Paint a white layer underneath the lilac first.
+    - Sponge some yellow around the flowers as a soft glow.
+  correct: 0
+  explanation: >-
+    Pale colors have little contrast with light skin. A thin outline or a deeper shade makes them
+    read; more white makes them paler still.

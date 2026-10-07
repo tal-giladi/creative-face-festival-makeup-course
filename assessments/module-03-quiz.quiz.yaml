@@ -1,0 +1,130 @@
+- id: q1
+  question: >-
+    You are painting a jungle design and run out of green. You have yellow, blue, red, white and black.
+    What is the best plan?
+  options:
+    - Mix yellow, blue and a little red on the plate for a natural green.
+    - Paint blue first on the skin, then yellow on top while it is wet.
+    - Mix it on the plate from a yellow pool with a little blue pulled in.
+    - Mix blue with a little black, which reads as dark green from a distance.
+  correct: 2
+  explanation: >-
+    Two neighbors make a clean green: start with the light color and add the dark one a little at a
+    time, on the plate. A third color turns it brown, and mixing on skin gets patchy.
+- id: q2
+  question: >-
+    A friend's sponge gradient from yellow to purple on her arm has a brownish band in the middle. What
+    went wrong?
+  options:
+    - Yellow and purple are opposites, so their overlap turns brown.
+    - She dabbed instead of wiping, which mixes the colors too much.
+    - The sponge was too dry to carry two colors at once.
+    - She faded the edges, which pulls the colors into the middle.
+  correct: 0
+  explanation: >-
+    Opposite colors cancel each other where they overlap. Blend neighbors, like yellow and orange or
+    pink and purple, and keep opposites apart.
+- id: q3
+  question: >-
+    Your first gradient on paper shows streaks and a hard border all around it, like a sticker. Which
+    two changes fix both problems?
+  options:
+    - More water in the sponge, and a black outline around the edge.
+    - Dab instead of wiping, and dab lighter with less paint toward the edges.
+    - A bigger sponge, and two extra colors to hide the streaks.
+    - Wipe faster in one direction, and finish with a white border.
+  correct: 1
+  explanation: >-
+    Wiping drags paint into streaks; dabbing leaves an even layer. Lighter dabs with less paint at the
+    outside make the color fade instead of stopping at an edge.
+- id: q4
+  question: >-
+    You finish a red heart on a cheek and want it to pop. You have chosen a light coming from the top
+    left. What do you add, and where?
+  options:
+    - A thick black line of even width all round, and white along the bottom.
+    - White highlights on every side, so the heart glows evenly.
+    - A white outline all round, then black dots on the top left.
+    - A thin-thick black outline, thicker on the lower right, and white on the upper left.
+  correct: 3
+  explanation: >-
+    The outline is thinner on the light side and thicker on the shadow side, and every highlight goes
+    on the side facing the light.
+- id: q5
+  question: >-
+    You paint black outlines straight after the colors, and they keep turning gray. What should you
+    change?
+  options:
+    - Wait until the colors are dry before adding the black.
+    - Paint the black outlines first and fill the colors in after.
+    - Add white to the black so it covers better.
+    - Use more water in the black so it flows over the color.
+  correct: 0
+  explanation: >-
+    Black painted into wet color mixes with it. Colors first, let them dry, then black, then white
+    last.
+- id: q6
+  question: >-
+    Painting a symmetrical brow design on your own face, your second swirl ends up higher than the
+    first. What would have prevented it?
+  options:
+    - Painting the whole left half first, then the whole right half.
+    - Measuring from the hairline on both sides.
+    - Starting each swirl at the same landmark, the end of the brow.
+    - Painting the second swirl a little lower than looks right.
+  correct: 2
+  explanation: >-
+    Landmarks like the brow end exist on both sides and work on every face. Hairlines are often uneven,
+    and a whole half copied from memory drifts.
+- id: q7
+  question: >-
+    You are planning a symmetrical forehead design and are not sure where the parts should go. What is
+    the best first step?
+  options:
+    - Paint the left half on the face, then decide on the right half.
+    - Paint one half on the half-face template, then mirror it on a face map.
+    - Draw it freehand on the face with a pen, so you can see it first.
+    - Start with the dot on the center line and add parts outward by eye.
+  correct: 1
+  explanation: >-
+    Planning on paper is quick to change. Mirroring a half onto the face map shows where every part
+    goes before paint touches skin. Pens and markers never go on skin.
+- id: q8
+  question: >-
+    A purple-and-yellow design looks loud: half the area is purple and half is yellow. How do you keep
+    both colors but make it look better?
+  options:
+    - Make purple the main color and use yellow only for small accents.
+    - Sponge the purple and yellow into each other to soften the contrast.
+    - Add orange and green so no single color stands out.
+    - Use the colors equally but add more black outline.
+  correct: 0
+  explanation: >-
+    Complementary colors look best when one leads and the other is a small accent, roughly 60-30-10.
+    Blending them makes brown, and more colors make it busier.
+- id: q9
+  question: >-
+    You paint the same orange-and-yellow sun on a friend with deep skin and on one with light skin. On
+    the deep skin the sun looks thin. What do you do differently there?
+  options:
+    - Mix black into the yellow and orange so they look stronger.
+    - Add more water so the colors spread into a thicker layer.
+    - Choose a different design, because these colors don't work on deep skin.
+    - Paint a thin layer of white under the sun first and let it dry.
+  correct: 3
+  explanation: >-
+    Light, bright colors are see-through over deep skin. A dry white layer underneath makes them bright
+    and solid; black would turn yellow olive.
+- id: q10
+  question: >-
+    For a soft fairy design you want very light pink and lilac. You have red, blue, white and black.
+    How do you mix them?
+  options:
+    - Start with red and add white until it looks pale enough.
+    - Start with white and add a little red, or a little red and blue.
+    - Add a lot of water to red so it becomes see-through pink.
+    - Mix red and blue with a touch of black, then add some white.
+  correct: 1
+  explanation: >-
+    A tint is a color plus white; starting with the white pool and adding the color a little at a time
+    uses less paint and is easier to control. Water only makes paint thin and streaky.

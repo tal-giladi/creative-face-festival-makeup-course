@@ -55,3 +55,29 @@ stings, itches, swells or turns red, stop and take the paint off first: see the
 | Lines wobble on skin but not on paper | the skin moves or the painting hand floats | lay the hand flat and rest your little finger on the skin | [02.5](../lessons/module-02/lesson-05.md) |
 | Paint slides or looks streaky on skin | too much water, or oily skin | wash and dry the skin first; use a little less water | [02.5](../lessons/module-02/lesson-05.md) |
 | Your hand moves the wrong way in the mirror | the mirror flips left and right | paint small and slow; start on the easier cheek | [02.5](../lessons/module-02/lesson-05.md) |
+
+## Module 3: Color and Symmetry
+
+| What you see | Likely cause | Try this | Lesson |
+|---|---|---|---|
+| Mix turns brown or gray | three or more colors, or opposite colors, mixed together | keep to two colors plus white or black; start a fresh pool | [03.1](../lessons/module-03/lesson-01.md) |
+| A mix needs huge amounts of paint to change | the light color was added to the dark one | start with the light color; add the dark one a little at a time | [03.1](../lessons/module-03/lesson-01.md) |
+| One drop of black ruins a mix | black is much stronger than other colors | use a tiny touch on the brush tip | [03.1](../lessons/module-03/lesson-01.md) |
+| Paint cakes get streaks of other colors | a dirty brush dipped into a clean cake | rinse and wipe the brush before touching each cake | [03.1](../lessons/module-03/lesson-01.md) |
+| Purple looks dull and brownish | the red leans orange | mix purple from pink or magenta and blue | [03.1](../lessons/module-03/lesson-01.md) |
+| Streaks or lines in a gradient | wiping or sliding the sponge | dab straight down and lift; add a second dabbed layer when dry | [03.2](../lessons/module-03/lesson-02.md) |
+| A sharp line between two gradient colors | the colors were not overlapped | dab back and forth over the meeting point a little at a time | [03.2](../lessons/module-03/lesson-02.md) |
+| White or skin-colored gaps in a sponged area | sponge too dry, or too few dabs | reload, dab on the plate, then dab with light overlapping presses | [03.2](../lessons/module-03/lesson-02.md) |
+| Muddy brown middle in a gradient | opposite colors, or the sponge rubbed across both cakes | use neighbor colors; load each half of the sponge separately | [03.2](../lessons/module-03/lesson-02.md) |
+| Hard border around a sponged patch | same pressure and paint right to the edge | dab lighter and with less paint toward the edges | [03.2](../lessons/module-03/lesson-02.md) |
+| Black outline turns gray or smudgy | black painted over wet color | let the color dry until it is no longer shiny, then outline | [03.3](../lessons/module-03/lesson-03.md) |
+| Outlines look heavy and cartoonish | thick, even line around every part | thin-thick lines, only around the outside | [03.3](../lessons/module-03/lesson-03.md) |
+| Shapes look flat even with white highlights | highlights on different sides | choose one light direction; all highlights on that side | [03.3](../lessons/module-03/lesson-03.md) |
+| White highlight looks pale and see-through | too much water, or painted on wet paint | creamy white on a dry base; add a second touch once dry | [03.3](../lessons/module-03/lesson-03.md) |
+| One side of a symmetrical design sits higher | placed by eye, not from a landmark | start each element at the same landmark on both sides | [03.4](../lessons/module-03/lesson-04.md) |
+| One side of a symmetrical design is bigger | a whole half painted first, then copied | paint one element, then the same element on the other side at once | [03.4](../lessons/module-03/lesson-04.md) |
+| Mirrored shapes point the same way instead of mirroring | the shape was copied, not its mirror image | describe it from the middle ("tail points away from the middle") | [03.4](../lessons/module-03/lesson-04.md) |
+| Can't see if the sides match | standing too close to the mirror | step back about a meter or take a photo; cover one half, then the other | [03.4](../lessons/module-03/lesson-04.md) |
+| Design looks messy and loud | too many colors, all used equally | three or four colors; one clearly leads (about 60%) | [03.5](../lessons/module-03/lesson-05.md) |
+| Yellow, orange or pastels look thin on deep skin | light colors are see-through over dark skin | paint a thin layer of white underneath first and let it dry | [03.5](../lessons/module-03/lesson-05.md) |
+| Pale colors vanish on light skin | too little contrast with the skin | add a thin black outline or use a deeper shade | [03.5](../lessons/module-03/lesson-05.md) |

@@ -1,0 +1,53 @@
+:root {
+  --bg: #fbf8f4; --card: #ffffff; --ink: #2b2f3a; --soft: #5f6672; --line: #e3ddd5; --accent: #c2255c; --focus: #1c7ed6;
+}
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--bg); color: var(--ink); font: 16px/1.45 system-ui, "Segoe UI", Arial, sans-serif; }
+main { max-width: 760px; margin: 0 auto; padding: 16px; }
+h1 { font-size: 1.5rem; margin: 0 0 4px; }
+h2 { font-size: 1.15rem; margin: 22px 0 6px; }
+.tag { margin: 0; color: var(--soft); font-size: 0.9rem; }
+.hint { margin: 0 0 10px; color: var(--soft); font-size: 0.92rem; }
+.sr-only { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+
+.plate-area { display: flex; gap: 18px; align-items: center; flex-wrap: wrap; margin-top: 16px; background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 14px; }
+.plate { width: 170px; height: 170px; border-radius: 50%; background: #fff; border: 3px solid #c9cdd3; box-shadow: inset 0 0 0 12px #f3f4f6; display: grid; place-items: center; flex: none; }
+.mix { width: 104px; height: 92px; border-radius: 48% 52% 45% 55% / 55% 45% 55% 45%; border: 1px solid rgba(0, 0, 0, 0.15); }
+.mix.empty, .swatch.empty { border: 2px dashed #c9cdd3; }
+.readout { flex: 1 1 260px; min-width: 0; }
+.recipe { font-weight: 700; margin: 0 0 6px; }
+.advice { margin: 0 0 10px; min-height: 1.4em; color: var(--soft); }
+.row-buttons { display: flex; gap: 8px; flex-wrap: wrap; }
+
+button, select { font: inherit; }
+button { border: 2px solid var(--ink); background: var(--ink); color: #fff; border-radius: 8px; padding: 8px 14px; cursor: pointer; min-height: 44px; }
+button.secondary { background: #fff; color: var(--ink); }
+button:disabled { opacity: 0.35; cursor: default; }
+button:focus-visible, select:focus-visible { outline: 3px solid var(--focus); outline-offset: 2px; }
+
+.pots { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 10px; }
+.pot { background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 10px 6px; text-align: center; }
+.cake { width: 48px; height: 48px; margin: 0 auto 6px; border-radius: 50%; border: 4px solid #e9ecef; box-shadow: 0 0 0 1px #adb5bd; }
+.pot-name { font-size: 0.88rem; margin-bottom: 6px; min-height: 2.5em; display: flex; align-items: center; justify-content: center; }
+.pot-ctrl { display: flex; align-items: center; justify-content: center; gap: 6px; }
+.pot-ctrl button { width: 44px; padding: 0; font-size: 1.3rem; line-height: 1; }
+.pot-ctrl output { min-width: 1.6em; font-weight: 700; font-size: 1.1rem; }
+
+.goal { background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 14px; }
+.goal label { font-weight: 700; margin-right: 8px; }
+.goal select { padding: 8px; border-radius: 8px; border: 2px solid var(--ink); min-height: 44px; background: #fff; }
+.goal-swatches { display: flex; gap: 18px; margin: 12px 0 6px; }
+.goal-swatches > div { text-align: center; color: var(--soft); font-size: 0.9rem; }
+.swatch { width: 96px; height: 64px; border-radius: 10px; border: 1px solid rgba(0, 0, 0, 0.15); margin-bottom: 4px; }
+.match { margin: 6px 0 0; font-weight: 700; min-height: 1.4em; }
+
+.chart { list-style: none; padding: 0; margin: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 8px; }
+.chart li { display: flex; align-items: center; gap: 8px; background: var(--card); border: 1px solid var(--line); border-radius: 10px; padding: 6px 8px; font-size: 0.9rem; }
+.chip { width: 32px; height: 32px; border-radius: 50%; flex: none; border: 1px solid rgba(0, 0, 0, 0.15); }
+
+@media (max-width: 420px) {
+  main { padding: 12px; }
+  .plate { width: 140px; height: 140px; }
+  .mix { width: 86px; height: 76px; }
+  .pot-ctrl button { width: 40px; min-height: 40px; }
+}

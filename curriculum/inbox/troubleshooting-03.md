@@ -1,0 +1,21 @@
+- Mix turns brown or gray | three or more colors, or opposite colors, mixed together | keep to two colors plus white or black; start a fresh pool | 03.1
+- A mix needs huge amounts of paint to change | the light color was added to the dark one | start with the light color; add the dark one a little at a time | 03.1
+- One drop of black ruins a mix | black is much stronger than other colors | use a tiny touch on the brush tip | 03.1
+- Paint cakes get streaks of other colors | a dirty brush dipped into a clean cake | rinse and wipe the brush before touching each cake | 03.1
+- Purple looks dull and brownish | the red leans orange | mix purple from pink or magenta and blue | 03.1
+- Streaks or lines in a gradient | wiping or sliding the sponge | dab straight down and lift; add a second dabbed layer when dry | 03.2
+- A sharp line between two gradient colors | the colors were not overlapped | dab back and forth over the meeting point a little at a time | 03.2
+- White or skin-colored gaps in a sponged area | sponge too dry, or too few dabs | reload, dab on the plate, then dab with light overlapping presses | 03.2
+- Muddy brown middle in a gradient | opposite colors, or the sponge rubbed across both cakes | use neighbor colors; load each half of the sponge separately | 03.2
+- Hard border around a sponged patch | same pressure and paint right to the edge | dab lighter and with less paint toward the edges | 03.2
+- Black outline turns gray or smudgy | black painted over wet color | let the color dry until it is no longer shiny, then outline | 03.3
+- Outlines look heavy and cartoonish | thick, even line around every part | thin-thick lines, only around the outside | 03.3
+- Shapes look flat even with white highlights | highlights on different sides | choose one light direction; all highlights on that side | 03.3
+- White highlight looks pale and see-through | too much water, or painted on wet paint | creamy white on a dry base; add a second touch once dry | 03.3
+- One side of a symmetrical design sits higher | placed by eye, not from a landmark | start each element at the same landmark on both sides | 03.4
+- One side of a symmetrical design is bigger | a whole half painted first, then copied | paint one element, then the same element on the other side at once | 03.4
+- Mirrored shapes point the same way instead of mirroring | the shape was copied, not its mirror image | describe it from the middle ("tail points away from the middle") | 03.4
+- Can't see if the sides match | standing too close to the mirror | step back about a meter or take a photo; cover one half, then the other | 03.4
+- Design looks messy and loud | too many colors, all used equally | three or four colors; one clearly leads (about 60%) | 03.5
+- Yellow, orange or pastels look thin on deep skin | light colors are see-through over dark skin | paint a thin layer of white underneath first and let it dry | 03.5
+- Pale colors vanish on light skin | too little contrast with the skin | add a thin black outline or use a deeper shade | 03.5

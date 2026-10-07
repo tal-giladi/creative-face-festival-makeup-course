@@ -1,0 +1,51 @@
+- id: q1
+  question: >-
+    You are painting matching swirls above both brows. What is the most reliable way to place the
+    second swirl?
+  options:
+    - Start it the same distance from the hairline as the first one.
+    - Paint it freehand while looking at the first swirl in the mirror.
+    - Start it at the same landmark, the end of the brow.
+    - Paint it a little lower, because the second side always drifts up.
+  correct: 2
+  explanation: >-
+    Landmarks like the end of the brow exist on both sides, so measuring from them places the copy
+    correctly. Hairlines are rarely even.
+- id: q2
+  question: >-
+    A friend paints the whole left half of a design, then tries to copy it all on the right. The right
+    side comes out bigger. What should she change?
+  options:
+    - Paint the harder right side first next time, then copy it on the left.
+    - Paint one element, then the same element on the other side at once.
+    - Use a bigger brush on the left so both halves grow at the same rate.
+    - Make the left side bigger on purpose to balance the right.
+  correct: 1
+  explanation: >-
+    Small steps are much easier to match than a whole half from memory. Switch sides after every
+    element and compare before moving on.
+- id: q3
+  question: >-
+    Where on the face map does a single dot meant to sit between the brows go?
+  options:
+    - On the center line, level with the brows.
+    - Above the end of the left brow.
+    - On the eye line, next to the nose.
+    - Halfway between the inner corner of one eye and the center line.
+  correct: 0
+  explanation: >-
+    Anything meant to be in the middle sits on the center line. Paint it last, once the elements on
+    both sides show where the middle really is.
+- id: q4
+  question: >-
+    Up close in the mirror your design looks even, but you are not sure. What is the best way to
+    check it?
+  options:
+    - Lean even closer to the mirror and look at each side in turn.
+    - Ask someone to look at it from behind you.
+    - Measure each element with a ruler held against your face.
+    - Step back about a meter or take a photo, and cover one half, then the other.
+  correct: 3
+  explanation: >-
+    From a distance, or in a photo, a side that is higher or bigger is easy to spot. Up close you only
+    see one part at a time.

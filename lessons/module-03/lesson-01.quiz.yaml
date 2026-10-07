@@ -1,0 +1,50 @@
+- id: q1
+  question: >-
+    You need green for leaves but your kit has no green. You have yellow and blue. How do you mix it?
+  options:
+    - Put a pool of blue on the plate and add yellow until it turns green.
+    - Put a pool of yellow on the plate and pull in a little blue at a time.
+    - Paint yellow on the skin, then paint blue over it while it is wet.
+    - Mix equal brush-loads of yellow, blue and a little white together.
+  correct: 1
+  explanation: >-
+    Start with the light color and add the dark one a little at a time; it takes a lot of yellow to
+    change blue. Mix on the plate, not on the skin.
+- id: q2
+  question: >-
+    Your purple, mixed from your kit's bright orange-red and blue, looks dull and brownish. What is
+    the best fix?
+  options:
+    - Add a touch of black so the purple looks deeper and richer.
+    - Add some yellow so the mix gets brighter and warmer.
+    - Mix it again from pink (a cool red) and blue.
+    - Keep stirring longer until the colors blend properly.
+  correct: 2
+  explanation: >-
+    A red that leans orange already contains some yellow, so with blue it drifts toward brown. Pink
+    or magenta and blue make a clean purple. Black and yellow would make it duller still.
+- id: q3
+  question: >-
+    You want a soft baby blue for a fairy design. What do you mix?
+  options:
+    - Blue with a tiny touch of black.
+    - Blue with a little yellow.
+    - Blue with plenty of water so it is see-through.
+    - White with a little blue added to it.
+  correct: 3
+  explanation: >-
+    Color plus white is a tint: lighter and softer. Start with white and add the blue a little at a
+    time. Extra water only makes the paint thin and streaky.
+- id: q4
+  question: >-
+    A friend's orange mix keeps turning a dull brown. She mixed it with yellow, red and "just a bit"
+    of green on a plate she hadn't washed. What is the most likely cause?
+  options:
+    - Too many colors, counting the old paint on the plate.
+    - Not enough water, so the paint dried while she mixed.
+    - The yellow cake was too old to mix cleanly anymore.
+    - She mixed on a plate when she should have used her arm.
+  correct: 0
+  explanation: >-
+    Every extra color pulls a mix toward brown, and old paint on the plate counts as an extra color.
+    Use two colors on a clean plate.

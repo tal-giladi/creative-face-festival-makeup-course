@@ -1,0 +1,51 @@
+- id: q1
+  question: >-
+    You are painting a cheek design with a ball, a heart and three stars. Where do the white
+    highlights go?
+  options:
+    - On whichever side of each shape has the most empty space.
+    - On the side of every shape that faces the light you chose.
+    - In the middle of each shape, so they look balanced.
+    - On the side of each shape nearest the eye.
+  correct: 1
+  explanation: >-
+    Pick one light direction for the whole design and put every highlight on that side. Highlights
+    on different sides make the shapes look flat and confusing.
+- id: q2
+  question: >-
+    Your black outline around a yellow star keeps turning gray and smudgy. What is the most likely
+    cause?
+  options:
+    - You outlined before the yellow had dried.
+    - Your black paint has too little water in it.
+    - Your brush is too small for outlines.
+    - Black and yellow can't be used together.
+  correct: 0
+  explanation: >-
+    Black painted into wet color mixes with it and turns gray. Let the color dry until it is no longer
+    shiny, then outline.
+- id: q3
+  question: >-
+    A friend outlined every petal, every leaf and every dot of her flower in thick black, and now it
+    looks heavy. What advice do you give for next time?
+  options:
+    - Outline everything again in white so the black looks lighter.
+    - Use gray instead of black, because black is always too strong.
+    - Skip outlines entirely, because they never help a design.
+    - Use thin-thick lines, mostly around the outside of the flower.
+  correct: 3
+  explanation: >-
+    Outlines help where a shape meets skin or a similar color. Thin-thick lines around the outside
+    give a clean edge without swallowing the color.
+- id: q4
+  question: >-
+    In what order do you paint a design with colored shapes, black outlines and white highlights?
+  options:
+    - Black outlines, then colors inside them, then white.
+    - White highlights, then colors, then black outlines.
+    - Colors, let them dry, black outlines, then white highlights.
+    - Colors and white together while wet, then black outlines.
+  correct: 2
+  explanation: >-
+    Colors and white are easy to cover, black is not, so black goes on once the shapes are right.
+    White goes last so it sits clean on top.

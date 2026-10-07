@@ -1,0 +1,51 @@
+- id: q1
+  question: >-
+    Your blue-to-purple gradient on the arm has thin light lines running through it. What is the most
+    likely cause?
+  options:
+    - The paint was too thick and needed more water.
+    - The sponge was wiped across the skin instead of dabbed.
+    - Blue and purple are opposite colors, so they don't blend.
+    - The sponge was pressed too lightly at the edges.
+  correct: 1
+  explanation: >-
+    Wiping drags the paint into streaks. Dab straight down and lift; once it is dry, a second dabbed
+    layer hides the lines.
+- id: q2
+  question: >-
+    You want a soft gradient on a cheek, but your first try shows a clear line where yellow stops and
+    pink starts. What do you do next?
+  options:
+    - Paint a thin white line over the meeting point to hide it.
+    - Wipe the sponge along the line to smudge the colors together.
+    - Dab back and forth over the meeting point, a little at a time.
+    - Wash it off, because a line can't be fixed once it is there.
+  correct: 2
+  explanation: >-
+    The line means the colors were not overlapped. Short dabs left and right over the meeting point
+    build the overlap zone and soften it.
+- id: q3
+  question: >-
+    Which pair of colors gives the cleanest middle in a two-color sponge gradient?
+  options:
+    - Yellow and orange.
+    - Yellow and purple.
+    - Red and green.
+    - Blue and orange.
+  correct: 0
+  explanation: >-
+    Neighbor colors on the color wheel mix into a clean color where they overlap. Opposite colors,
+    like the other three pairs, turn brown in the middle.
+- id: q4
+  question: >-
+    Your gradient patch on the forearm looks good but has a hard edge all around it, like a sticker.
+    How do you avoid that next time?
+  options:
+    - Use a wetter sponge so the paint runs out at the edges.
+    - Outline the patch in white to make the edge look neat.
+    - Use a bigger sponge so the patch has fewer edges.
+    - Dab more lightly and with less paint toward the outside.
+  correct: 3
+  explanation: >-
+    Lighter dabs with what is left on the sponge make the color fade into the skin. Extra water only
+    makes the paint drip and streak.

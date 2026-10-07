@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="210mm" height="297mm" viewBox="0 0 210 297">
+<title>Palette cards</title>
+<rect width="210" height="297" fill="#fff"/>
+<text x="12" y="16" font-family="Helvetica,Arial,sans-serif" font-size="4.6" fill="#1f2a44" text-anchor="start" font-weight="700">Palette cards</text>
+<text x="12" y="21.5" font-family="Helvetica,Arial,sans-serif" font-size="3" fill="#9aa1ad" text-anchor="start">One palette per card: tick the type, paint the swatches, fill the 60-30-10 bar. Lesson 03.5.</text>
+<text x="146" y="16" font-family="Helvetica,Arial,sans-serif" font-size="3" fill="#9aa1ad" text-anchor="end">Name:</text>
+<line x1="148" y1="16.6" x2="198" y2="16.6" stroke="#c9ced6" stroke-width="0.25"/>
+<line x1="12" y1="287" x2="112" y2="287" stroke="#9aa1ad" stroke-width="0.35"/>
+<line x1="12" y1="284.8" x2="12" y2="287" stroke="#9aa1ad" stroke-width="0.3"/>
+<line x1="22" y1="285.8" x2="22" y2="287" stroke="#9aa1ad" stroke-width="0.3"/>
+<line x1="32" y1="285.8" x2="32" y2="287" stroke="#9aa1ad" stroke-width="0.3"/>
+<line x1="42" y1="285.8" x2="42" y2="287" stroke="#9aa1ad" stroke-width="0.3"/>
+<line x1="52" y1="285.8" x2="52" y2="287" stroke="#9aa1ad" stroke-width="0.3"/>
+<line x1="62" y1="284.8" x2="62" y2="287" stroke="#9aa1ad" stroke-width="0.3"/>
+<line x1="72" y1="285.8" x2="72" y2="287" stroke="#9aa1ad" stroke-width="0.3"/>
+<line x1="82" y1="285.8" x2="82" y2="287" stroke="#9aa1ad" stroke-width="0.3"/>
+<line x1="92" y1="285.8" x2="92" y2="287" stroke="#9aa1ad" stroke-width="0.3"/>
+<line x1="102" y1="285.8" x2="102" y2="287" stroke="#9aa1ad" stroke-width="0.3"/>
+<line x1="112" y1="284.8" x2="112" y2="287" stroke="#9aa1ad" stroke-width="0.3"/>
+<text x="115" y="287.8" font-family="Helvetica,Arial,sans-serif" font-size="2.5" fill="#9aa1ad" text-anchor="start">Must measure 10 cm. If not, print at 100% ("Actual size").</text>
+<rect x="12" y="27" width="90" height="80" fill="none" stroke="#9aa1ad" stroke-width="0.3"/>
+<text x="15" y="33" font-family="Helvetica,Arial,sans-serif" font-size="2.8" fill="#1f2a44" text-anchor="start">Name: ______________________</text>
+<rect x="15" y="36.4" width="3" height="3" fill="none" stroke="#9aa1ad" stroke-width="0.3"/>
+<text x="19.5" y="39" font-family="Helvetica,Arial,sans-serif" font-size="2.6" fill="#9aa1ad" text-anchor="start">analogous</text>
+<rect x="58" y="36.4" width="3" height="3" fill="none" stroke="#9aa1ad" stroke-width="0.3"/>
+<text x="62.5" y="39" font-family="Helvetica,Arial,sans-serif" font-size="2.6" fill="#9aa1ad" text-anchor="start">complementary</text>
+<rect x="15" y="41.9" width="3" height="3" fill="none" stroke="#9aa1ad" stroke-width="0.3"/>
+<text x="19.5" y="44.5" font-family="Helvetica,Arial,sans-serif" font-size="2.6" fill="#9aa1ad" text-anchor="start">mono + accent</text>
+<rect x="58" y="41.9" width="3" height="3" fill="none" stroke="#9aa1ad" stroke-width="0.3"/>
+<text x="62.5" y="44.5" font-family="Helvetica,Arial,sans-serif" font-size="2.6" fill="#9aa1ad" text-anchor="start">warm / cool</text>
+<path d="M30 59L29.84 60.38L29.39 61.64L28.68 62.75L27.75 63.68L26.64 64.39L25.38 64.84L24 65L22.62 64.84L21.36 64.39L20.25 63.68L19.32 62.75L18.61 61.64L18.16 60.38L18 59L18.16 57.62L18.61 56.36L19.32 55.25L20.25 54.32L21.36 53.61L22.62 53.16L24 53L25.38 53.16L26.64 53.61L27.75 54.32L28.68 55.25L29.39 56.36L29.84 57.62L30 59L30 59Z" fill="none" stroke="#c9ced6" stroke-width="0.35" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="24" y="68.5" font-family="Helvetica,Arial,sans-serif" font-size="2.3" fill="#9aa1ad" text-anchor="middle">main</text>
+<path d="M48.5 59L48.34 60.38L47.89 61.64L47.18 62.75L46.25 63.68L45.14 64.39L43.88 64.84L42.5 65L41.12 64.84L39.86 64.39L38.75 63.68L37.82 62.75L37.11 61.64L36.66 60.38L36.5 59L36.66 57.62L37.11 56.36L37.82 55.25L38.75 54.32L39.86 53.61L41.12 53.16L42.5 53L43.88 53.16L45.14 53.61L46.25 54.32L47.18 55.25L47.89 56.36L48.34 57.62L48.5 59L48.5 59Z" fill="none" stroke="#c9ced6" stroke-width="0.35" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="42.5" y="68.5" font-family="Helvetica,Arial,sans-serif" font-size="2.3" fill="#9aa1ad" text-anchor="middle">second</text>
+<path d="M67 59L66.84 60.38L66.39 61.64L65.68 62.75L64.75 63.68L63.64 64.39L62.38 64.84L61 65L59.62 64.84L58.36 64.39L57.25 63.68L56.32 62.75L55.61 61.64L55.16 60.38L55 59L55.16 57.62L55.61 56.36L56.32 55.25L57.25 54.32L58.36 53.61L59.62 53.16L61 53L62.38 53.16L63.64 53.61L64.75 54.32L65.68 55.25L66.39 56.36L66.84 57.62L67 59L67 59Z" fill="none" stroke="#c9ced6" stroke-width="0.35" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="61" y="68.5" font-family="Helvetica,Arial,sans-serif" font-size="2.3" fill="#9aa1ad" text-anchor="middle">accent</text>
+<path d="M85.5 59L85.34 60.38L84.89 61.64L84.18 62.75L83.25 63.68L82.14 64.39L80.88 64.84L79.5 65L78.12 64.84L76.86 64.39L75.75 63.68L74.82 62.75L74.11 61.64L73.66 60.38L73.5 59L73.66 57.62L74.11 56.36L74.82 55.25L75.75 54.32L76.86 53.61L78.12 53.16L79.5 53L80.88 53.16L82.14 53.61L83.25 54.32L84.18 55.25L84.89 56.36L85.34 57.62L85.5 59L85.5 59Z" fill="none" stroke="#c9ced6" stroke-width="0.35" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="79.5" y="68.5" font-family="Helvetica,Arial,sans-serif" font-size="2.3" fill="#9aa1ad" text-anchor="middle">extra</text>
+<rect x="17" y="91" width="80" height="6" fill="none" stroke="#9aa1ad" stroke-width="0.3"/>
+<line x1="65" y1="91" x2="65" y2="97" stroke="#9aa1ad" stroke-width="0.3"/>
+<line x1="89" y1="91" x2="89" y2="97" stroke="#9aa1ad" stroke-width="0.3"/>
+<text x="41" y="100.5" font-family="Helvetica,Arial,sans-serif" font-size="2.3" fill="#9aa1ad" text-anchor="middle">60 main</text>
+<text x="77" y="100.5" font-family="Helvetica,Arial,sans-serif" font-size="2.3" fill="#9aa1ad" text-anchor="middle">30 second</text>
+<text x="93" y="89.5" font-family="Helvetica,Arial,sans-serif" font-size="2.3" fill="#9aa1ad" text-anchor="middle">10</text>
+<text x="17" y="76" font-family="Helvetica,Arial,sans-serif" font-size="2.6" fill="#9aa1ad" text-anchor="start">Skin tone notes:</text>
+<line x1="17" y1="83" x2="97" y2="83" stroke="#c9ced6" stroke-width="0.25"/>
+<rect x="108" y="27" width="90" height="80" fill="none" stroke="#9aa1ad" stroke-width="0.3"/>
+<text x="111" y="33" font-family="Helvetica,Arial,sans-serif" font-size="2.8" fill="#1f2a44" text-anchor="start">Name: ______________________</text>
+<rect x="111" y="36.4" width="3" height="3" fill="none" stroke="#9aa1ad" stroke-width="0.3"/>
+<text x="115.5" y="39" font-family="Helvetica,Arial,sans-serif" font-size="2.6" fill="#9aa1ad" text-anchor="start">analogous</text>
+<rect x="154" y="36.4" width="3" height="3" fill="none" stroke="#9aa1ad" stroke-width="0.3"/>
+<text x="158.5" y="39" font-family="Helvetica,Arial,sans-serif" font-size="2.6" fill="#9aa1ad" text-anchor="start">complementary</text>
+<rect x="111" y="41.9" width="3" height="3" fill="none" stroke="#9aa1ad" stroke-width="0.3"/>
+<text x="115.5" y="44.5" font-family="Helvetica,Arial,sans-serif" font-size="2.6" fill="#9aa1ad" text-anchor="start">mono + accent</text>
+<rect x="154" y="41.9" width="3" height="3" fill="none" stroke="#9aa1ad" stroke-width="0.3"/>
+<text x="158.5" y="44.5" font-family="Helvetica,Arial,sans-serif" font-size="2.6" fill="#9aa1ad" text-anchor="start">warm / cool</text>
+<path d="M126 59L125.84 60.38L125.39 61.64L124.68 62.75L123.75 63.68L122.64 64.39L121.38 64.84L120 65L118.62 64.84L117.36 64.39L116.25 63.68L115.32 62.75L114.61 61.64L114.16 60.38L114 59L114.16 57.62L114.61 56.36L115.32 55.25L116.25 54.32L117.36 53.61L118.62 53.16L120 53L121.38 53.16L122.64 53.61L123.75 54.32L124.68 55.25L125.39 56.36L125.84 57.62L126 59L126 59Z" fill="none" stroke="#c9ced6" stroke-width="0.35" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="120" y="68.5" font-family="Helvetica,Arial,sans-serif" font-size="2.3" fill="#9aa1ad" text-anchor="middle">main</text>
+<path d="M144.5 59L144.34 60.38L143.89 61.64L143.18 62.75L142.25 63.68L141.14 64.39L139.88 64.84L138.5 65L137.12 64.84L135.86 64.39L134.75 63.68L133.82 62.75L133.11 61.64L132.66 60.38L132.5 59L132.66 57.62L133.11 56.36L133.82 55.25L134.75 54.32L135.86 53.61L137.12 53.16L138.5 53L139.88 53.16L141.14 53.61L142.25 54.32L143.18 55.25L143.89 56.36L144.34 57.62L144.5 59L144.5 59Z" fill="none" stroke="#c9ced6" stroke-width="0.35" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="138.5" y="68.5" font-family="Helvetica,Arial,sans-serif" font-size="2.3" fill="#9aa1ad" text-anchor="middle">second</text>
+<path d="M163 59L162.84 60.38L162.39 61.64L161.68 62.75L160.75 63.68L159.64 64.39L158.38 64.84L157 65L155.62 64.84L154.36 64.39L153.25 63.68L152.32 62.75L151.61 61.64L151.16 60.38L151 59L151.16 57.62L151.61 56.36L152.32 55.25L153.25 54.32L154.36 53.61L155.62 53.16L157 53L158.38 53.16L159.64 53.61L160.75 54.32L161.68 55.25L162.39 56.36L162.84 57.62L163 59L163 59Z" fill="none" stroke="#c9ced6" stroke-width="0.35" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="157" y="68.5" font-family="Helvetica,Arial,sans-serif" font-size="2.3" fill="#9aa1ad" text-anchor="middle">accent</text>
+<path d="M181.5 59L181.34 60.38L180.89 61.64L180.18 62.75L179.25 63.68L178.14 64.39L176.88 64.84L175.5 65L174.12 64.84L172.86 64.39L171.75 63.68L170.82 62.75L170.11 61.64L169.66 60.38L169.5 59L169.66 57.62L170.11 56.36L170.82 55.25L171.75 54.32L172.86 53.61L174.12 53.16L175.5 53L176.88 53.16L178.14 53.61L179.25 54.32L180.18 55.25L180.89 56.36L181.34 57.62L181.5 59L181.5 59Z" fill="none" stroke="#c9ced6" stroke-width="0.35" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="175.5" y="68.5" font-family="Helvetica,Arial,sans-serif" font-size="2.3" fill="#9aa1ad" text-anchor="middle">extra</text>
+<rect x="113" y="91" width="80" height="6" fill="none" stroke="#9aa1ad" stroke-width="0.3"/>
+<line x1="161" y1="91" x2="161" y2="97" stroke="#9aa1ad" stroke-width="0.3"/>
+<line x1="185" y1="91" x2="185" y2="97" stroke="#9aa1ad" stroke-width="0.3"/>
+<text x="137" y="100.5" font-family="Helvetica,Arial,sans-serif" font-size="2.3" fill="#9aa1ad" text-anchor="middle">60 main</text>
+<text x="173" y="100.5" font-family="Helvetica,Arial,sans-serif" font-size="2.3" fill="#9aa1ad" text-anchor="middle">30 second</text>
+<text x="189" y="89.5" font-family="Helvetica,Arial,sans-serif" font-size="2.3" fill="#9aa1ad" text-anchor="middle">10</text>
+<text x="113" y="76" font-family="Helvetica,Arial,sans-serif" font-size="2.6" fill="#9aa1ad" text-anchor="start">Skin tone notes:</text>
+<line x1="113" y1="83" x2="193" y2="83" stroke="#c9ced6" stroke-width="0.25"/>
+<rect x="12" y="113" width="90" height="80" fill="none" stroke="#9aa1ad" stroke-width="0.3"/>
+<text x="15" y="119" font-family="Helvetica,Arial,sans-serif" font-size="2.8" fill="#1f2a44" text-anchor="start">Name: ______________________</text>
+<rect x="15" y="122.4" width="3" height="3" fill="none" stroke="#9aa1ad" stroke-width="0.3"/>
+<text x="19.5" y="125" font-family="Helvetica,Arial,sans-serif" font-size="2.6" fill="#9aa1ad" text-anchor="start">analogous</text>
+<rect x="58" y="122.4" width="3" height="3" fill="none" stroke="#9aa1ad" stroke-width="0.3"/>
+<text x="62.5" y="125" font-family="Helvetica,Arial,sans-serif" font-size="2.6" fill="#9aa1ad" text-anchor="start">complementary</text>
+<rect x="15" y="127.9" width="3" height="3" fill="none" stroke="#9aa1ad" stroke-width="0.3"/>
+<text x="19.5" y="130.5" font-family="Helvetica,Arial,sans-serif" font-size="2.6" fill="#9aa1ad" text-anchor="start">mono + accent</text>
+<rect x="58" y="127.9" width="3" height="3" fill="none" stroke="#9aa1ad" stroke-width="0.3"/>
+<text x="62.5" y="130.5" font-family="Helvetica,Arial,sans-serif" font-size="2.6" fill="#9aa1ad" text-anchor="start">warm / cool</text>
+<path d="M30 145L29.84 146.38L29.39 147.64L28.68 148.75L27.75 149.68L26.64 150.39L25.38 150.84L24 151L22.62 150.84L21.36 150.39L20.25 149.68L19.32 148.75L18.61 147.64L18.16 146.38L18 145L18.16 143.62L18.61 142.36L19.32 141.25L20.25 140.32L21.36 139.61L22.62 139.16L24 139L25.38 139.16L26.64 139.61L27.75 140.32L28.68 141.25L29.39 142.36L29.84 143.62L30 145L30 145Z" fill="none" stroke="#c9ced6" stroke-width="0.35" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="24" y="154.5" font-family="Helvetica,Arial,sans-serif" font-size="2.3" fill="#9aa1ad" text-anchor="middle">main</text>
+<path d="M48.5 145L48.34 146.38L47.89 147.64L47.18 148.75L46.25 149.68L45.14 150.39L43.88 150.84L42.5 151L41.12 150.84L39.86 150.39L38.75 149.68L37.82 148.75L37.11 147.64L36.66 146.38L36.5 145L36.66 143.62L37.11 142.36L37.82 141.25L38.75 140.32L39.86 139.61L41.12 139.16L42.5 139L43.88 139.16L45.14 139.61L46.25 140.32L47.18 141.25L47.89 142.36L48.34 143.62L48.5 145L48.5 145Z" fill="none" stroke="#c9ced6" stroke-width="0.35" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="42.5" y="154.5" font-family="Helvetica,Arial,sans-serif" font-size="2.3" fill="#9aa1ad" text-anchor="middle">second</text>
+<path d="M67 145L66.84 146.38L66.39 147.64L65.68 148.75L64.75 149.68L63.64 150.39L62.38 150.84L61 151L59.62 150.84L58.36 150.39L57.25 149.68L56.32 148.75L55.61 147.64L55.16 146.38L55 145L55.16 143.62L55.61 142.36L56.32 141.25L57.25 140.32L58.36 139.61L59.62 139.16L61 139L62.38 139.16L63.64 139.61L64.75 140.32L65.68 141.25L66.39 142.36L66.84 143.62L67 145L67 145Z" fill="none" stroke="#c9ced6" stroke-width="0.35" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="61" y="154.5" font-family="Helvetica,Arial,sans-serif" font-size="2.3" fill="#9aa1ad" text-anchor="middle">accent</text>
+<path d="M85.5 145L85.34 146.38L84.89 147.64L84.18 148.75L83.25 149.68L82.14 150.39L80.88 150.84L79.5 151L78.12 150.84L76.86 150.39L75.75 149.68L74.82 148.75L74.11 147.64L73.66 146.38L73.5 145L73.66 143.62L74.11 142.36L74.82 141.25L75.75 140.32L76.86 139.61L78.12 139.16L79.5 139L80.88 139.16L82.14 139.61L83.25 140.32L84.18 141.25L84.89 142.36L85.34 143.62L85.5 145L85.5 145Z" fill="none" stroke="#c9ced6" stroke-width="0.35" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="79.5" y="154.5" font-family="Helvetica,Arial,sans-serif" font-size="2.3" fill="#9aa1ad" text-anchor="middle">extra</text>
+<rect x="17" y="177" width="80" height="6" fill="none" stroke="#9aa1ad" stroke-width="0.3"/>
+<line x1="65" y1="177" x2="65" y2="183" stroke="#9aa1ad" stroke-width="0.3"/>
+<line x1="89" y1="177" x2="89" y2="183" stroke="#9aa1ad" stroke-width="0.3"/>
+<text x="41" y="186.5" font-family="Helvetica,Arial,sans-serif" font-size="2.3" fill="#9aa1ad" text-anchor="middle">60 main</text>
+<text x="77" y="186.5" font-family="Helvetica,Arial,sans-serif" font-size="2.3" fill="#9aa1ad" text-anchor="middle">30 second</text>
+<text x="93" y="175.5" font-family="Helvetica,Arial,sans-serif" font-size="2.3" fill="#9aa1ad" text-anchor="middle">10</text>
+<text x="17" y="162" font-family="Helvetica,Arial,sans-serif" font-size="2.6" fill="#9aa1ad" text-anchor="start">Skin tone notes:</text>
+<line x1="17" y1="169" x2="97" y2="169" stroke="#c9ced6" stroke-width="0.25"/>
+<rect x="108" y="113" width="90" height="80" fill="none" stroke="#9aa1ad" stroke-width="0.3"/>
+<text x="111" y="119" font-family="Helvetica,Arial,sans-serif" font-size="2.8" fill="#1f2a44" text-anchor="start">Name: ______________________</text>
+<rect x="111" y="122.4" width="3" height="3" fill="none" stroke="#9aa1ad" stroke-width="0.3"/>
+<text x="115.5" y="125" font-family="Helvetica,Arial,sans-serif" font-size="2.6" fill="#9aa1ad" text-anchor="start">analogous</text>
+<rect x="154" y="122.4" width="3" height="3" fill="none" stroke="#9aa1ad" stroke-width="0.3"/>
+<text x="158.5" y="125" font-family="Helvetica,Arial,sans-serif" font-size="2.6" fill="#9aa1ad" text-anchor="start">complementary</text>
+<rect x="111" y="127.9" width="3" height="3" fill="none" stroke="#9aa1ad" stroke-width="0.3"/>
+<text x="115.5" y="130.5" font-family="Helvetica,Arial,sans-serif" font-size="2.6" fill="#9aa1ad" text-anchor="start">mono + accent</text>
+<rect x="154" y="127.9" width="3" height="3" fill="none" stroke="#9aa1ad" stroke-width="0.3"/>
+<text x="158.5" y="130.5" font-family="Helvetica,Arial,sans-serif" font-size="2.6" fill="#9aa1ad" text-anchor="start">warm / cool</text>
+<path d="M126 145L125.84 146.38L125.39 147.64L124.68 148.75L123.75 149.68L122.64 150.39L121.38 150.84L120 151L118.62 150.84L117.36 150.39L116.25 149.68L115.32 148.75L114.61 147.64L114.16 146.38L114 145L114.16 143.62L114.61 142.36L115.32 141.25L116.25 140.32L117.36 139.61L118.62 139.16L120 139L121.38 139.16L122.64 139.61L123.75 140.32L124.68 141.25L125.39 142.36L125.84 143.62L126 145L126 145Z" fill="none" stroke="#c9ced6" stroke-width="0.35" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="120" y="154.5" font-family="Helvetica,Arial,sans-serif" font-size="2.3" fill="#9aa1ad" text-anchor="middle">main</text>
+<path d="M144.5 145L144.34 146.38L143.89 147.64L143.18 148.75L142.25 149.68L141.14 150.39L139.88 150.84L138.5 151L137.12 150.84L135.86 150.39L134.75 149.68L133.82 148.75L133.11 147.64L132.66 146.38L132.5 145L132.66 143.62L133.11 142.36L133.82 141.25L134.75 140.32L135.86 139.61L137.12 139.16L138.5 139L139.88 139.16L141.14 139.61L142.25 140.32L143.18 141.25L143.89 142.36L144.34 143.62L144.5 145L144.5 145Z" fill="none" stroke="#c9ced6" stroke-width="0.35" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="138.5" y="154.5" font-family="Helvetica,Arial,sans-serif" font-size="2.3" fill="#9aa1ad" text-anchor="middle">second</text>
+<path d="M163 145L162.84 146.38L162.39 147.64L161.68 148.75L160.75 149.68L159.64 150.39L158.38 150.84L157 151L155.62 150.84L154.36 150.39L153.25 149.68L152.32 148.75L151.61 147.64L151.16 146.38L151 145L151.16 143.62L151.61 142.36L152.32 141.25L153.25 140.32L154.36 139.61L155.62 139.16L157 139L158.38 139.16L159.64 139.61L160.75 140.32L161.68 141.25L162.39 142.36L162.84 143.62L163 145L163 145Z" fill="none" stroke="#c9ced6" stroke-width="0.35" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="157" y="154.5" font-family="Helvetica,Arial,sans-serif" font-size="2.3" fill="#9aa1ad" text-anchor="middle">accent</text>
+<path d="M181.5 145L181.34 146.38L180.89 147.64L180.18 148.75L179.25 149.68L178.14 150.39L176.88 150.84L175.5 151L174.12 150.84L172.86 150.39L171.75 149.68L170.82 148.75L170.11 147.64L169.66 146.38L169.5 145L169.66 143.62L170.11 142.36L170.82 141.25L171.75 140.32L172.86 139.61L174.12 139.16L175.5 139L176.88 139.16L178.14 139.61L179.25 140.32L180.18 141.25L180.89 142.36L181.34 143.62L181.5 145L181.5 145Z" fill="none" stroke="#c9ced6" stroke-width="0.35" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="175.5" y="154.5" font-family="Helvetica,Arial,sans-serif" font-size="2.3" fill="#9aa1ad" text-anchor="middle">extra</text>
+<rect x="113" y="177" width="80" height="6" fill="none" stroke="#9aa1ad" stroke-width="0.3"/>
+<line x1="161" y1="177" x2="161" y2="183" stroke="#9aa1ad" stroke-width="0.3"/>
+<line x1="185" y1="177" x2="185" y2="183" stroke="#9aa1ad" stroke-width="0.3"/>
+<text x="137" y="186.5" font-family="Helvetica,Arial,sans-serif" font-size="2.3" fill="#9aa1ad" text-anchor="middle">60 main</text>
+<text x="173" y="186.5" font-family="Helvetica,Arial,sans-serif" font-size="2.3" fill="#9aa1ad" text-anchor="middle">30 second</text>
+<text x="189" y="175.5" font-family="Helvetica,Arial,sans-serif" font-size="2.3" fill="#9aa1ad" text-anchor="middle">10</text>
+<text x="113" y="162" font-family="Helvetica,Arial,sans-serif" font-size="2.6" fill="#9aa1ad" text-anchor="start">Skin tone notes:</text>
+<line x1="113" y1="169" x2="193" y2="169" stroke="#c9ced6" stroke-width="0.25"/>
+<rect x="12" y="199" width="90" height="80" fill="none" stroke="#9aa1ad" stroke-width="0.3"/>
+<text x="15" y="205" font-family="Helvetica,Arial,sans-serif" font-size="2.8" fill="#1f2a44" text-anchor="start">Name: ______________________</text>
+<rect x="15" y="208.4" width="3" height="3" fill="none" stroke="#9aa1ad" stroke-width="0.3"/>
+<text x="19.5" y="211" font-family="Helvetica,Arial,sans-serif" font-size="2.6" fill="#9aa1ad" text-anchor="start">analogous</text>
+<rect x="58" y="208.4" width="3" height="3" fill="none" stroke="#9aa1ad" stroke-width="0.3"/>
+<text x="62.5" y="211" font-family="Helvetica,Arial,sans-serif" font-size="2.6" fill="#9aa1ad" text-anchor="start">complementary</text>
+<rect x="15" y="213.9" width="3" height="3" fill="none" stroke="#9aa1ad" stroke-width="0.3"/>
+<text x="19.5" y="216.5" font-family="Helvetica,Arial,sans-serif" font-size="2.6" fill="#9aa1ad" text-anchor="start">mono + accent</text>
+<rect x="58" y="213.9" width="3" height="3" fill="none" stroke="#9aa1ad" stroke-width="0.3"/>
+<text x="62.5" y="216.5" font-family="Helvetica,Arial,sans-serif" font-size="2.6" fill="#9aa1ad" text-anchor="start">warm / cool</text>
+<path d="M30 231L29.84 232.38L29.39 233.64L28.68 234.75L27.75 235.68L26.64 236.39L25.38 236.84L24 237L22.62 236.84L21.36 236.39L20.25 235.68L19.32 234.75L18.61 233.64L18.16 232.38L18 231L18.16 229.62L18.61 228.36L19.32 227.25L20.25 226.32L21.36 225.61L22.62 225.16L24 225L25.38 225.16L26.64 225.61L27.75 226.32L28.68 227.25L29.39 228.36L29.84 229.62L30 231L30 231Z" fill="none" stroke="#c9ced6" stroke-width="0.35" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="24" y="240.5" font-family="Helvetica,Arial,sans-serif" font-size="2.3" fill="#9aa1ad" text-anchor="middle">main</text>
+<path d="M48.5 231L48.34 232.38L47.89 233.64L47.18 234.75L46.25 235.68L45.14 236.39L43.88 236.84L42.5 237L41.12 236.84L39.86 236.39L38.75 235.68L37.82 234.75L37.11 233.64L36.66 232.38L36.5 231L36.66 229.62L37.11 228.36L37.82 227.25L38.75 226.32L39.86 225.61L41.12 225.16L42.5 225L43.88 225.16L45.14 225.61L46.25 226.32L47.18 227.25L47.89 228.36L48.34 229.62L48.5 231L48.5 231Z" fill="none" stroke="#c9ced6" stroke-width="0.35" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="42.5" y="240.5" font-family="Helvetica,Arial,sans-serif" font-size="2.3" fill="#9aa1ad" text-anchor="middle">second</text>
+<path d="M67 231L66.84 232.38L66.39 233.64L65.68 234.75L64.75 235.68L63.64 236.39L62.38 236.84L61 237L59.62 236.84L58.36 236.39L57.25 235.68L56.32 234.75L55.61 233.64L55.16 232.38L55 231L55.16 229.62L55.61 228.36L56.32 227.25L57.25 226.32L58.36 225.61L59.62 225.16L61 225L62.38 225.16L63.64 225.61L64.75 226.32L65.68 227.25L66.39 228.36L66.84 229.62L67 231L67 231Z" fill="none" stroke="#c9ced6" stroke-width="0.35" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="61" y="240.5" font-family="Helvetica,Arial,sans-serif" font-size="2.3" fill="#9aa1ad" text-anchor="middle">accent</text>
+<path d="M85.5 231L85.34 232.38L84.89 233.64L84.18 234.75L83.25 235.68L82.14 236.39L80.88 236.84L79.5 237L78.12 236.84L76.86 236.39L75.75 235.68L74.82 234.75L74.11 233.64L73.66 232.38L73.5 231L73.66 229.62L74.11 228.36L74.82 227.25L75.75 226.32L76.86 225.61L78.12 225.16L79.5 225L80.88 225.16L82.14 225.61L83.25 226.32L84.18 227.25L84.89 228.36L85.34 229.62L85.5 231L85.5 231Z" fill="none" stroke="#c9ced6" stroke-width="0.35" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="79.5" y="240.5" font-family="Helvetica,Arial,sans-serif" font-size="2.3" fill="#9aa1ad" text-anchor="middle">extra</text>
+<rect x="17" y="263" width="80" height="6" fill="none" stroke="#9aa1ad" stroke-width="0.3"/>
+<line x1="65" y1="263" x2="65" y2="269" stroke="#9aa1ad" stroke-width="0.3"/>
+<line x1="89" y1="263" x2="89" y2="269" stroke="#9aa1ad" stroke-width="0.3"/>
+<text x="41" y="272.5" font-family="Helvetica,Arial,sans-serif" font-size="2.3" fill="#9aa1ad" text-anchor="middle">60 main</text>
+<text x="77" y="272.5" font-family="Helvetica,Arial,sans-serif" font-size="2.3" fill="#9aa1ad" text-anchor="middle">30 second</text>
+<text x="93" y="261.5" font-family="Helvetica,Arial,sans-serif" font-size="2.3" fill="#9aa1ad" text-anchor="middle">10</text>
+<text x="17" y="248" font-family="Helvetica,Arial,sans-serif" font-size="2.6" fill="#9aa1ad" text-anchor="start">Skin tone notes:</text>
+<line x1="17" y1="255" x2="97" y2="255" stroke="#c9ced6" stroke-width="0.25"/>
+<rect x="108" y="199" width="90" height="80" fill="none" stroke="#9aa1ad" stroke-width="0.3"/>
+<text x="111" y="205" font-family="Helvetica,Arial,sans-serif" font-size="2.8" fill="#1f2a44" text-anchor="start">Name: ______________________</text>
+<rect x="111" y="208.4" width="3" height="3" fill="none" stroke="#9aa1ad" stroke-width="0.3"/>
+<text x="115.5" y="211" font-family="Helvetica,Arial,sans-serif" font-size="2.6" fill="#9aa1ad" text-anchor="start">analogous</text>
+<rect x="154" y="208.4" width="3" height="3" fill="none" stroke="#9aa1ad" stroke-width="0.3"/>
+<text x="158.5" y="211" font-family="Helvetica,Arial,sans-serif" font-size="2.6" fill="#9aa1ad" text-anchor="start">complementary</text>
+<rect x="111" y="213.9" width="3" height="3" fill="none" stroke="#9aa1ad" stroke-width="0.3"/>
+<text x="115.5" y="216.5" font-family="Helvetica,Arial,sans-serif" font-size="2.6" fill="#9aa1ad" text-anchor="start">mono + accent</text>
+<rect x="154" y="213.9" width="3" height="3" fill="none" stroke="#9aa1ad" stroke-width="0.3"/>
+<text x="158.5" y="216.5" font-family="Helvetica,Arial,sans-serif" font-size="2.6" fill="#9aa1ad" text-anchor="start">warm / cool</text>
+<path d="M126 231L125.84 232.38L125.39 233.64L124.68 234.75L123.75 235.68L122.64 236.39L121.38 236.84L120 237L118.62 236.84L117.36 236.39L116.25 235.68L115.32 234.75L114.61 233.64L114.16 232.38L114 231L114.16 229.62L114.61 228.36L115.32 227.25L116.25 226.32L117.36 225.61L118.62 225.16L120 225L121.38 225.16L122.64 225.61L123.75 226.32L124.68 227.25L125.39 228.36L125.84 229.62L126 231L126 231Z" fill="none" stroke="#c9ced6" stroke-width="0.35" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="120" y="240.5" font-family="Helvetica,Arial,sans-serif" font-size="2.3" fill="#9aa1ad" text-anchor="middle">main</text>
+<path d="M144.5 231L144.34 232.38L143.89 233.64L143.18 234.75L142.25 235.68L141.14 236.39L139.88 236.84L138.5 237L137.12 236.84L135.86 236.39L134.75 235.68L133.82 234.75L133.11 233.64L132.66 232.38L132.5 231L132.66 229.62L133.11 228.36L133.82 227.25L134.75 226.32L135.86 225.61L137.12 225.16L138.5 225L139.88 225.16L141.14 225.61L142.25 226.32L143.18 227.25L143.89 228.36L144.34 229.62L144.5 231L144.5 231Z" fill="none" stroke="#c9ced6" stroke-width="0.35" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="138.5" y="240.5" font-family="Helvetica,Arial,sans-serif" font-size="2.3" fill="#9aa1ad" text-anchor="middle">second</text>
+<path d="M163 231L162.84 232.38L162.39 233.64L161.68 234.75L160.75 235.68L159.64 236.39L158.38 236.84L157 237L155.62 236.84L154.36 236.39L153.25 235.68L152.32 234.75L151.61 233.64L151.16 232.38L151 231L151.16 229.62L151.61 228.36L152.32 227.25L153.25 226.32L154.36 225.61L155.62 225.16L157 225L158.38 225.16L159.64 225.61L160.75 226.32L161.68 227.25L162.39 228.36L162.84 229.62L163 231L163 231Z" fill="none" stroke="#c9ced6" stroke-width="0.35" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="157" y="240.5" font-family="Helvetica,Arial,sans-serif" font-size="2.3" fill="#9aa1ad" text-anchor="middle">accent</text>
+<path d="M181.5 231L181.34 232.38L180.89 233.64L180.18 234.75L179.25 235.68L178.14 236.39L176.88 236.84L175.5 237L174.12 236.84L172.86 236.39L171.75 235.68L170.82 234.75L170.11 233.64L169.66 232.38L169.5 231L169.66 229.62L170.11 228.36L170.82 227.25L171.75 226.32L172.86 225.61L174.12 225.16L175.5 225L176.88 225.16L178.14 225.61L179.25 226.32L180.18 227.25L180.89 228.36L181.34 229.62L181.5 231L181.5 231Z" fill="none" stroke="#c9ced6" stroke-width="0.35" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="175.5" y="240.5" font-family="Helvetica,Arial,sans-serif" font-size="2.3" fill="#9aa1ad" text-anchor="middle">extra</text>
+<rect x="113" y="263" width="80" height="6" fill="none" stroke="#9aa1ad" stroke-width="0.3"/>
+<line x1="161" y1="263" x2="161" y2="269" stroke="#9aa1ad" stroke-width="0.3"/>
+<line x1="185" y1="263" x2="185" y2="269" stroke="#9aa1ad" stroke-width="0.3"/>
+<text x="137" y="272.5" font-family="Helvetica,Arial,sans-serif" font-size="2.3" fill="#9aa1ad" text-anchor="middle">60 main</text>
+<text x="173" y="272.5" font-family="Helvetica,Arial,sans-serif" font-size="2.3" fill="#9aa1ad" text-anchor="middle">30 second</text>
+<text x="189" y="261.5" font-family="Helvetica,Arial,sans-serif" font-size="2.3" fill="#9aa1ad" text-anchor="middle">10</text>
+<text x="113" y="248" font-family="Helvetica,Arial,sans-serif" font-size="2.6" fill="#9aa1ad" text-anchor="start">Skin tone notes:</text>
+<line x1="113" y1="255" x2="193" y2="255" stroke="#c9ced6" stroke-width="0.25"/>
+</svg>

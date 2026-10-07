@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Paint mixing plate</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<main>
+  <header>
+    <h1>Paint mixing plate</h1>
+    <p class="tag">Educational model: it imitates how paints mix, so real face paints will look a little different. Always test a real mix on paper.</p>
+  </header>
+
+  <section class="plate-area" aria-labelledby="mix-h">
+    <h2 id="mix-h" class="sr-only">Your mix</h2>
+    <div class="plate">
+      <div id="mix" class="mix" role="img" aria-label="Empty plate"></div>
+    </div>
+    <div class="readout">
+      <p id="recipe" class="recipe">The plate is empty. Add a drop of paint.</p>
+      <p id="advice" class="advice" aria-live="polite"></p>
+      <div class="row-buttons">
+        <button type="button" id="save">Save to my chart</button>
+        <button type="button" id="clear" class="secondary">Wash the plate</button>
+      </div>
+    </div>
+  </section>
+
+  <section aria-labelledby="pots-h">
+    <h2 id="pots-h">Paint cakes</h2>
+    <p class="hint">Add drops one at a time. Start with the light color, then add the dark one a drop at a time.</p>
+    <div id="pots" class="pots"></div>
+  </section>
+
+  <section aria-labelledby="goal-h">
+    <h2 id="goal-h">Try to mix this</h2>
+    <div class="goal">
+      <label for="target">Target color</label>
+      <select id="target"></select>
+      <div class="goal-swatches">
+        <div><div id="targetSwatch" class="swatch" role="img" aria-label="Target color"></div><span>target</span></div>
+        <div><div id="mineSwatch" class="swatch" role="img" aria-label="Your mix"></div><span>your mix</span></div>
+      </div>
+      <p id="match" class="match" aria-live="polite"></p>
+    </div>
+  </section>
+
+  <section aria-labelledby="chart-h">
+    <h2 id="chart-h">My mixing chart</h2>
+    <p class="hint">Saved mixes and their recipes. Copy the ones you like onto your paper chart.</p>
+    <ol id="chart" class="chart"></ol>
+  </section>
+</main>
+<script type="module" src="app.js"></script>
+</body>
+</html>

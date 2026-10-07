@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="210mm" height="297mm" viewBox="0 0 210 297">
+<title>Sponge gradient practice</title>
+<rect width="210" height="297" fill="#fff"/>
+<text x="12" y="16" font-family="Helvetica,Arial,sans-serif" font-size="4.6" fill="#1f2a44" text-anchor="start" font-weight="700">Sponge gradient practice</text>
+<text x="12" y="21.5" font-family="Helvetica,Arial,sans-serif" font-size="3" fill="#9aa1ad" text-anchor="start">Two colors side by side on the sponge. Dab, do not wipe. Blend between the dashed lines. Lesson 03.2.</text>
+<text x="146" y="16" font-family="Helvetica,Arial,sans-serif" font-size="3" fill="#9aa1ad" text-anchor="end">Name:</text>
+<line x1="148" y1="16.6" x2="198" y2="16.6" stroke="#c9ced6" stroke-width="0.25"/>
+<line x1="12" y1="287" x2="112" y2="287" stroke="#9aa1ad" stroke-width="0.35"/>
+<line x1="12" y1="284.8" x2="12" y2="287" stroke="#9aa1ad" stroke-width="0.3"/>
+<line x1="22" y1="285.8" x2="22" y2="287" stroke="#9aa1ad" stroke-width="0.3"/>
+<line x1="32" y1="285.8" x2="32" y2="287" stroke="#9aa1ad" stroke-width="0.3"/>
+<line x1="42" y1="285.8" x2="42" y2="287" stroke="#9aa1ad" stroke-width="0.3"/>
+<line x1="52" y1="285.8" x2="52" y2="287" stroke="#9aa1ad" stroke-width="0.3"/>
+<line x1="62" y1="284.8" x2="62" y2="287" stroke="#9aa1ad" stroke-width="0.3"/>
+<line x1="72" y1="285.8" x2="72" y2="287" stroke="#9aa1ad" stroke-width="0.3"/>
+<line x1="82" y1="285.8" x2="82" y2="287" stroke="#9aa1ad" stroke-width="0.3"/>
+<line x1="92" y1="285.8" x2="92" y2="287" stroke="#9aa1ad" stroke-width="0.3"/>
+<line x1="102" y1="285.8" x2="102" y2="287" stroke="#9aa1ad" stroke-width="0.3"/>
+<line x1="112" y1="284.8" x2="112" y2="287" stroke="#9aa1ad" stroke-width="0.3"/>
+<text x="115" y="287.8" font-family="Helvetica,Arial,sans-serif" font-size="2.5" fill="#9aa1ad" text-anchor="start">Must measure 10 cm. If not, print at 100% ("Actual size").</text>
+<text x="12" y="34" font-family="Helvetica,Arial,sans-serif" font-size="2.7" fill="#9aa1ad" text-anchor="start">Color 1: ________   Color 2: ________</text>
+<rect x="12" y="37" width="89" height="36" fill="none" stroke="#c9ced6" stroke-width="0.35"/>
+<line x1="41.67" y1="37" x2="41.67" y2="73" stroke="#c9ced6" stroke-width="0.3" stroke-dasharray="1.5 1.5"/>
+<line x1="71.33" y1="37" x2="71.33" y2="73" stroke="#c9ced6" stroke-width="0.3" stroke-dasharray="1.5 1.5"/>
+<text x="56.5" y="77.5" font-family="Helvetica,Arial,sans-serif" font-size="2.3" fill="#9aa1ad" text-anchor="middle">overlap zone</text>
+<text x="109" y="34" font-family="Helvetica,Arial,sans-serif" font-size="2.7" fill="#9aa1ad" text-anchor="start">Color 1: ________   Color 2: ________</text>
+<rect x="109" y="37" width="89" height="36" fill="none" stroke="#c9ced6" stroke-width="0.35"/>
+<line x1="138.67" y1="37" x2="138.67" y2="73" stroke="#c9ced6" stroke-width="0.3" stroke-dasharray="1.5 1.5"/>
+<line x1="168.33" y1="37" x2="168.33" y2="73" stroke="#c9ced6" stroke-width="0.3" stroke-dasharray="1.5 1.5"/>
+<text x="153.5" y="77.5" font-family="Helvetica,Arial,sans-serif" font-size="2.3" fill="#9aa1ad" text-anchor="middle">overlap zone</text>
+<text x="12" y="96" font-family="Helvetica,Arial,sans-serif" font-size="2.7" fill="#9aa1ad" text-anchor="start">Color 1: ________   Color 2: ________</text>
+<rect x="12" y="99" width="89" height="36" fill="none" stroke="#c9ced6" stroke-width="0.35"/>
+<line x1="41.67" y1="99" x2="41.67" y2="135" stroke="#c9ced6" stroke-width="0.3" stroke-dasharray="1.5 1.5"/>
+<line x1="71.33" y1="99" x2="71.33" y2="135" stroke="#c9ced6" stroke-width="0.3" stroke-dasharray="1.5 1.5"/>
+<text x="56.5" y="139.5" font-family="Helvetica,Arial,sans-serif" font-size="2.3" fill="#9aa1ad" text-anchor="middle">overlap zone</text>
+<text x="109" y="96" font-family="Helvetica,Arial,sans-serif" font-size="2.7" fill="#9aa1ad" text-anchor="start">Color 1: ________   Color 2: ________</text>
+<rect x="109" y="99" width="89" height="36" fill="none" stroke="#c9ced6" stroke-width="0.35"/>
+<line x1="138.67" y1="99" x2="138.67" y2="135" stroke="#c9ced6" stroke-width="0.3" stroke-dasharray="1.5 1.5"/>
+<line x1="168.33" y1="99" x2="168.33" y2="135" stroke="#c9ced6" stroke-width="0.3" stroke-dasharray="1.5 1.5"/>
+<text x="153.5" y="139.5" font-family="Helvetica,Arial,sans-serif" font-size="2.3" fill="#9aa1ad" text-anchor="middle">overlap zone</text>
+<text x="12" y="158" font-family="Helvetica,Arial,sans-serif" font-size="2.7" fill="#9aa1ad" text-anchor="start">Color 1: ________   Color 2: ________</text>
+<rect x="12" y="161" width="89" height="36" fill="none" stroke="#c9ced6" stroke-width="0.35"/>
+<line x1="41.67" y1="161" x2="41.67" y2="197" stroke="#c9ced6" stroke-width="0.3" stroke-dasharray="1.5 1.5"/>
+<line x1="71.33" y1="161" x2="71.33" y2="197" stroke="#c9ced6" stroke-width="0.3" stroke-dasharray="1.5 1.5"/>
+<text x="56.5" y="201.5" font-family="Helvetica,Arial,sans-serif" font-size="2.3" fill="#9aa1ad" text-anchor="middle">overlap zone</text>
+<text x="109" y="158" font-family="Helvetica,Arial,sans-serif" font-size="2.7" fill="#9aa1ad" text-anchor="start">Color 1: ________   Color 2: ________</text>
+<rect x="109" y="161" width="89" height="36" fill="none" stroke="#c9ced6" stroke-width="0.35"/>
+<line x1="138.67" y1="161" x2="138.67" y2="197" stroke="#c9ced6" stroke-width="0.3" stroke-dasharray="1.5 1.5"/>
+<line x1="168.33" y1="161" x2="168.33" y2="197" stroke="#c9ced6" stroke-width="0.3" stroke-dasharray="1.5 1.5"/>
+<text x="153.5" y="201.5" font-family="Helvetica,Arial,sans-serif" font-size="2.3" fill="#9aa1ad" text-anchor="middle">overlap zone</text>
+<text x="12" y="219" font-family="Helvetica,Arial,sans-serif" font-size="3.2" fill="#1f2a44" text-anchor="start" font-weight="700">Fade into the paper: no hard edge anywhere.</text>
+<path d="M35 250L35.03 249.41L35.1 248.84L35.23 248.27L35.41 247.71L35.63 247.16L35.91 246.62L36.23 246.09L36.6 245.57L37.01 245.06L37.47 244.56L37.97 244.07L38.51 243.58L39.1 243.11L39.73 242.64L40.4 242.19L41.11 241.74L41.85 241.3L42.64 240.88L43.46 240.46L44.32 240.05L45.22 239.65L46.15 239.26L47.11 238.88L48.11 238.51L49.14 238.14L50.2 237.79L51.29 237.44L52.41 237.11L53.57 236.78L54.75 236.47L55.95 236.16L57.19 235.86L58.45 235.58L59.73 235.3L61.04 235.03L62.37 234.77L63.72 234.52L65.1 234.27L66.5 234.04L67.92 233.82L69.35 233.6L70.81 233.4L72.28 233.2L73.77 233.02L75.27 232.84L76.8 232.67L78.33 232.52L79.88 232.37L81.44 232.23L83.01 232.1L84.6 231.98L86.19 231.86L87.8 231.76L89.41 231.67L91.03 231.59L92.66 231.51L94.29 231.45L95.93 231.39L97.57 231.34L99.22 231.31L100.87 231.28L102.52 231.26L104.17 231.25L105.83 231.25L107.48 231.26L109.13 231.28L110.78 231.31L112.43 231.34L114.07 231.39L115.71 231.45L117.34 231.51L118.97 231.59L120.59 231.67L122.2 231.76L123.81 231.86L125.4 231.98L126.99 232.1L128.56 232.23L130.12 232.37L131.67 232.52L133.2 232.67L134.73 232.84L136.23 233.02L137.72 233.2L139.19 233.4L140.65 233.6L142.08 233.82L143.5 234.04L144.9 234.27L146.28 234.52L147.63 234.77L148.96 235.03L150.27 235.3L151.55 235.58L152.81 235.86L154.05 236.16L155.25 236.47L156.43 236.78L157.59 237.11L158.71 237.44L159.8 237.79L160.86 238.14L161.89 238.51L162.89 238.88L163.85 239.26L164.78 239.65L165.68 240.05L166.54 240.46L167.36 240.88L168.15 241.3L168.89 241.74L169.6 242.19L170.27 242.64L170.9 243.11L171.49 243.58L172.03 244.07L172.53 244.56L172.99 245.06L173.4 245.57L173.77 246.09L174.09 246.62L174.37 247.16L174.59 247.71L174.77 248.27L174.9 248.84L174.97 249.41L175 250L174.97 250.59L174.9 251.16L174.77 251.73L174.59 252.29L174.37 252.84L174.09 253.38L173.77 253.91L173.4 254.43L172.99 254.94L172.53 255.44L172.03 255.93L171.49 256.42L170.9 256.89L170.27 257.36L169.6 257.81L168.89 258.26L168.15 258.7L167.36 259.12L166.54 259.54L165.68 259.95L164.78 260.35L163.85 260.74L162.89 261.12L161.89 261.49L160.86 261.86L159.8 262.21L158.71 262.56L157.59 262.89L156.43 263.22L155.25 263.53L154.05 263.84L152.81 264.14L151.55 264.42L150.27 264.7L148.96 264.97L147.63 265.23L146.28 265.48L144.9 265.73L143.5 265.96L142.08 266.18L140.65 266.4L139.19 266.6L137.72 266.8L136.23 266.98L134.73 267.16L133.2 267.33L131.67 267.48L130.12 267.63L128.56 267.77L126.99 267.9L125.4 268.02L123.81 268.14L122.2 268.24L120.59 268.33L118.97 268.41L117.34 268.49L115.71 268.55L114.07 268.61L112.43 268.66L110.78 268.69L109.13 268.72L107.48 268.74L105.83 268.75L104.17 268.75L102.52 268.74L100.87 268.72L99.22 268.69L97.57 268.66L95.93 268.61L94.29 268.55L92.66 268.49L91.03 268.41L89.41 268.33L87.8 268.24L86.19 268.14L84.6 268.02L83.01 267.9L81.44 267.77L79.88 267.63L78.33 267.48L76.8 267.33L75.27 267.16L73.77 266.98L72.28 266.8L70.81 266.6L69.35 266.4L67.92 266.18L66.5 265.96L65.1 265.73L63.72 265.48L62.37 265.23L61.04 264.97L59.73 264.7L58.45 264.42L57.19 264.14L55.95 263.84L54.75 263.53L53.57 263.22L52.41 262.89L51.29 262.56L50.2 262.21L49.14 261.86L48.11 261.49L47.11 261.12L46.15 260.74L45.22 260.35L44.32 259.95L43.46 259.54L42.64 259.12L41.85 258.7L41.11 258.26L40.4 257.81L39.73 257.36L39.1 256.89L38.51 256.42L37.97 255.93L37.47 255.44L37.01 254.94L36.6 254.43L36.23 253.91L35.91 253.38L35.63 252.84L35.41 252.29L35.23 251.73L35.1 251.16L35.03 250.59L35 250L35 250Z" fill="none" stroke="#c9ced6" stroke-width="0.3" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1.5 1.5"/>
+<text x="105" y="252" font-family="Helvetica,Arial,sans-serif" font-size="2.5" fill="#9aa1ad" text-anchor="middle">strong in the middle, lighter dabs toward the dashed edge</text>
+</svg>

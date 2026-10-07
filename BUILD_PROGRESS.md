@@ -31,7 +31,7 @@ Tools: `curriculum/tools/lib/` (geom, face, art, figure, sheet), `assets-mNN.mjs
 - [x] Example lesson 01.1
 - [x] M1 Tools, Materials and Safety
 - [x] M2 Brush Control
-- [ ] M3 Color and Symmetry
+- [x] M3 Color and Symmetry
 - [ ] M4 First Designs (+ P1-P5)
 - [ ] M5 Festival Faces
 - [ ] M6 Glitter, Gems and Neon (+ P7, P8)
@@ -39,12 +39,12 @@ Tools: `curriculum/tools/lib/` (geom, face, art, figure, sheet), `assets-mNN.mjs
 - [ ] M8 Advanced Color and Illusion
 - [ ] M9 Fantasy Characters and Masks (+ P10-P12)
 - [ ] M10 Body Art (Optional) (+ P13)
-- [ ] Simulations: color mixing, symmetry mirror
+- [x] Simulations: color mixing (03.1); symmetry mirror not needed (03.4 works without it)
 - [ ] Final QA (dry-run 0 problems, links, renders, sheets print at 100%, git clean)
 
 ## Working now
 
-- Agent A: M3. Agent B: M2. Main session: merges inboxes, checks, commits after each module.
+- Agent A: M4 (+ P1-P5). Agent B: next (M5). Main session: merges inboxes, checks, commits after each module.
 
 ## Decisions during the build
 

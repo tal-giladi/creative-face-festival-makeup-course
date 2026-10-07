@@ -92,6 +92,9 @@ for a flat side). Packs are cheap in pharmacies and supermarkets.
 - be new and used only for face paint;
 - squeeze almost dry without falling apart.
 
+**For gradients:** a sponge with a flat side lets you load two colors side by side (lesson 03.2).
+Cut a round or beauty-blender style sponge in half to get one.
+
 **Hygiene:** use a fresh sponge (or a fresh piece) for each person and wash them after every use.
 Never put a used sponge back into a paint cake that another person will use.
 
