@@ -1,0 +1,52 @@
+- id: q1
+  question: >-
+    You nest five lines beside a lead line, and by the fifth line the gaps have grown uneven and the
+    curve looks different. What should you do next time?
+  options:
+    - Copy the line next to it, keeping the same gap.
+    - Copy the lead line each time, since it is the original and best shape.
+    - Paint all five lines at once with a wide flat brush.
+    - Leave out the lead line and paint the bands freehand.
+  correct: 0
+  explanation: >-
+    Each nested line copies its neighbor at the same distance. Looking back at a far-away lead line
+    makes small errors grow line by line.
+- id: q2
+  question: >-
+    A friend paints rainbow waves straight across her face, over the nose and both eyes, and it
+    looks like a striped mask. What advice helps most?
+  options:
+    - Use more colors so the stripes look more psychedelic.
+    - Make the stripes thinner so they cover less of the face.
+    - Paint the same stripes, but in brighter neon colors.
+    - Let the waves follow the brows, temples and cheekbones instead.
+  correct: 3
+  explanation: >-
+    Waves that follow the face's curves flow and lift it, and they stay out of the eye area. Bands
+    cutting across the nose and eyes fight the face's shape.
+- id: q3
+  question: >-
+    Your purple and yellow bands vibrate so strongly that the design looks blurry from far away.
+    What keeps the effect but makes it readable?
+  options:
+    - Add more, thinner purple and yellow bands over the whole face.
+    - Thin black lines between the bands, and keep this effect to one area.
+    - Mix the purple and yellow into each other so the edges disappear.
+    - Swap the yellow for white so there is no contrast left.
+  correct: 1
+  explanation: >-
+    Opposite colors vibrate; black lines separate them so each band stays clear. Mixing opposites
+    makes mud, and spreading the effect everywhere tires the eye.
+- id: q4
+  question: >-
+    Your swirl ends in a tight curl at the temple, and the curl's middle has turned into a dark,
+    crowded blob. What is the likely cause?
+  options:
+    - The paint dried too quickly between the bands.
+    - The black outline was too thin to separate the colors.
+    - The bands were placed on the inside of the curl.
+    - The lead line was painted with a light sketching color.
+  correct: 2
+  explanation: >-
+    Bands nested on the inside of a curl run out of room and pile up. Put them on the outside of the
+    curl and keep the curl open.

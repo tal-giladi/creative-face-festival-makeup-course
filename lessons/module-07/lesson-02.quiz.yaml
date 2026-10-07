@@ -1,0 +1,51 @@
+- id: q1
+  question: >-
+    You try to paint a straight line from the forehead center out to the temple in one stroke, and it
+    wobbles every time. What is the best fix?
+  options:
+    - Press harder so the brush can't wander on the skin.
+    - Use a much wider brush so the wobble doesn't show.
+    - Paint faster so the hand has no time to shake.
+    - Mark the two ends with dots and join them with short strokes.
+  correct: 3
+  explanation: >-
+    The face curves away under the brush, so long single strokes wobble. Anchor dots plus two or three
+    short connected strokes keep the line straight.
+- id: q2
+  question: >-
+    You want a geometric design with a diamond, brow lines and cheekbone chevrons. When do you place
+    the anchor dots for the right side?
+  options:
+    - After the whole left side is painted, by copying it.
+    - At the start, together with the left side, before any lines.
+    - Only for the shapes that touch the center line.
+    - Never, since the right side should be painted freehand to match.
+  correct: 1
+  explanation: >-
+    Dotting both sides first lets you check and fix the symmetry while it is still only a few dots.
+    A painted left side is much harder to match afterwards.
+- id: q3
+  question: >-
+    You fill your triangles with color after painting the black outlines, and the wet color floods
+    over the lines. What order works better?
+  options:
+    - Fill the shapes first, let them dry, then black lines over the edges.
+    - Paint the black lines twice as thick so the fill can't cross them.
+    - Mix the fill color with black so the edges don't show.
+    - Leave a wide bare gap between the outline and the fill.
+  correct: 0
+  explanation: >-
+    Color first, black linework second, white dots last. The black line covers any uneven fill edge
+    and keeps every shape crisp.
+- id: q4
+  question: >-
+    Your chevrons look great on paper. Where do they go on the face for a festival design?
+  options:
+    - On the eyelids, pointing at the inner corners of the eyes.
+    - Down the nose, pointing toward the mouth.
+    - On the cheekbones, pointing up and out toward the temples.
+    - Low on the jaw, pointing down toward the neck.
+  correct: 2
+  explanation: >-
+    On the cheekbones, pointing up and out, chevrons lift the face and stay outside the eye area.
+    Eyelids are in the eye area, and downward chevrons drag the face down.

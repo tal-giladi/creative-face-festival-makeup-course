@@ -1,0 +1,15 @@
+- Dots get smaller around a mandala ring | dipped once for several dots | reload before every dot, the same depth | 07.1
+- Last gap in a ring of dots is too big or too small | dots placed one after another round the circle | place by quarters: opposite dots first, then halfway | 07.1
+- Mandala looks lopsided | no center mark or guide circle | mark the center and imagine the circle and cross first | 07.1
+- Mandala looks crowded although the dots are even | rings not lined up with each other | put each ring on the spokes or exactly between them | 07.1
+- Straight lines wobble on the face | one long stroke over the curve of the face | anchor dots, then two or three short connected strokes | 07.2
+- Corners of triangles don't meet | lines painted without anchor dots | dot every corner first and stroke from dot to dot | 07.2
+- Geometric design looks crooked | each side painted freehand | place all anchor dots on both sides first and check | 07.2
+- Fill floods over black lines | outline painted first, fill too wet | fill first, let it dry, black lines last | 07.2
+- Gaps between nested lines grow or shrink | copying the lead line instead of the nearest line | copy the line next to you; watch the gap | 07.3
+- Waves look like stripes on a mask | bands painted straight across the face | follow the brows, temples and cheekbones | 07.3
+- Swirl center turns into a dark blob | bands placed on the inside of a tight curl | bands on the outside of the curl; keep the curl open | 07.3
+- Wave design looks muddy from far away | many thin lines in similar colors, no black lines | fewer, wider bands in clear colors with black lines | 07.3
+- Ran out of time on a full look | no timing in the plan | minutes for each step, 15 spare, finish an hour before leaving | 07.4
+- Glitter dull or gems loose after setting | glitter and gems put on before the setting spray | set first, glitter and gems last | 07.4
+- Eye area glows under UV light | UV paint placed too close to the eyes | UV parts on the forehead, temples and cheekbones only | 07.4

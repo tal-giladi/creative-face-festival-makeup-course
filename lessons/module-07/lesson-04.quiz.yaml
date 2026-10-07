@@ -1,0 +1,65 @@
+- id: q1
+  question: >-
+    Your festival look is painted, the eye makeup is done, and you have cosmetic glitter, gems and a
+    setting spray left. In which order do they go on?
+  options:
+    - Glitter and gems, then setting spray over everything to lock them in.
+    - Setting spray first with eyes and mouth closed, then glitter and gems.
+    - Glitter, setting spray, then gems on top of the wet spray.
+    - Gems and spray together, then glitter last to hide the gem edges.
+  correct: 1
+  explanation: >-
+    Set the paint first, then add glitter and gems last, so spray or powder never lands on the
+    glitter base or loosens the gems.
+- id: q2
+  question: >-
+    You plan a look for an outdoor summer festival with dancing all afternoon. Which plan protects
+    the design best?
+  options:
+    - Paint it the night before so it has time to dry fully.
+    - Skip the setting so the paint can breathe in the heat.
+    - Prep, set, blot sweat with a tissue and keep a touch-up kit in the shade.
+    - Wipe sweat off often with a wet cloth so it never builds up under the paint layer.
+  correct: 2
+  explanation: >-
+    Prep and setting help the paint resist rubbing and sweat; blotting doesn't drag the paint like
+    wiping, and a kit kept out of the heat lets you fix chips during the day.
+- id: q3
+  question: >-
+    Your UV check photo shows a glowing ring around both eyes, where you painted UV dots under the
+    lower lashes. What do you change?
+  options:
+    - Move the UV parts to the forehead, temples and cheekbones.
+    - Use smaller UV dots so less of the eye area glows.
+    - Keep the dots and add setting spray so they can never move around.
+    - Switch to glow-in-the-dark paint, which is gentler near the eyes.
+  correct: 0
+  explanation: >-
+    No fluorescent (neon, UV) or glow-in-the-dark color is allowed near the eyes. UV parts belong
+    outside the eye area.
+- id: q4
+  question: >-
+    Half way through painting, you realize you will not finish before you have to leave. What do you
+    cut?
+  options:
+    - The black linework, since the colors are already on.
+    - The setting, since you can set it later at the festival.
+    - The eye-safe label check, since the same products worked fine last time.
+    - One accent, keeping the linework and setting.
+  correct: 3
+  explanation: >-
+    A smaller design with clean lines and a good set lasts and reads well. Skipping linework or
+    setting ruins the look, and safety checks are never cut.
+- id: q5
+  question: >-
+    Your look is beautiful close up, but in the photo from three meters it is a blur of small details.
+    What is the best fix for next time?
+  options:
+    - Add more tiny dots and fine lines to fill the empty skin.
+    - Plan one clear star zone with one or two accents and strong black lines.
+    - Use paler colors so the busy details look softer.
+    - Take the photo closer, since festivals are seen up close.
+  correct: 1
+  explanation: >-
+    One big star shape, a few accents and clear black linework read from far away. More fine detail
+    or paler colors make the blur worse.

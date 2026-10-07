@@ -1,0 +1,50 @@
+- id: q1
+  question: >-
+    You paint a ring of 12 dots around a mandala center. The first dots are big, and by the end of
+    the ring they are tiny. What went wrong?
+  options:
+    - The paint was too thick, so it dried on the tool much too fast.
+    - You dipped once, not before every single dot.
+    - The ring was too far from the center dot.
+    - You used a dotting tool instead of a brush handle.
+  correct: 1
+  explanation: >-
+    Each dot takes paint off the tool, so dots from one dip shrink. That is right for a trail, but a
+    ring needs a fresh dip before every dot.
+- id: q2
+  question: >-
+    You want 16 even dots in a ring. Which order gives the most even gaps?
+  options:
+    - Start at the top and go round clockwise, one dot after another.
+    - Paint all 16 quickly so the gaps don't change while you work.
+    - Top, bottom and both sides first, then halfway in each gap, then halfway again.
+    - Paint the left half first, then copy the right half from memory.
+  correct: 2
+  explanation: >-
+    Placing by quarters (4, then 8, then 16) means you only ever judge "opposite" and "halfway",
+    which the eye does well. Going round lets small errors add up into one odd gap at the end.
+- id: q3
+  question: >-
+    Your forehead mandala looks crowded and messy, although every dot is round and even. What is
+    the most likely cause?
+  options:
+    - The rings don't line up on the spokes or between them.
+    - The dots are too even, so the design looks flat and boring.
+    - The paint was too liquid, so the dots spread a little.
+    - There is no white highlight on the center dot yet.
+  correct: 0
+  explanation: >-
+    A mandala looks calm when every ring sits on the spokes or exactly between two. Rings placed at
+    random angles look crowded even with perfect dots.
+- id: q4
+  question: >-
+    You add dot arcs on the cheekbones to go with the forehead mandala. Where do they go?
+  options:
+    - On the lower eyelid, close to the lashes, so they frame both eyes.
+    - Low on the cheeks near the jaw, pointing down toward the chin.
+    - Across the nose from one cheek to the other.
+    - Along the cheekbone below the eye area, sweeping up to the temple.
+  correct: 3
+  explanation: >-
+    Arcs that follow the cheekbone and sweep up and out lift the face and stay outside the eye area.
+    Low arcs drag the face down, and the lower lid is in the eye area.

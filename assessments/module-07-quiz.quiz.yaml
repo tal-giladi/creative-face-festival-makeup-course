@@ -1,0 +1,130 @@
+- id: q1
+  question: >-
+    You are painting a forehead mandala for a friend before a party. Your ring of 8 dots ends with
+    one gap twice as wide as the others. How do you avoid this next time?
+  options:
+    - Top and bottom, then both sides, then halfway between each pair.
+    - Start at the top and go round faster so your hand stays steady and even.
+    - Use a bigger dotting tool so all the gaps look smaller than before.
+    - Paint the ring after the outer dots, so they show where to stop.
+  correct: 0
+  explanation: >-
+    Placing by quarters means you only judge opposite and halfway positions, so the gaps stay even.
+    Going round one by one lets the small errors collect in the last gap.
+- id: q2
+  question: >-
+    A mandala's petals should all be the same size, but some come out fat and some thin. You use
+    the same brush for all of them. What is the most likely cause?
+  options:
+    - The petals were painted in two different colors of paint.
+    - The paint was loaded differently for each petal.
+    - The center dot was too big for the rest of the mandala.
+    - The petals were placed between the spokes.
+  correct: 1
+  explanation: >-
+    Even dots and dot drags need the same load every time: dip again before each one, the same
+    depth. Color and placement don't change the size.
+- id: q3
+  question: >-
+    You paint a geometric design and the line from the brow to the temple keeps bending as it goes
+    over the curve of the forehead. What do you do?
+  options:
+    - Hold a ruler on the skin as a straight guide for the brush.
+    - Draw the line first with an eyeliner pen, then paint over it.
+    - Dot both ends, then join them with two or three short strokes.
+    - Paint the whole line in one fast stroke with a wider brush.
+  correct: 2
+  explanation: >-
+    Anchor dots and short connected strokes keep lines straight on a curved face. Rulers don't bend
+    with the face, and guide marks must be cosmetic, not pens.
+- id: q4
+  question: >-
+    In your geometric design, the right brow triangles sit higher than the left ones. When should
+    this have been caught?
+  options:
+    - When filling the colors, by making the right side smaller.
+    - When adding white dots, which can hide the difference.
+    - In the photo at the end, then fixed with more black lines.
+    - At the anchor-dot stage, before any line was painted.
+  correct: 3
+  explanation: >-
+    All anchor dots go on both sides first and get checked in the mirror. Fixing a few dots is easy;
+    fixing painted shapes is not.
+- id: q5
+  question: >-
+    You design temple swirls with four color bands. The bands keep crowding into a dark blob in the
+    middle of the curl. What is the fix?
+  options:
+    - Bands on the outside of the curl, and keep the curl open.
+    - Use only two colors so there are fewer bands in the curl.
+    - Paint the curl first and the bands around it afterwards.
+    - Make each band thinner and thinner toward the inside of the curl.
+  correct: 0
+  explanation: >-
+    A tight curl has no room inside. Nested bands belong on the outside of the curl, where the space
+    grows as the curve opens.
+- id: q6
+  question: >-
+    For a psychedelic look you want colors that seem to vibrate, but the face should still be
+    readable from the dance floor. Which plan works?
+  options:
+    - Thin purple and yellow stripes over the whole face, with no lines.
+    - Purple and yellow bands in one area, with thin black lines.
+    - Purple and yellow blended softly into each other everywhere.
+    - Pale lilac and pale yellow, so the vibration is gentler.
+  correct: 1
+  explanation: >-
+    Opposite colors side by side vibrate; black lines keep each band clear. Covering the whole face
+    blurs it, blending opposites makes mud, and pale colors lose the effect.
+- id: q7
+  question: >-
+    You finished your painting, eye makeup and setting spray. You now want cosmetic glitter on the
+    cheekbones and gems at the temples. Where is it safe to put them?
+  options:
+    - On the eyelids, where they catch the most light when you blink.
+    - Along the lower lash line, as a sparkly liner.
+    - On the upper cheekbones and temples, off the lids and lashes.
+    - Anywhere at all, because they go on after the setting spray.
+  correct: 2
+  explanation: >-
+    Glitter and gems stay off the eyelids, the lash line and the skin just under the eyes, where
+    flakes or a loose gem can get into the eye. Cheekbones and temples are fine.
+- id: q8
+  question: >-
+    Your festival has UV stages at night. You have UV face paint labeled for skin. Where do you plan
+    to use it?
+  options:
+    - As a liner along the upper lash line, so the eyes glow.
+    - On the brow bone just under the brows, for a glowing eye look.
+    - Only on the lips and around the mouth, where it shows most.
+    - On the forehead mandala and cheekbone arcs only.
+  correct: 3
+  explanation: >-
+    No fluorescent (neon, UV) colors are allowed near the eyes (US FDA). The forehead, temples and
+    cheekbones outside the eye area are the places for UV paint.
+- id: q9
+  question: >-
+    You have 60 minutes before you leave and your plan needs 80. The design has a forehead mandala,
+    brow lines, cheekbone arcs and gems. What is the best decision?
+  options:
+    - Drop the brow lines; keep linework and setting.
+    - Skip the skin prep and the setting to save about ten minutes.
+    - Paint everything faster, without letting the layers dry.
+    - Leave out the black linework and keep all four parts.
+  correct: 0
+  explanation: >-
+    Cut an accent, never the steps that make the look last and read: prep, linework and setting.
+    Rushing wet layers smears them.
+- id: q10
+  question: >-
+    It is 2 a.m. after the festival. Your look has gems, cosmetic glitter, face paint and eyeliner.
+    How do you take it off?
+  options:
+    - Scrub it all off with a rough washcloth and soap so nothing is left.
+    - Gems off from the edge, glitter off with tape, then cleanse gently.
+    - Sleep in it and wash it off in the morning when the paint is softer.
+    - Rubbing alcohol on a cotton pad over the whole face, eyes included.
+  correct: 1
+  explanation: >-
+    Gems come off from the edge, glitter with tape first, then an oil cleanser and soap and water, and
+    a gentle eye-safe remover around the eyes. Never sleep in it, and never use alcohol on the face.

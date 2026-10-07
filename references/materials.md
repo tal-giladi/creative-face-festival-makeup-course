@@ -227,6 +227,17 @@ into the paint (lesson 01.3).
 
 **A substitute must:** have a smooth, round end with no sharp point; be washable (or new and used once, like a cotton swab); and be used only for face paint. Never a pen, toothpick or craft tool.
 
+**For mandalas:** use one tool per ring, so every dot in the ring is the same size; a set of three
+sizes (small and big dotting tool ends, plus a brush handle) covers a whole mandala (lesson 07.1).
+
+## Circle and spoke guides (paper only)
+
+**What it is for:** practicing mandalas on paper (lesson 07.1).
+
+**Ideal:** the `dot-mandala-grids` sheet. **Cheaper:** trace around a cup or jar and fold the paper
+in half twice to find the spokes. **Must:** stay on paper; never draw guides on skin with a pen or
+press a cup or ruler on the face.
+
 ---
 
 ## Level 2 and 3 extras (buy only when you get there)

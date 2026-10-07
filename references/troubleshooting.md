@@ -143,3 +143,23 @@ stings, itches, swells or turns red, stop and take the paint off first: see the
 | Skin red where a gem was | pulled off, or glue not patch-tested | soften the edge with oil and lift; patch-test every adhesive | [06.3](../lessons/module-06/lesson-03.md) |
 | A UV color looks dull in daylight | some UV colors only glow under black light | normal; check under the UV torch or pick a brighter neon | [06.4](../lessons/module-06/lesson-04.md) |
 | Neon design glows patchy | one thin, streaky layer | let it dry and add a second thin layer | [06.4](../lessons/module-06/lesson-04.md) |
+
+## Module 7: Patterns and Complete Looks
+
+| What you see | Likely cause | Try this | Lesson |
+|---|---|---|---|
+| Dots get smaller around a mandala ring | dipped once for several dots | reload before every dot, the same depth | [07.1](../lessons/module-07/lesson-01.md) |
+| Last gap in a ring of dots is too big or too small | dots placed one after another round the circle | place by quarters: opposite dots first, then halfway | [07.1](../lessons/module-07/lesson-01.md) |
+| Mandala looks lopsided | no center mark or guide circle | mark the center and imagine the circle and cross first | [07.1](../lessons/module-07/lesson-01.md) |
+| Mandala looks crowded although the dots are even | rings not lined up with each other | put each ring on the spokes or exactly between them | [07.1](../lessons/module-07/lesson-01.md) |
+| Straight lines wobble on the face | one long stroke over the curve of the face | anchor dots, then two or three short connected strokes | [07.2](../lessons/module-07/lesson-02.md) |
+| Corners of triangles don't meet | lines painted without anchor dots | dot every corner first and stroke from dot to dot | [07.2](../lessons/module-07/lesson-02.md) |
+| Geometric design looks crooked | each side painted freehand | place all anchor dots on both sides first and check | [07.2](../lessons/module-07/lesson-02.md) |
+| Fill floods over black lines | outline painted first, fill too wet | fill first, let it dry, black lines last | [07.2](../lessons/module-07/lesson-02.md) |
+| Gaps between nested lines grow or shrink | copying the lead line instead of the nearest line | copy the line next to you; watch the gap | [07.3](../lessons/module-07/lesson-03.md) |
+| Waves look like stripes on a mask | bands painted straight across the face | follow the brows, temples and cheekbones | [07.3](../lessons/module-07/lesson-03.md) |
+| Swirl center turns into a dark blob | bands placed on the inside of a tight curl | bands on the outside of the curl; keep the curl open | [07.3](../lessons/module-07/lesson-03.md) |
+| Wave design looks muddy from far away | many thin lines in similar colors, no black lines | fewer, wider bands in clear colors with black lines | [07.3](../lessons/module-07/lesson-03.md) |
+| Ran out of time on a full look | no timing in the plan | minutes for each step, 15 spare, finish an hour before leaving | [07.4](../lessons/module-07/lesson-04.md) |
+| Glitter dull or gems loose after setting | glitter and gems put on before the setting spray | set first, glitter and gems last | [07.4](../lessons/module-07/lesson-04.md) |
+| Eye area glows under UV light | UV paint placed too close to the eyes | UV parts on the forehead, temples and cheekbones only | [07.4](../lessons/module-07/lesson-04.md) |
