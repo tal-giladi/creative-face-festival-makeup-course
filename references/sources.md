@@ -37,6 +37,7 @@ label and the official page.
 
 - [How To Use Cosmetics Safely Around Your Eyes, American Academy of Ophthalmology](https://www.aao.org/eye-health/tips-prevention/eye-makeup)
 - [How to test skin care products before use, American Academy of Dermatology](https://www.aad.org/news/how-to-test-skin-care-products-before-use)
+- [Contact Lens Safety Tips, Cedars-Sinai](https://www.cedars-sinai.org/health-topics/contact-lens-safety-tips)
 - [Super Glue, Ontario Poison Centre](https://www.ontariopoisoncentre.ca/household-hazards-items/super-glue/)
 - [Halloween Fun & Safety Tips, HealthyChildren.org (American Academy of Pediatrics)](https://www.healthychildren.org/english/safety-prevention/all-around/pages/halloween-safety-tips.aspx)
 

@@ -1,0 +1,52 @@
+- id: q1
+  question: >-
+    You paint teardrops on both cheeks, low near the jaw with the tails pointing down, and your face
+    looks tired in the photo. What change helps most?
+  options:
+    - Make the teardrops bigger so they are easier to see from far away.
+    - Move them onto the cheekbones, tails pointing up and out.
+    - Add a third row of teardrops below the first two.
+    - Paint them in a darker color so they look more dramatic.
+  correct: 1
+  explanation: >-
+    Shapes that follow the cheekbone and sweep up and out lift the face; shapes low on the cheek or
+    pointing down drag it down, whatever their size or color.
+- id: q2
+  question: >-
+    You want a crown of rays along the hairline, a drop on the forehead center and something on the
+    chin. Which part do you paint last?
+  options:
+    - The left half of the crown, since it is the biggest element.
+    - The rays on whichever side is harder for your painting hand.
+    - The drop and the chin accent on the center line.
+    - The light sketch dots at the landmarks.
+  correct: 2
+  explanation: >-
+    Mirrored elements go first, one element on both sides at a time; center-line elements go last so
+    you can see where the middle really is.
+- id: q3
+  question: >-
+    A friend's first festival design uses arcs, cheekbone lines, a third eye, a crown and a chin dot,
+    and it looks crowded. What do you suggest?
+  options:
+    - Pick one star zone and keep one or two small accents.
+    - Add black outlines to every element so each one is clearer.
+    - Make every element smaller so they all fit better.
+    - Fill the gaps between the zones with dots to join them up.
+  correct: 0
+  explanation: >-
+    Strong festival layouts use two or three zones: one star shape and small accents. More outlines or
+    more dots make a crowded design busier.
+- id: q4
+  question: >-
+    Before painting bold arcs on your face, you want to be sure both sides will match. What is the
+    best first step?
+  options:
+    - Paint the left arc fully in black, then copy it on the right.
+    - Draw the arcs with a fine-tip pen, which washes off easily.
+    - Hold the paper template against your face and paint around it.
+    - Dot the landmarks and sketch both arcs with a thin light paint line.
+  correct: 3
+  explanation: >-
+    A thin, light sketch in face paint or a cosmetic pencil is easy to fix and disappears under the
+    bold color. Pens are never used on skin.

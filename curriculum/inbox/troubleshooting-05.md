@@ -1,0 +1,16 @@
+- Festival design looks messy from far away | too many colors or small details | two or three colors plus black and white, in fewer, bigger shapes | 05.1
+- Color blocks melt into each other at the edges | blocks painted wet against wet | let each block dry, or separate blocks with a black line | 05.1
+- Bright colors look dull despite strong paint | no contrast next to them | add black linework and a few white dots and lines | 05.1
+- Yellow, orange or lime blocks look thin on deep skin | light colors are see-through over dark skin | thin white base first, dry, then the color | 05.1
+- Paint pulls into little beads | oily skin, or cream that hadn't soaked in | clean the skin, light moisturizer, wait until dry | 05.2
+- Paint slides or smears on the face | cream foundation or balm under water-based paint | paint on bare, prepped skin; makeup after the paint | 05.2
+- Mascara or liner smudged while painting | eye makeup put on before the paint | paint first, eye makeup after | 05.2
+- Color comes off on clothes and hugs | design not set | setting spray or translucent powder, then a rub test | 05.2
+- Sweat runs through the design | sweat wiped instead of blotted; design not set | blot with a tissue; set the design; touch up from your kit | 05.2
+- Festival face looks tired or droopy | shapes low on the cheeks or pointing down | follow the cheekbone; point shapes up and out toward the temple | 05.3
+- Festival layout looks crowded | all five zones used at once | one star zone plus one or two small accents | 05.3
+- Sketch lines show through the paint | sketch too thick or too dark | thin lines in a pale color, painted just over | 05.3
+- Floating crease disappears when the eyes open | painted on the moving lid with the eyes closed | paint with the eyes open, just above the natural crease | 05.4
+- Eyeliner wings point to different heights | drawn freehand without a guide | mark both wing tips with a dot first | 05.4
+- Eyes water and sting during the day | liner on the waterline, or a product not labeled for eyes | keep makeup outside the lashes; eye-labeled products only; remove if it stings | 05.4
+- Wing shaky or blobby | one long stroke from the inner corner | start at the tip dot; short strokes back toward the lashes | 05.4

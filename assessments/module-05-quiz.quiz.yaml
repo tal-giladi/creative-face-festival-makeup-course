@@ -1,0 +1,129 @@
+- id: q1
+  question: >-
+    You are painting a lime and yellow festival design on a friend with deep skin for an outdoor
+    stage night. Which plan gives the boldest result?
+  options:
+    - Lime and yellow straight on the skin, in one thick and very wet layer for coverage.
+    - A dry white base under the blocks, then the colors, black lines and white dots.
+    - Pastel lime and pale yellow instead, so the colors look softer on deep skin.
+    - The colors sponged into each other with no lines at all, for a smooth glow.
+  correct: 1
+  explanation: >-
+    Light, bright colors need a white base on deep skin, and black lines with white details make them
+    read from far away. Thick wet layers crack, and soft blends lose contrast.
+- id: q2
+  question: >-
+    You want a neon-style festival face but have no UV paint, only ordinary face paint. What gives the
+    strongest neon look?
+  options:
+    - Watering down the brightest colors so they look lighter and brighter.
+    - Adding highlighter cream on top of the paint to make it shine.
+    - Using fluorescent craft paint for just the brightest parts.
+    - The brightest colors in blocks, with black lines and white dots.
+  correct: 3
+  explanation: >-
+    Bright colors next to black and white look almost glowing. Craft paint never goes on skin, and
+    cream on top makes water-based paint smear.
+- id: q3
+  question: >-
+    At a friend's house you see she has a thick layer of rich face cream on, and she wants to be
+    painted right away. What do you do?
+  options:
+    - Ask her to wash, moisturize lightly and wait until her skin is dry.
+    - Paint straight over the cream, using extra water in the paint to help.
+    - Paint over the cream, then fix any beading with setting spray.
+    - Dust baby powder over the cream and paint on top of the powder.
+  correct: 0
+  explanation: >-
+    Water-based paint beads and slides on cream that hasn't soaked in. Clean, lightly moisturized,
+    then dry skin is the base for a smooth design.
+- id: q4
+  question: >-
+    You have a painted festival design, eye-safe liner and mascara, and a setting spray. In which
+    order do they go on?
+  options:
+    - Liner and mascara, setting spray, then the face paint on top.
+    - Setting spray, face paint, then liner and mascara with no setting at the end.
+    - Face paint, then liner and mascara, then setting spray with eyes closed.
+    - Face paint and liner mixed together, then mascara, then setting spray.
+  correct: 2
+  explanation: >-
+    Skincare, face paint, then eye and lip makeup, then setting. Close your eyes and mouth and hold
+    your breath when you spray.
+- id: q5
+  question: >-
+    After the rub test, your setting powder patch stays sharp but the unset patch leaves lots of color
+    on the tissue. What does that tell you for the festival?
+  options:
+    - Setting helps with your paint, so set the whole design.
+    - Your paint is too old and should be thrown away.
+    - The rub test is too harsh to tell you anything useful about real wear.
+    - Rub tests only work on paper, not on skin.
+  correct: 0
+  explanation: >-
+    The rub test compares prep and setting on your own skin. A sharp, set patch means that setting
+    method works with your paint.
+- id: q6
+  question: >-
+    You plan a festival face with temple arcs, cheekbone lines, a crown, a third eye and a chin
+    accent. A friend says it looks crowded. What is the best fix?
+  options:
+    - Make every element smaller so they all fit.
+    - Keep one star zone, such as the arcs, and one or two small accents.
+    - Outline every element in thick black so each one is clearer from far away.
+    - Join all the zones with a long line of dots.
+  correct: 1
+  explanation: >-
+    Strong festival layouts use two or three zones: one star shape and small accents. Adding outlines
+    or dots makes a crowded design busier.
+- id: q7
+  question: >-
+    Your cheek teardrops sit low near the jaw with their tails pointing down, and the face looks
+    tired. Where should they go?
+  options:
+    - Lower down, along the jawline, so they frame the face more.
+    - In the middle of the cheek, pointing at the nose.
+    - On the cheekbone, sweeping up and out toward the temple.
+    - Closer to the mouth, so they balance the lips.
+  correct: 2
+  explanation: >-
+    Shapes that follow the cheekbone and point up and out lift the face. Low shapes pointing down
+    drag it down.
+- id: q8
+  question: >-
+    Your face paint palette has a bright pink with no eye-area use on its label. You want pink dots
+    right under your brow. What do you do?
+  options:
+    - Paint the dots small, since tiny amounts near the eye are fine.
+    - Paint them anyway, as the brow bone is not really part of the eye area.
+    - Mix the pink with an eye-safe white so that the mixed color becomes safe.
+    - Use a pink that is labeled for the eye area, or move the dots to the temple.
+  correct: 3
+  explanation: >-
+    The area under the brow is part of the eye area: only eye-labeled products go there. Mixing or
+    painting less doesn't make an unapproved color safe.
+- id: q9
+  question: >-
+    You want your graphic wings to match on both eyes. What is the most reliable method?
+  options:
+    - Mark both wing tips with matching dots first, then draw both wings.
+    - Finish one eye completely, then copy it on the other eye from memory.
+    - Draw the wings with your eyes closed so the lid is flat.
+    - Use a piece of tape as a guide pressed onto the lid and lash line.
+  correct: 0
+  explanation: >-
+    Matching guide dots, placed from the lower lash line toward the brow tail, give both wings the same
+    angle and length. Wings drawn on closed eyes fold away when the eyes open.
+- id: q10
+  question: >-
+    You wear soft contact lenses and want a bit of glitter and a lot of liner for the festival. Which
+    plan is safest?
+  options:
+    - Glitter on the lids and liner on the waterline, with the lenses put in afterward.
+    - Lenses in first, liner outside the lashes, glitter kept away from the eyes.
+    - Lenses in last, after all the makeup and glitter have dried.
+    - Glitter on the lower lash line only, since it moves less there.
+  correct: 1
+  explanation: >-
+    Soft lenses go in before makeup, liner stays outside the lashes, and glitter stays out of the eye
+    area: flakes in the eye can scratch it, especially with lenses.

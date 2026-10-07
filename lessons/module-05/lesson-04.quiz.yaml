@@ -1,0 +1,65 @@
+- id: q1
+  question: >-
+    Your UV face paint glows beautifully under black light, and you want a neon line along your
+    crease. What do you do?
+  options:
+    - Paint it, as long as the paint is sold as face paint.
+    - Paint it thinly, so less of the pigment touches the eyelid.
+    - Keep the UV paint outside the eye area and use an eye-safe color on the crease.
+    - Paint it, then seal it with setting spray so it can't reach the eye.
+  correct: 2
+  explanation: >-
+    No fluorescent (neon, UV) colors are allowed near the eyes, however thin or sealed. Use them on
+    the cheeks, forehead or body, and an eye-labeled product on the crease.
+- id: q2
+  question: >-
+    You want a really intense look and plan to run black liner along the wet inner rim of your lower
+    lid. What is the safer choice?
+  options:
+    - Line the waterline only with a pencil, never with liquid liner.
+    - Keep the liner outside the lash line and leave the waterline bare.
+    - Line the waterline, then rinse the eye with water at the end of the day.
+    - Line the waterline if the pencil was sharpened first, so it is clean.
+  correct: 1
+  explanation: >-
+    Nothing goes on the waterline: makeup there can block the eyelid's oil glands and irritate the eye.
+    Eye-safe liner goes outside the lashes.
+- id: q3
+  question: >-
+    You paint a floating crease line with your eyes closed. When you open them, the line is folded
+    away and you can hardly see it. What went wrong?
+  options:
+    - It was painted on the moving lid; paint it with the eyes open, just above the crease.
+    - The paint was too light; switch to black so it shows through the fold.
+    - The line was too thin; paint it twice as thick on the closed lid.
+    - The brow is too low; pluck the brows higher to make room for the line.
+  correct: 0
+  explanation: >-
+    A floating crease is an open-eye design: paint it looking straight ahead, just above the natural
+    fold, so it stays visible when the eyes are open.
+- id: q4
+  question: >-
+    You wear soft contact lenses and are getting ready for a festival with a bold eye look. What is
+    the right routine?
+  options:
+    - Do the makeup first, then put the lenses in at the venue.
+    - Put the lenses in after makeup and add a little glitter to the lids.
+    - Remove the makeup first at night, then take the lenses out.
+    - Lenses in before the makeup, and out again before you remove it.
+  correct: 3
+  explanation: >-
+    Soft lenses go in before makeup and come out before removal, so no makeup gets trapped on the
+    lens. Glitter on the lids is extra risky for lens wearers.
+- id: q5
+  question: >-
+    A friend's eye starts to sting and water an hour after you painted dots under her brow. What do
+    you do first?
+  options:
+    - Add a little setting spray around the eye so the dots stop moving.
+    - Stop, rinse the eye gently with clean water and remove the makeup.
+    - Wait until the end of the festival, since stinging usually stops by itself.
+    - Wipe the eye with a cotton pad soaked in rubbing alcohol.
+  correct: 1
+  explanation: >-
+    Stop at once, rinse gently and take the makeup off with an eye-safe remover. If pain, watering or
+    blurry vision continues, get medical help.

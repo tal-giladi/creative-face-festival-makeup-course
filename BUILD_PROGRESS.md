@@ -33,7 +33,7 @@ Tools: `curriculum/tools/lib/` (geom, face, art, figure, sheet), `assets-mNN.mjs
 - [x] M2 Brush Control
 - [x] M3 Color and Symmetry
 - [x] M4 First Designs (+ P1-P5)
-- [ ] M5 Festival Faces
+- [x] M5 Festival Faces
 - [ ] M6 Glitter, Gems and Neon (+ P7, P8)
 - [ ] M7 Patterns and Complete Looks (+ P6, P9)
 - [ ] M8 Advanced Color and Illusion
@@ -44,7 +44,7 @@ Tools: `curriculum/tools/lib/` (geom, face, art, figure, sheet), `assets-mNN.mjs
 
 ## Working now
 
-- Agent A: M5. Agent B: M6 (+ P7, P8). Main session: merges inboxes, checks, commits after each module.
+- Agent A: M7 (+ P6, P9). Agent B: M6 (+ P7, P8). Main session: merges inboxes, checks, commits after each module.
 
 ## Decisions during the build
 
@@ -59,4 +59,5 @@ Tools: `curriculum/tools/lib/` (geom, face, art, figure, sheet), `assets-mNN.mjs
 
 ## Open questions
 
+- QA: turn plain-text "Module 6" mentions in 05.1 and 05.4 into links.
 - QA: m02-l05-sampler crops the hand so tightly it reads as a brown block; show the whole hand in final QA.

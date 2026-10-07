@@ -1,0 +1,52 @@
+- id: q1
+  question: >-
+    Your festival design uses six different colors in small shapes, and in a photo from across the
+    field it looks like a blur. What is the best change for next time?
+  options:
+    - Add more white dots between all the small shapes so each one sparkles in the sun.
+    - Use two or three saturated colors plus black and white, in fewer, bigger shapes.
+    - Switch every color to its pastel version so they blend more softly.
+    - Sponge all six colors into one gradient so there are no hard edges.
+  correct: 1
+  explanation: >-
+    Bold designs read from a distance because they use few colors in big, simple shapes. Pastels
+    and gradients lower the contrast even more.
+- id: q2
+  question: >-
+    You paint orange and yellow blocks on a friend with deep skin, and they look thin and dull. What
+    do you do on the next try?
+  options:
+    - Mix a little black into the orange and yellow to make them stronger.
+    - Paint them in one thick, wet layer instead of two thin ones.
+    - Paint a thin layer of white first, let it dry, then the orange and yellow.
+    - Use acrylic craft paint for those two colors, because it covers much better on skin.
+  correct: 2
+  explanation: >-
+    Light and bright colors are see-through over deep skin; a dry white base makes them solid and
+    bright. Black dulls them, thick wet layers crack, and craft paint never goes on skin.
+- id: q3
+  question: >-
+    You want your hot pink and cyan blocks to look almost neon, but you only have ordinary face
+    paint. What works best?
+  options:
+    - Thin black lines between and around the blocks, then white dots.
+    - More water in the pink and cyan so they look lighter and brighter.
+    - A layer of black under the blocks so the colors glow on top.
+    - A fluorescent marker around the edges for an extra glow.
+  correct: 0
+  explanation: >-
+    Bright colors next to black and white look stronger, which is the neon look without UV paint.
+    Watery paint is weaker, and markers are never used on skin.
+- id: q4
+  question: >-
+    Your black line between two color blocks keeps turning gray and smudgy. What is the most likely
+    cause?
+  options:
+    - The brush is too small for black lines.
+    - The black paint was too creamy and thick.
+    - The color blocks were too bright and strong for black paint to cover them.
+    - The blocks underneath were still wet when you painted the line.
+  correct: 3
+  explanation: >-
+    Black dragged through wet color mixes with it and turns gray. Let the blocks dry until they are
+    no longer shiny, then pull the line with creamy black.

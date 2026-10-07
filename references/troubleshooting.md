@@ -107,3 +107,24 @@ stings, itches, swells or turns red, stop and take the paint off first: see the
 | Mask paint creeps onto the lashes | eye holes sketched too small | sketch big eye ovals first and fill only outside them | [04.6](../lessons/module-04/lesson-06.md) |
 | Mask is higher on one side | tips not planned | dot both outer tips level before filling | [04.6](../lessons/module-04/lesson-06.md) |
 | Crown looks flat yellow | one color, no contrast | orange along the band, a thin black outline, white shine | [04.6](../lessons/module-04/lesson-06.md) |
+
+## Module 5: Festival Faces
+
+| What you see | Likely cause | Try this | Lesson |
+|---|---|---|---|
+| Festival design looks messy from far away | too many colors or small details | two or three colors plus black and white, in fewer, bigger shapes | [05.1](../lessons/module-05/lesson-01.md) |
+| Color blocks melt into each other at the edges | blocks painted wet against wet | let each block dry, or separate blocks with a black line | [05.1](../lessons/module-05/lesson-01.md) |
+| Bright colors look dull despite strong paint | no contrast next to them | add black linework and a few white dots and lines | [05.1](../lessons/module-05/lesson-01.md) |
+| Yellow, orange or lime blocks look thin on deep skin | light colors are see-through over dark skin | thin white base first, dry, then the color | [05.1](../lessons/module-05/lesson-01.md) |
+| Paint pulls into little beads | oily skin, or cream that hadn't soaked in | clean the skin, light moisturizer, wait until dry | [05.2](../lessons/module-05/lesson-02.md) |
+| Paint slides or smears on the face | cream foundation or balm under water-based paint | paint on bare, prepped skin; makeup after the paint | [05.2](../lessons/module-05/lesson-02.md) |
+| Mascara or liner smudged while painting | eye makeup put on before the paint | paint first, eye makeup after | [05.2](../lessons/module-05/lesson-02.md) |
+| Color comes off on clothes and hugs | design not set | setting spray or translucent powder, then a rub test | [05.2](../lessons/module-05/lesson-02.md) |
+| Sweat runs through the design | sweat wiped instead of blotted; design not set | blot with a tissue; set the design; touch up from your kit | [05.2](../lessons/module-05/lesson-02.md) |
+| Festival face looks tired or droopy | shapes low on the cheeks or pointing down | follow the cheekbone; point shapes up and out toward the temple | [05.3](../lessons/module-05/lesson-03.md) |
+| Festival layout looks crowded | all five zones used at once | one star zone plus one or two small accents | [05.3](../lessons/module-05/lesson-03.md) |
+| Sketch lines show through the paint | sketch too thick or too dark | thin lines in a pale color, painted just over | [05.3](../lessons/module-05/lesson-03.md) |
+| Floating crease disappears when the eyes open | painted on the moving lid with the eyes closed | paint with the eyes open, just above the natural crease | [05.4](../lessons/module-05/lesson-04.md) |
+| Eyeliner wings point to different heights | drawn freehand without a guide | mark both wing tips with a dot first | [05.4](../lessons/module-05/lesson-04.md) |
+| Eyes water and sting during the day | liner on the waterline, or a product not labeled for eyes | keep makeup outside the lashes; eye-labeled products only; remove if it stings | [05.4](../lessons/module-05/lesson-04.md) |
+| Wing shaky or blobby | one long stroke from the inner corner | start at the tip dot; short strokes back toward the lashes | [05.4](../lessons/module-05/lesson-04.md) |

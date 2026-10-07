@@ -57,6 +57,9 @@ before painting a child or before a long festival day.
 - Don't put a used sponge back into a paint cake. Mist or wet the cake and load from it with a clean
   brush, or take paint out with a clean spatula.
 - Keep paint out of eyes and mouth. Take everything off before you sleep.
+- Contact lenses: put soft lenses in before makeup and take them out before you remove it.
+- Never paint or apply eye makeup in a moving vehicle, and keep makeup outside the lash line, never on the waterline.
+- Store paints and makeup out of the heat (FDA advises not above 85 °F / about 29 °C).
 - Ask before painting anyone: allergies? sensitive skin? contact lenses? For a child, ask a parent
   or guardian.
 

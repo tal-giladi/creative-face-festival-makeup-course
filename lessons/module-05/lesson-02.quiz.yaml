@@ -1,0 +1,64 @@
+- id: q1
+  question: >-
+    You put on a rich night cream and start painting straight away. The water-based paint pulls into
+    little beads. What is the best fix?
+  options:
+    - Add more water to the paint so it spreads over the cream.
+    - Wipe it off, let the skin dry until it isn't slippery, then paint again.
+    - Paint a second layer on top of the beads while they are still wet and shiny.
+    - Mix a little of the cream into the paint so the two match.
+  correct: 1
+  explanation: >-
+    Oil and water don't mix: paint beads on cream that hasn't soaked in. Use a light moisturizer, wait
+    until the skin feels dry, then paint on the clean surface.
+- id: q2
+  question: >-
+    You want a painted festival design plus your usual liner, mascara and lipstick. In what order do
+    you work?
+  options:
+    - Liner and mascara, then face paint, then skincare, then setting spray.
+    - Cream foundation all over, then face paint, then eye makeup, then setting.
+    - Skincare, face paint, then eye and lip makeup, then setting.
+    - Face paint, setting spray, then skincare on top to keep it soft.
+  correct: 2
+  explanation: >-
+    Paint goes on bare, prepped skin; eye makeup comes after so you don't smudge it while painting;
+    setting comes last to lock everything in.
+- id: q3
+  question: >-
+    Your friend asks to borrow your mascara to finish her festival look. What do you do?
+  options:
+    - Lend it, as long as you wipe the wand first with a tissue.
+    - Lend it, because mascara is safe once it is labeled for the eyes.
+    - Lend it, but only if she is also a close family member.
+    - Say no, and suggest she uses her own or a new one.
+  correct: 3
+  explanation: >-
+    Eye makeup is never shared, even with family: bacteria from one person's eyes can infect another's.
+    Wiping the wand doesn't make it safe.
+- id: q4
+  question: >-
+    After setting your arm patch and waiting 10 minutes, the rub test leaves lots of color on the
+    tissue. What does that tell you?
+  options:
+    - Your prep or setting isn't working yet, so change one thing and test again.
+    - The paint is fine, because all face paint rubs off on tissues.
+    - You should rub harder next time to get a real result.
+    - The tissue was too white, so it showed the color too easily.
+  correct: 0
+  explanation: >-
+    The rub test shows how the design will hold up to hugs and clothes. Change one thing (dry time,
+    moisturizer, powder or spray) and test again.
+- id: q5
+  question: >-
+    It is the end of a long festival day and you are exhausted. What is the safest way to deal with
+    your painted face and mascara?
+  options:
+    - Sleep in it and wash everything off properly in the morning.
+    - Take it all off tonight with gentle, eye-safe products.
+    - Scrub it off quickly with rubbing alcohol on a cotton pad.
+    - Wipe the paint off with a dry towel and leave the mascara on.
+  correct: 1
+  explanation: >-
+    Everything comes off before sleep, gently. Rubbing alcohol is never used on the face, and
+    sleeping in eye makeup irritates the eyes.

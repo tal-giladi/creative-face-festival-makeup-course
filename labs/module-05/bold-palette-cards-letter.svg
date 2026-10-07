@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="215.9mm" height="279.4mm" viewBox="0 0 215.9 279.4">
+<title>Bold festival palette cards</title>
+<rect width="215.9" height="279.4" fill="#fff"/>
+<text x="12" y="16" font-family="Helvetica,Arial,sans-serif" font-size="4.6" fill="#1f2a44" text-anchor="start" font-weight="700">Bold festival palette cards</text>
+<text x="12" y="21.5" font-family="Helvetica,Arial,sans-serif" font-size="3" fill="#9aa1ad" text-anchor="start">Paint the three colors, then the test tile: color blocks, black lines between them, white dots. Lesson 05.1.</text>
+<text x="151.9" y="16" font-family="Helvetica,Arial,sans-serif" font-size="3" fill="#9aa1ad" text-anchor="end">Name:</text>
+<line x1="153.9" y1="16.6" x2="203.9" y2="16.6" stroke="#c9ced6" stroke-width="0.25"/>
+<line x1="12" y1="269.4" x2="112" y2="269.4" stroke="#9aa1ad" stroke-width="0.35"/>
+<line x1="12" y1="267.2" x2="12" y2="269.4" stroke="#9aa1ad" stroke-width="0.3"/>
+<line x1="22" y1="268.2" x2="22" y2="269.4" stroke="#9aa1ad" stroke-width="0.3"/>
+<line x1="32" y1="268.2" x2="32" y2="269.4" stroke="#9aa1ad" stroke-width="0.3"/>
+<line x1="42" y1="268.2" x2="42" y2="269.4" stroke="#9aa1ad" stroke-width="0.3"/>
+<line x1="52" y1="268.2" x2="52" y2="269.4" stroke="#9aa1ad" stroke-width="0.3"/>
+<line x1="62" y1="267.2" x2="62" y2="269.4" stroke="#9aa1ad" stroke-width="0.3"/>
+<line x1="72" y1="268.2" x2="72" y2="269.4" stroke="#9aa1ad" stroke-width="0.3"/>
+<line x1="82" y1="268.2" x2="82" y2="269.4" stroke="#9aa1ad" stroke-width="0.3"/>
+<line x1="92" y1="268.2" x2="92" y2="269.4" stroke="#9aa1ad" stroke-width="0.3"/>
+<line x1="102" y1="268.2" x2="102" y2="269.4" stroke="#9aa1ad" stroke-width="0.3"/>
+<line x1="112" y1="267.2" x2="112" y2="269.4" stroke="#9aa1ad" stroke-width="0.3"/>
+<text x="115" y="270.2" font-family="Helvetica,Arial,sans-serif" font-size="2.5" fill="#9aa1ad" text-anchor="start">Must measure 10 cm. If not, print at 100% ("Actual size").</text>
+<rect x="12" y="27" width="92.95" height="74.13" fill="none" stroke="#9aa1ad" stroke-width="0.3"/>
+<text x="15" y="33" font-family="Helvetica,Arial,sans-serif" font-size="2.8" fill="#1f2a44" text-anchor="start">Palette name: ____________________</text>
+<path d="M27.5 44L27.35 45.26L26.94 46.42L26.29 47.44L25.44 48.29L24.42 48.94L23.26 49.35L22 49.5L20.74 49.35L19.58 48.94L18.56 48.29L17.71 47.44L17.06 46.42L16.65 45.26L16.5 44L16.65 42.74L17.06 41.58L17.71 40.56L18.56 39.71L19.58 39.06L20.74 38.65L22 38.5L23.26 38.65L24.42 39.06L25.44 39.71L26.29 40.56L26.94 41.58L27.35 42.74L27.5 44L27.5 44Z" fill="none" stroke="#c9ced6" stroke-width="0.35" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="22" y="53" font-family="Helvetica,Arial,sans-serif" font-size="2.3" fill="#9aa1ad" text-anchor="middle">main</text>
+<path d="M43.5 44L43.35 45.26L42.94 46.42L42.29 47.44L41.44 48.29L40.42 48.94L39.26 49.35L38 49.5L36.74 49.35L35.58 48.94L34.56 48.29L33.71 47.44L33.06 46.42L32.65 45.26L32.5 44L32.65 42.74L33.06 41.58L33.71 40.56L34.56 39.71L35.58 39.06L36.74 38.65L38 38.5L39.26 38.65L40.42 39.06L41.44 39.71L42.29 40.56L42.94 41.58L43.35 42.74L43.5 44L43.5 44Z" fill="none" stroke="#c9ced6" stroke-width="0.35" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="38" y="53" font-family="Helvetica,Arial,sans-serif" font-size="2.3" fill="#9aa1ad" text-anchor="middle">second</text>
+<path d="M59.5 44L59.35 45.26L58.94 46.42L58.29 47.44L57.44 48.29L56.42 48.94L55.26 49.35L54 49.5L52.74 49.35L51.58 48.94L50.56 48.29L49.71 47.44L49.06 46.42L48.65 45.26L48.5 44L48.65 42.74L49.06 41.58L49.71 40.56L50.56 39.71L51.58 39.06L52.74 38.65L54 38.5L55.26 38.65L56.42 39.06L57.44 39.71L58.29 40.56L58.94 41.58L59.35 42.74L59.5 44L59.5 44Z" fill="none" stroke="#c9ced6" stroke-width="0.35" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="54" y="53" font-family="Helvetica,Arial,sans-serif" font-size="2.3" fill="#9aa1ad" text-anchor="middle">pop</text>
+<path d="M73.5 44L73.32 45.11L72.82 46.07L72.07 46.82L71.11 47.32L70 47.5L68.89 47.32L67.93 46.82L67.18 46.07L66.68 45.11L66.5 44L66.68 42.89L67.18 41.93L67.93 41.18L68.89 40.68L70 40.5L71.11 40.68L72.07 41.18L72.82 41.93L73.32 42.89L73.5 44L73.5 44Z" fill="none" stroke="#9aa1ad" stroke-width="0.35" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="70" y="53" font-family="Helvetica,Arial,sans-serif" font-size="2.3" fill="#9aa1ad" text-anchor="middle">black</text>
+<path d="M83.5 44L83.32 45.11L82.82 46.07L82.07 46.82L81.11 47.32L80 47.5L78.89 47.32L77.93 46.82L77.18 46.07L76.68 45.11L76.5 44L76.68 42.89L77.18 41.93L77.93 41.18L78.89 40.68L80 40.5L81.11 40.68L82.07 41.18L82.82 41.93L83.32 42.89L83.5 44L83.5 44Z" fill="none" stroke="#c9ced6" stroke-width="0.35" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="80" y="53" font-family="Helvetica,Arial,sans-serif" font-size="2.3" fill="#9aa1ad" text-anchor="middle">white</text>
+<rect x="16" y="57" width="84.95" height="22.13" fill="none" stroke="#c9ced6" stroke-width="0.35"/>
+<line x1="30.6" y1="79.13" x2="43.88" y2="57" stroke="#d5d9df" stroke-width="0.3" stroke-dasharray="1.2 1.2"/>
+<line x1="51.84" y1="79.13" x2="65.11" y2="57" stroke="#d5d9df" stroke-width="0.3" stroke-dasharray="1.2 1.2"/>
+<line x1="73.07" y1="79.13" x2="86.35" y2="57" stroke="#d5d9df" stroke-width="0.3" stroke-dasharray="1.2 1.2"/>
+<text x="16" y="84.13" font-family="Helvetica,Arial,sans-serif" font-size="2.3" fill="#9aa1ad" text-anchor="start">Skin: light / medium / deep  ·  White base under bright colors? yes / no</text>
+<text x="16" y="89.13" font-family="Helvetica,Arial,sans-serif" font-size="2.3" fill="#9aa1ad" text-anchor="start">From 3 m away: clear / blurry  ·  Black lines help? yes / no</text>
+<text x="16" y="94.13" font-family="Helvetica,Arial,sans-serif" font-size="2.3" fill="#9aa1ad" text-anchor="start">Palette type: neighbors / opposites / neon look</text>
+<rect x="110.95" y="27" width="92.95" height="74.13" fill="none" stroke="#9aa1ad" stroke-width="0.3"/>
+<text x="113.95" y="33" font-family="Helvetica,Arial,sans-serif" font-size="2.8" fill="#1f2a44" text-anchor="start">Palette name: ____________________</text>
+<path d="M126.45 44L126.3 45.26L125.89 46.42L125.24 47.44L124.39 48.29L123.37 48.94L122.21 49.35L120.95 49.5L119.69 49.35L118.53 48.94L117.51 48.29L116.66 47.44L116.01 46.42L115.6 45.26L115.45 44L115.6 42.74L116.01 41.58L116.66 40.56L117.51 39.71L118.53 39.06L119.69 38.65L120.95 38.5L122.21 38.65L123.37 39.06L124.39 39.71L125.24 40.56L125.89 41.58L126.3 42.74L126.45 44L126.45 44Z" fill="none" stroke="#c9ced6" stroke-width="0.35" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="120.95" y="53" font-family="Helvetica,Arial,sans-serif" font-size="2.3" fill="#9aa1ad" text-anchor="middle">main</text>
+<path d="M142.45 44L142.3 45.26L141.89 46.42L141.24 47.44L140.39 48.29L139.37 48.94L138.21 49.35L136.95 49.5L135.69 49.35L134.53 48.94L133.51 48.29L132.66 47.44L132.01 46.42L131.6 45.26L131.45 44L131.6 42.74L132.01 41.58L132.66 40.56L133.51 39.71L134.53 39.06L135.69 38.65L136.95 38.5L138.21 38.65L139.37 39.06L140.39 39.71L141.24 40.56L141.89 41.58L142.3 42.74L142.45 44L142.45 44Z" fill="none" stroke="#c9ced6" stroke-width="0.35" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="136.95" y="53" font-family="Helvetica,Arial,sans-serif" font-size="2.3" fill="#9aa1ad" text-anchor="middle">second</text>
+<path d="M158.45 44L158.3 45.26L157.89 46.42L157.24 47.44L156.39 48.29L155.37 48.94L154.21 49.35L152.95 49.5L151.69 49.35L150.53 48.94L149.51 48.29L148.66 47.44L148.01 46.42L147.6 45.26L147.45 44L147.6 42.74L148.01 41.58L148.66 40.56L149.51 39.71L150.53 39.06L151.69 38.65L152.95 38.5L154.21 38.65L155.37 39.06L156.39 39.71L157.24 40.56L157.89 41.58L158.3 42.74L158.45 44L158.45 44Z" fill="none" stroke="#c9ced6" stroke-width="0.35" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="152.95" y="53" font-family="Helvetica,Arial,sans-serif" font-size="2.3" fill="#9aa1ad" text-anchor="middle">pop</text>
+<path d="M172.45 44L172.27 45.11L171.77 46.07L171.02 46.82L170.06 47.32L168.95 47.5L167.84 47.32L166.88 46.82L166.13 46.07L165.63 45.11L165.45 44L165.63 42.89L166.13 41.93L166.88 41.18L167.84 40.68L168.95 40.5L170.06 40.68L171.02 41.18L171.77 41.93L172.27 42.89L172.45 44L172.45 44Z" fill="none" stroke="#9aa1ad" stroke-width="0.35" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="168.95" y="53" font-family="Helvetica,Arial,sans-serif" font-size="2.3" fill="#9aa1ad" text-anchor="middle">black</text>
+<path d="M182.45 44L182.27 45.11L181.77 46.07L181.02 46.82L180.06 47.32L178.95 47.5L177.84 47.32L176.88 46.82L176.13 46.07L175.63 45.11L175.45 44L175.63 42.89L176.13 41.93L176.88 41.18L177.84 40.68L178.95 40.5L180.06 40.68L181.02 41.18L181.77 41.93L182.27 42.89L182.45 44L182.45 44Z" fill="none" stroke="#c9ced6" stroke-width="0.35" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="178.95" y="53" font-family="Helvetica,Arial,sans-serif" font-size="2.3" fill="#9aa1ad" text-anchor="middle">white</text>
+<rect x="114.95" y="57" width="84.95" height="22.13" fill="none" stroke="#c9ced6" stroke-width="0.35"/>
+<line x1="129.55" y1="79.13" x2="142.83" y2="57" stroke="#d5d9df" stroke-width="0.3" stroke-dasharray="1.2 1.2"/>
+<line x1="150.79" y1="79.13" x2="164.07" y2="57" stroke="#d5d9df" stroke-width="0.3" stroke-dasharray="1.2 1.2"/>
+<line x1="172.02" y1="79.13" x2="185.3" y2="57" stroke="#d5d9df" stroke-width="0.3" stroke-dasharray="1.2 1.2"/>
+<text x="114.95" y="84.13" font-family="Helvetica,Arial,sans-serif" font-size="2.3" fill="#9aa1ad" text-anchor="start">Skin: light / medium / deep  ·  White base under bright colors? yes / no</text>
+<text x="114.95" y="89.13" font-family="Helvetica,Arial,sans-serif" font-size="2.3" fill="#9aa1ad" text-anchor="start">From 3 m away: clear / blurry  ·  Black lines help? yes / no</text>
+<text x="114.95" y="94.13" font-family="Helvetica,Arial,sans-serif" font-size="2.3" fill="#9aa1ad" text-anchor="start">Palette type: neighbors / opposites / neon look</text>
+<rect x="12" y="107.13" width="92.95" height="74.13" fill="none" stroke="#9aa1ad" stroke-width="0.3"/>
+<text x="15" y="113.13" font-family="Helvetica,Arial,sans-serif" font-size="2.8" fill="#1f2a44" text-anchor="start">Palette name: ____________________</text>
+<path d="M27.5 124.13L27.35 125.39L26.94 126.55L26.29 127.57L25.44 128.43L24.42 129.07L23.26 129.49L22 129.63L20.74 129.49L19.58 129.07L18.56 128.43L17.71 127.57L17.06 126.55L16.65 125.39L16.5 124.13L16.65 122.87L17.06 121.71L17.71 120.69L18.56 119.84L19.58 119.19L20.74 118.78L22 118.63L23.26 118.78L24.42 119.19L25.44 119.84L26.29 120.69L26.94 121.71L27.35 122.87L27.5 124.13L27.5 124.13Z" fill="none" stroke="#c9ced6" stroke-width="0.35" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="22" y="133.13" font-family="Helvetica,Arial,sans-serif" font-size="2.3" fill="#9aa1ad" text-anchor="middle">main</text>
+<path d="M43.5 124.13L43.35 125.39L42.94 126.55L42.29 127.57L41.44 128.43L40.42 129.07L39.26 129.49L38 129.63L36.74 129.49L35.58 129.07L34.56 128.43L33.71 127.57L33.06 126.55L32.65 125.39L32.5 124.13L32.65 122.87L33.06 121.71L33.71 120.69L34.56 119.84L35.58 119.19L36.74 118.78L38 118.63L39.26 118.78L40.42 119.19L41.44 119.84L42.29 120.69L42.94 121.71L43.35 122.87L43.5 124.13L43.5 124.13Z" fill="none" stroke="#c9ced6" stroke-width="0.35" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="38" y="133.13" font-family="Helvetica,Arial,sans-serif" font-size="2.3" fill="#9aa1ad" text-anchor="middle">second</text>
+<path d="M59.5 124.13L59.35 125.39L58.94 126.55L58.29 127.57L57.44 128.43L56.42 129.07L55.26 129.49L54 129.63L52.74 129.49L51.58 129.07L50.56 128.43L49.71 127.57L49.06 126.55L48.65 125.39L48.5 124.13L48.65 122.87L49.06 121.71L49.71 120.69L50.56 119.84L51.58 119.19L52.74 118.78L54 118.63L55.26 118.78L56.42 119.19L57.44 119.84L58.29 120.69L58.94 121.71L59.35 122.87L59.5 124.13L59.5 124.13Z" fill="none" stroke="#c9ced6" stroke-width="0.35" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="54" y="133.13" font-family="Helvetica,Arial,sans-serif" font-size="2.3" fill="#9aa1ad" text-anchor="middle">pop</text>
+<path d="M73.5 124.13L73.32 125.24L72.82 126.2L72.07 126.96L71.11 127.45L70 127.63L68.89 127.45L67.93 126.96L67.18 126.2L66.68 125.24L66.5 124.13L66.68 123.03L67.18 122.07L67.93 121.31L68.89 120.81L70 120.63L71.11 120.81L72.07 121.31L72.82 122.07L73.32 123.03L73.5 124.13L73.5 124.13Z" fill="none" stroke="#9aa1ad" stroke-width="0.35" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="70" y="133.13" font-family="Helvetica,Arial,sans-serif" font-size="2.3" fill="#9aa1ad" text-anchor="middle">black</text>
+<path d="M83.5 124.13L83.32 125.24L82.82 126.2L82.07 126.96L81.11 127.45L80 127.63L78.89 127.45L77.93 126.96L77.18 126.2L76.68 125.24L76.5 124.13L76.68 123.03L77.18 122.07L77.93 121.31L78.89 120.81L80 120.63L81.11 120.81L82.07 121.31L82.82 122.07L83.32 123.03L83.5 124.13L83.5 124.13Z" fill="none" stroke="#c9ced6" stroke-width="0.35" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="80" y="133.13" font-family="Helvetica,Arial,sans-serif" font-size="2.3" fill="#9aa1ad" text-anchor="middle">white</text>
+<rect x="16" y="137.13" width="84.95" height="22.13" fill="none" stroke="#c9ced6" stroke-width="0.35"/>
+<line x1="30.6" y1="159.27" x2="43.88" y2="137.13" stroke="#d5d9df" stroke-width="0.3" stroke-dasharray="1.2 1.2"/>
+<line x1="51.84" y1="159.27" x2="65.11" y2="137.13" stroke="#d5d9df" stroke-width="0.3" stroke-dasharray="1.2 1.2"/>
+<line x1="73.07" y1="159.27" x2="86.35" y2="137.13" stroke="#d5d9df" stroke-width="0.3" stroke-dasharray="1.2 1.2"/>
+<text x="16" y="164.27" font-family="Helvetica,Arial,sans-serif" font-size="2.3" fill="#9aa1ad" text-anchor="start">Skin: light / medium / deep  ·  White base under bright colors? yes / no</text>
+<text x="16" y="169.27" font-family="Helvetica,Arial,sans-serif" font-size="2.3" fill="#9aa1ad" text-anchor="start">From 3 m away: clear / blurry  ·  Black lines help? yes / no</text>
+<text x="16" y="174.27" font-family="Helvetica,Arial,sans-serif" font-size="2.3" fill="#9aa1ad" text-anchor="start">Palette type: neighbors / opposites / neon look</text>
+<rect x="110.95" y="107.13" width="92.95" height="74.13" fill="none" stroke="#9aa1ad" stroke-width="0.3"/>
+<text x="113.95" y="113.13" font-family="Helvetica,Arial,sans-serif" font-size="2.8" fill="#1f2a44" text-anchor="start">Palette name: ____________________</text>
+<path d="M126.45 124.13L126.3 125.39L125.89 126.55L125.24 127.57L124.39 128.43L123.37 129.07L122.21 129.49L120.95 129.63L119.69 129.49L118.53 129.07L117.51 128.43L116.66 127.57L116.01 126.55L115.6 125.39L115.45 124.13L115.6 122.87L116.01 121.71L116.66 120.69L117.51 119.84L118.53 119.19L119.69 118.78L120.95 118.63L122.21 118.78L123.37 119.19L124.39 119.84L125.24 120.69L125.89 121.71L126.3 122.87L126.45 124.13L126.45 124.13Z" fill="none" stroke="#c9ced6" stroke-width="0.35" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="120.95" y="133.13" font-family="Helvetica,Arial,sans-serif" font-size="2.3" fill="#9aa1ad" text-anchor="middle">main</text>
+<path d="M142.45 124.13L142.3 125.39L141.89 126.55L141.24 127.57L140.39 128.43L139.37 129.07L138.21 129.49L136.95 129.63L135.69 129.49L134.53 129.07L133.51 128.43L132.66 127.57L132.01 126.55L131.6 125.39L131.45 124.13L131.6 122.87L132.01 121.71L132.66 120.69L133.51 119.84L134.53 119.19L135.69 118.78L136.95 118.63L138.21 118.78L139.37 119.19L140.39 119.84L141.24 120.69L141.89 121.71L142.3 122.87L142.45 124.13L142.45 124.13Z" fill="none" stroke="#c9ced6" stroke-width="0.35" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="136.95" y="133.13" font-family="Helvetica,Arial,sans-serif" font-size="2.3" fill="#9aa1ad" text-anchor="middle">second</text>
+<path d="M158.45 124.13L158.3 125.39L157.89 126.55L157.24 127.57L156.39 128.43L155.37 129.07L154.21 129.49L152.95 129.63L151.69 129.49L150.53 129.07L149.51 128.43L148.66 127.57L148.01 126.55L147.6 125.39L147.45 124.13L147.6 122.87L148.01 121.71L148.66 120.69L149.51 119.84L150.53 119.19L151.69 118.78L152.95 118.63L154.21 118.78L155.37 119.19L156.39 119.84L157.24 120.69L157.89 121.71L158.3 122.87L158.45 124.13L158.45 124.13Z" fill="none" stroke="#c9ced6" stroke-width="0.35" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="152.95" y="133.13" font-family="Helvetica,Arial,sans-serif" font-size="2.3" fill="#9aa1ad" text-anchor="middle">pop</text>
+<path d="M172.45 124.13L172.27 125.24L171.77 126.2L171.02 126.96L170.06 127.45L168.95 127.63L167.84 127.45L166.88 126.96L166.13 126.2L165.63 125.24L165.45 124.13L165.63 123.03L166.13 122.07L166.88 121.31L167.84 120.81L168.95 120.63L170.06 120.81L171.02 121.31L171.77 122.07L172.27 123.03L172.45 124.13L172.45 124.13Z" fill="none" stroke="#9aa1ad" stroke-width="0.35" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="168.95" y="133.13" font-family="Helvetica,Arial,sans-serif" font-size="2.3" fill="#9aa1ad" text-anchor="middle">black</text>
+<path d="M182.45 124.13L182.27 125.24L181.77 126.2L181.02 126.96L180.06 127.45L178.95 127.63L177.84 127.45L176.88 126.96L176.13 126.2L175.63 125.24L175.45 124.13L175.63 123.03L176.13 122.07L176.88 121.31L177.84 120.81L178.95 120.63L180.06 120.81L181.02 121.31L181.77 122.07L182.27 123.03L182.45 124.13L182.45 124.13Z" fill="none" stroke="#c9ced6" stroke-width="0.35" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="178.95" y="133.13" font-family="Helvetica,Arial,sans-serif" font-size="2.3" fill="#9aa1ad" text-anchor="middle">white</text>
+<rect x="114.95" y="137.13" width="84.95" height="22.13" fill="none" stroke="#c9ced6" stroke-width="0.35"/>
+<line x1="129.55" y1="159.27" x2="142.83" y2="137.13" stroke="#d5d9df" stroke-width="0.3" stroke-dasharray="1.2 1.2"/>
+<line x1="150.79" y1="159.27" x2="164.07" y2="137.13" stroke="#d5d9df" stroke-width="0.3" stroke-dasharray="1.2 1.2"/>
+<line x1="172.02" y1="159.27" x2="185.3" y2="137.13" stroke="#d5d9df" stroke-width="0.3" stroke-dasharray="1.2 1.2"/>
+<text x="114.95" y="164.27" font-family="Helvetica,Arial,sans-serif" font-size="2.3" fill="#9aa1ad" text-anchor="start">Skin: light / medium / deep  ·  White base under bright colors? yes / no</text>
+<text x="114.95" y="169.27" font-family="Helvetica,Arial,sans-serif" font-size="2.3" fill="#9aa1ad" text-anchor="start">From 3 m away: clear / blurry  ·  Black lines help? yes / no</text>
+<text x="114.95" y="174.27" font-family="Helvetica,Arial,sans-serif" font-size="2.3" fill="#9aa1ad" text-anchor="start">Palette type: neighbors / opposites / neon look</text>
+<rect x="12" y="187.27" width="92.95" height="74.13" fill="none" stroke="#9aa1ad" stroke-width="0.3"/>
+<text x="15" y="193.27" font-family="Helvetica,Arial,sans-serif" font-size="2.8" fill="#1f2a44" text-anchor="start">Palette name: ____________________</text>
+<path d="M27.5 204.27L27.35 205.53L26.94 206.69L26.29 207.71L25.44 208.56L24.42 209.21L23.26 209.62L22 209.77L20.74 209.62L19.58 209.21L18.56 208.56L17.71 207.71L17.06 206.69L16.65 205.53L16.5 204.27L16.65 203.01L17.06 201.85L17.71 200.83L18.56 199.97L19.58 199.33L20.74 198.91L22 198.77L23.26 198.91L24.42 199.33L25.44 199.97L26.29 200.83L26.94 201.85L27.35 203.01L27.5 204.27L27.5 204.27Z" fill="none" stroke="#c9ced6" stroke-width="0.35" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="22" y="213.27" font-family="Helvetica,Arial,sans-serif" font-size="2.3" fill="#9aa1ad" text-anchor="middle">main</text>
+<path d="M43.5 204.27L43.35 205.53L42.94 206.69L42.29 207.71L41.44 208.56L40.42 209.21L39.26 209.62L38 209.77L36.74 209.62L35.58 209.21L34.56 208.56L33.71 207.71L33.06 206.69L32.65 205.53L32.5 204.27L32.65 203.01L33.06 201.85L33.71 200.83L34.56 199.97L35.58 199.33L36.74 198.91L38 198.77L39.26 198.91L40.42 199.33L41.44 199.97L42.29 200.83L42.94 201.85L43.35 203.01L43.5 204.27L43.5 204.27Z" fill="none" stroke="#c9ced6" stroke-width="0.35" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="38" y="213.27" font-family="Helvetica,Arial,sans-serif" font-size="2.3" fill="#9aa1ad" text-anchor="middle">second</text>
+<path d="M59.5 204.27L59.35 205.53L58.94 206.69L58.29 207.71L57.44 208.56L56.42 209.21L55.26 209.62L54 209.77L52.74 209.62L51.58 209.21L50.56 208.56L49.71 207.71L49.06 206.69L48.65 205.53L48.5 204.27L48.65 203.01L49.06 201.85L49.71 200.83L50.56 199.97L51.58 199.33L52.74 198.91L54 198.77L55.26 198.91L56.42 199.33L57.44 199.97L58.29 200.83L58.94 201.85L59.35 203.01L59.5 204.27L59.5 204.27Z" fill="none" stroke="#c9ced6" stroke-width="0.35" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="54" y="213.27" font-family="Helvetica,Arial,sans-serif" font-size="2.3" fill="#9aa1ad" text-anchor="middle">pop</text>
+<path d="M73.5 204.27L73.32 205.37L72.82 206.33L72.07 207.09L71.11 207.59L70 207.77L68.89 207.59L67.93 207.09L67.18 206.33L66.68 205.37L66.5 204.27L66.68 203.16L67.18 202.2L67.93 201.44L68.89 200.95L70 200.77L71.11 200.95L72.07 201.44L72.82 202.2L73.32 203.16L73.5 204.27L73.5 204.27Z" fill="none" stroke="#9aa1ad" stroke-width="0.35" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="70" y="213.27" font-family="Helvetica,Arial,sans-serif" font-size="2.3" fill="#9aa1ad" text-anchor="middle">black</text>
+<path d="M83.5 204.27L83.32 205.37L82.82 206.33L82.07 207.09L81.11 207.59L80 207.77L78.89 207.59L77.93 207.09L77.18 206.33L76.68 205.37L76.5 204.27L76.68 203.16L77.18 202.2L77.93 201.44L78.89 200.95L80 200.77L81.11 200.95L82.07 201.44L82.82 202.2L83.32 203.16L83.5 204.27L83.5 204.27Z" fill="none" stroke="#c9ced6" stroke-width="0.35" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="80" y="213.27" font-family="Helvetica,Arial,sans-serif" font-size="2.3" fill="#9aa1ad" text-anchor="middle">white</text>
+<rect x="16" y="217.27" width="84.95" height="22.13" fill="none" stroke="#c9ced6" stroke-width="0.35"/>
+<line x1="30.6" y1="239.4" x2="43.88" y2="217.27" stroke="#d5d9df" stroke-width="0.3" stroke-dasharray="1.2 1.2"/>
+<line x1="51.84" y1="239.4" x2="65.11" y2="217.27" stroke="#d5d9df" stroke-width="0.3" stroke-dasharray="1.2 1.2"/>
+<line x1="73.07" y1="239.4" x2="86.35" y2="217.27" stroke="#d5d9df" stroke-width="0.3" stroke-dasharray="1.2 1.2"/>
+<text x="16" y="244.4" font-family="Helvetica,Arial,sans-serif" font-size="2.3" fill="#9aa1ad" text-anchor="start">Skin: light / medium / deep  ·  White base under bright colors? yes / no</text>
+<text x="16" y="249.4" font-family="Helvetica,Arial,sans-serif" font-size="2.3" fill="#9aa1ad" text-anchor="start">From 3 m away: clear / blurry  ·  Black lines help? yes / no</text>
+<text x="16" y="254.4" font-family="Helvetica,Arial,sans-serif" font-size="2.3" fill="#9aa1ad" text-anchor="start">Palette type: neighbors / opposites / neon look</text>
+<rect x="110.95" y="187.27" width="92.95" height="74.13" fill="none" stroke="#9aa1ad" stroke-width="0.3"/>
+<text x="113.95" y="193.27" font-family="Helvetica,Arial,sans-serif" font-size="2.8" fill="#1f2a44" text-anchor="start">Palette name: ____________________</text>
+<path d="M126.45 204.27L126.3 205.53L125.89 206.69L125.24 207.71L124.39 208.56L123.37 209.21L122.21 209.62L120.95 209.77L119.69 209.62L118.53 209.21L117.51 208.56L116.66 207.71L116.01 206.69L115.6 205.53L115.45 204.27L115.6 203.01L116.01 201.85L116.66 200.83L117.51 199.97L118.53 199.33L119.69 198.91L120.95 198.77L122.21 198.91L123.37 199.33L124.39 199.97L125.24 200.83L125.89 201.85L126.3 203.01L126.45 204.27L126.45 204.27Z" fill="none" stroke="#c9ced6" stroke-width="0.35" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="120.95" y="213.27" font-family="Helvetica,Arial,sans-serif" font-size="2.3" fill="#9aa1ad" text-anchor="middle">main</text>
+<path d="M142.45 204.27L142.3 205.53L141.89 206.69L141.24 207.71L140.39 208.56L139.37 209.21L138.21 209.62L136.95 209.77L135.69 209.62L134.53 209.21L133.51 208.56L132.66 207.71L132.01 206.69L131.6 205.53L131.45 204.27L131.6 203.01L132.01 201.85L132.66 200.83L133.51 199.97L134.53 199.33L135.69 198.91L136.95 198.77L138.21 198.91L139.37 199.33L140.39 199.97L141.24 200.83L141.89 201.85L142.3 203.01L142.45 204.27L142.45 204.27Z" fill="none" stroke="#c9ced6" stroke-width="0.35" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="136.95" y="213.27" font-family="Helvetica,Arial,sans-serif" font-size="2.3" fill="#9aa1ad" text-anchor="middle">second</text>
+<path d="M158.45 204.27L158.3 205.53L157.89 206.69L157.24 207.71L156.39 208.56L155.37 209.21L154.21 209.62L152.95 209.77L151.69 209.62L150.53 209.21L149.51 208.56L148.66 207.71L148.01 206.69L147.6 205.53L147.45 204.27L147.6 203.01L148.01 201.85L148.66 200.83L149.51 199.97L150.53 199.33L151.69 198.91L152.95 198.77L154.21 198.91L155.37 199.33L156.39 199.97L157.24 200.83L157.89 201.85L158.3 203.01L158.45 204.27L158.45 204.27Z" fill="none" stroke="#c9ced6" stroke-width="0.35" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="152.95" y="213.27" font-family="Helvetica,Arial,sans-serif" font-size="2.3" fill="#9aa1ad" text-anchor="middle">pop</text>
+<path d="M172.45 204.27L172.27 205.37L171.77 206.33L171.02 207.09L170.06 207.59L168.95 207.77L167.84 207.59L166.88 207.09L166.13 206.33L165.63 205.37L165.45 204.27L165.63 203.16L166.13 202.2L166.88 201.44L167.84 200.95L168.95 200.77L170.06 200.95L171.02 201.44L171.77 202.2L172.27 203.16L172.45 204.27L172.45 204.27Z" fill="none" stroke="#9aa1ad" stroke-width="0.35" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="168.95" y="213.27" font-family="Helvetica,Arial,sans-serif" font-size="2.3" fill="#9aa1ad" text-anchor="middle">black</text>
+<path d="M182.45 204.27L182.27 205.37L181.77 206.33L181.02 207.09L180.06 207.59L178.95 207.77L177.84 207.59L176.88 207.09L176.13 206.33L175.63 205.37L175.45 204.27L175.63 203.16L176.13 202.2L176.88 201.44L177.84 200.95L178.95 200.77L180.06 200.95L181.02 201.44L181.77 202.2L182.27 203.16L182.45 204.27L182.45 204.27Z" fill="none" stroke="#c9ced6" stroke-width="0.35" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="178.95" y="213.27" font-family="Helvetica,Arial,sans-serif" font-size="2.3" fill="#9aa1ad" text-anchor="middle">white</text>
+<rect x="114.95" y="217.27" width="84.95" height="22.13" fill="none" stroke="#c9ced6" stroke-width="0.35"/>
+<line x1="129.55" y1="239.4" x2="142.83" y2="217.27" stroke="#d5d9df" stroke-width="0.3" stroke-dasharray="1.2 1.2"/>
+<line x1="150.79" y1="239.4" x2="164.07" y2="217.27" stroke="#d5d9df" stroke-width="0.3" stroke-dasharray="1.2 1.2"/>
+<line x1="172.02" y1="239.4" x2="185.3" y2="217.27" stroke="#d5d9df" stroke-width="0.3" stroke-dasharray="1.2 1.2"/>
+<text x="114.95" y="244.4" font-family="Helvetica,Arial,sans-serif" font-size="2.3" fill="#9aa1ad" text-anchor="start">Skin: light / medium / deep  ·  White base under bright colors? yes / no</text>
+<text x="114.95" y="249.4" font-family="Helvetica,Arial,sans-serif" font-size="2.3" fill="#9aa1ad" text-anchor="start">From 3 m away: clear / blurry  ·  Black lines help? yes / no</text>
+<text x="114.95" y="254.4" font-family="Helvetica,Arial,sans-serif" font-size="2.3" fill="#9aa1ad" text-anchor="start">Palette type: neighbors / opposites / neon look</text>
+</svg>
