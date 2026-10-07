@@ -1,0 +1,50 @@
+- id: q1
+  question: >-
+    You have loose flat-backed rhinestones and want three small ones on your temple. Which glue do
+    you use?
+  options:
+    - A tiny dot of nail glue, because it is made for small decorations.
+    - A thin layer of school glue, because it washes off with water.
+    - A dot of superglue on the gem only, never on the skin.
+    - A tiny dot of patch-tested, latex-free eyelash glue on the gem.
+  correct: 3
+  explanation: >-
+    Latex-free lash glue is made for skin and holds small gems. Nail glue, school glue and superglue
+    are never used on skin, not even "just a dot".
+- id: q2
+  question: >-
+    Where does a beginner's gem line go to frame the eye?
+  options:
+    - Along the upper lash line, where it catches the light.
+    - Above the brow along the brow bone, curving out to the temple.
+    - On the eyelid crease, so it shows when the eyes are closed.
+    - Under the lower lashes, from the inner corner to the outer corner.
+  correct: 1
+  explanation: >-
+    Gems near the lashes can fall into the eye. A line above the brow, along the brow bone to the
+    temple, frames the eye from outside the eye area.
+- id: q3
+  question: >-
+    A heavy jewel keeps falling off your forehead. A friend offers spirit gum. What must you know
+    about it?
+  options:
+    - It is fine anywhere on the face, including the eyelids.
+    - It needs no patch test, because it is a professional product.
+    - It is flammable and not for use near the eyes; patch-test it first.
+    - It comes off easily with water, so no remover is needed.
+  correct: 2
+  explanation: >-
+    Spirit gum can irritate, is flammable until dry and needs its own remover, which is also
+    flammable and not for use near the eyes. Use it only away from the eyes, after a patch test.
+- id: q4
+  question: >-
+    A gem won't come off at the end of the day. What do you do?
+  options:
+    - Put oil on its edge, wait, and lift it gently from the edge.
+    - Pull it off quickly in one go, like a sticking plaster.
+    - Scrape under it with your fingernail until it pops off.
+    - Dab nail polish remover around it to dissolve the glue.
+  correct: 0
+  explanation: >-
+    Oil softens the glue so the gem lifts without pulling the skin. Pulling, scraping and acetone can
+    hurt the skin.

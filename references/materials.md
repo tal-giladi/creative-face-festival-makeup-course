@@ -283,8 +283,40 @@ prosthetic adhesive (for example Pros-Aide) for bigger pieces.
 **Must:** be sold as face/body paint. Fluorescent (neon) colors are **not allowed near the eyes** (US
 FDA); read the label and keep them on cheeks, forehead, body. See lesson 06.4.
 
-**Also:** a small UV torch (365 nm "black light") to check your design. Never shine it into anyone's
-eyes.
+**Also:** a small UV torch (365 nm "black light") to check your design. It is optional: without one,
+plan as if every neon color glows and check the design in daylight. Shine it from the side at the
+cheek or forehead, never into anyone's eyes. Neon paint labeled "Special FX" or "not a cosmetic" is
+never a substitute for neon face paint.
+
+### Fluffy brush (glitter clean-up)
+
+**What it is for:** tapping loose glitter flakes off after you pat glitter on (lesson 06.2).
+
+**Ideal:** a clean, soft powder brush used only for cosmetics.
+
+**Cheaper or easier to find:** a clean, dry makeup sponge, tapped lightly.
+
+**A substitute must:** be soft and clean, and be used with the eyes closed, tapping outward.
+
+### Sticky tape (glitter removal)
+
+**What it is for:** lifting glitter off skin before washing, so flakes don't spread (lesson 06.2).
+
+**Ideal:** gentle paper or masking tape.
+
+**Cheaper or easier to find:** any clear tape, with the sticky side touched to clothing once to soften it.
+
+**Must:** be gentle; never strong packing or duct tape on the face.
+
+### Tweezers (placing gems)
+
+**What it is for:** picking up and placing small face gems (lesson 06.3).
+
+**Ideal:** clean, blunt-tipped tweezers.
+
+**Cheaper or easier to find:** a clean fingertip.
+
+**Must:** have no sharp point, be clean, and never be used near the eyes.
 
 ### Makeup to combine with face paint
 

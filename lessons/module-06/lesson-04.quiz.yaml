@@ -1,0 +1,63 @@
+- id: q1
+  question: >-
+    Your neon face paint says "do not use in the eye area", but the box photo shows a model with
+    neon pink wings around her eyes. What do you do?
+  options:
+    - Copy the photo exactly, because the brand shows how it is meant to be used.
+    - Paint the wings, but leave a thin gap at the lash line.
+    - Keep the neon on the cheeks, forehead and temples, outside the eye area.
+    - Mix the neon with white so it is gentler around the eyes.
+  correct: 2
+  explanation: >-
+    Believe the label, not the photo. No fluorescent colors are allowed near the eyes (FDA), and
+    mixing or a small gap doesn't change that.
+- id: q2
+  question: >-
+    A cheap neon paint glows brilliantly under UV. Its label says "Special FX, not a cosmetic, for
+    paper, fabric and props". Where can it go?
+  options:
+    - Nowhere on skin, only on props or clothes.
+    - On the body, but not on the face.
+    - On the face, but not near the eyes.
+    - Anywhere, if you patch-test it first.
+  correct: 0
+  explanation: >-
+    A paint that is not sold as a cosmetic has not been made or checked for skin. A patch test can't
+    make it a cosmetic; use neon face and body paint instead.
+- id: q3
+  question: >-
+    You want color around the eyes in a neon design that will be seen under black light. What do
+    you use there?
+  options:
+    - Neon yellow, but only a very thin line.
+    - Glow-in-the-dark paint, because glow paint is not fluorescent at all.
+    - The same neon as the cheeks, so the design matches.
+    - Ordinary, non-fluorescent color labeled for the eye area.
+  correct: 3
+  explanation: >-
+    Only ordinary eye-safe colors go near the eyes. They go dark under UV, which is fine: the glowing
+    neon around them frames the eyes. Glow paint is not allowed near the eyes either.
+- id: q4
+  question: >-
+    You want to check how your neon design glows. What is the safe way to use the UV torch?
+  options:
+    - Shine it straight at your face in the mirror to see the whole look.
+    - Point it from the side at the cheek or forehead, never at the eyes.
+    - Hold it right against the skin so the glow is strongest.
+    - Ask a friend to shine it into your face while you keep your eyes open.
+  correct: 1
+  explanation: >-
+    A UV torch is never shone into anyone's eyes. Pointing it from the side at the painted cheek or
+    forehead shows the glow safely.
+- id: q5
+  question: >-
+    A Halloween glow-in-the-dark face paint lists luminescent zinc sulfide. How may you use it?
+  options:
+    - Every day as a base layer, because zinc sulfide is an approved color.
+    - Anywhere on the face, including the eyelids, for one night.
+    - Occasionally, on the face away from the eyes, as the label says.
+    - Only mixed half-and-half with neon paint to make it safer.
+  correct: 2
+  explanation: >-
+    Zinc sulfide is the only approved glow color in the US, for limited, infrequent occasions such as
+    Halloween, and its label must say "Do not use in the area of the eye".

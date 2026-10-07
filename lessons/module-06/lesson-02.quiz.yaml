@@ -1,0 +1,49 @@
+- id: q1
+  question: >-
+    You pressed glitter onto bare cheeks and most of it fell off before you left the house. What
+    should you do next time?
+  options:
+    - Use a coarser glitter, because bigger flakes are heavier and stay.
+    - Paint a thin base first and pat the glitter onto it.
+    - Rub the glitter in harder so it works into the skin.
+    - Mix the glitter with a little school glue so it holds.
+  correct: 1
+  explanation: >-
+    Glitter needs a thin, slightly sticky skin-safe base such as cosmetic glitter gel or aloe gel.
+    Rubbing smears it, and school glue is not for skin.
+- id: q2
+  question: >-
+    A friend asks for "glitter all around the eyes, like on the poster". Where do you put it instead?
+  options:
+    - On the eyelids only, with the eyes closed while you work.
+    - On the lower lash line, because it is away from the eyeball.
+    - Along the cheekbones up to the temples, outside the eye area.
+    - All around the eyes, as long as it is cosmetic glitter.
+  correct: 2
+  explanation: >-
+    Flakes near the lashes fall into the eye and can irritate or scratch it. The cheekbone-to-temple
+    crescent gives the same sparkle while staying outside the eye area.
+- id: q3
+  question: >-
+    After a festival your face still has glitter on the cheekbones. Which removal order works best?
+  options:
+    - Lift it with tape, press on an oil cleanser, wipe away from the eyes, then wash.
+    - Scrub with a wet washcloth until the glitter is gone, then rinse.
+    - Rinse it all under running water and let it go down the sink.
+    - Rub in some rubbing alcohol on a cotton pad to dissolve the gel.
+  correct: 0
+  explanation: >-
+    Tape picks up most flakes without spreading them, oil loosens the base, and wiping outward keeps
+    flakes out of the eyes. Scrubbing spreads glitter, and alcohol never goes on the face.
+- id: q4
+  question: >-
+    You are tapping off loose glitter from a cheekbone crescent. What do you do with your eyes?
+  options:
+    - Keep them wide open so you can see exactly where you tap.
+    - Look up toward the ceiling so the lower lid is out of the way.
+    - Blink quickly so any falling flakes are pushed out again.
+    - Close them, and tap outward toward the ear.
+  correct: 3
+  explanation: >-
+    Loose flakes fly when you tap. Closed eyes and tapping away from the face keep them out of the
+    eyes.

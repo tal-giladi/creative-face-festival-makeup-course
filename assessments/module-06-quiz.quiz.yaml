@@ -1,0 +1,131 @@
+- id: q1
+  question: >-
+    You are shopping for festival glitter. Jar A says "craft glitter, non-toxic" with no ingredients.
+    Jar B says "cosmetic glitter, face and body" and lists cellulose and mica. Jar C is nail glitter.
+    Which one goes on your cheekbones?
+  options:
+    - Jar A, because "non-toxic" means it was tested for skin.
+    - Jar B, because it is sold for skin and lists its ingredients.
+    - Jar C, because nail products are already cosmetics.
+    - Any of them, as long as you use a thick glitter base under it first.
+  correct: 1
+  explanation: >-
+    Only glitter sold for skin, with an ingredient list, goes on the face. "Non-toxic" craft glitter
+    is not a cosmetic, and a color allowed on nails may not be allowed on skin.
+- id: q2
+  question: >-
+    A shop sells a plant-cellulose glitter as "100% eco-safe, harmless to nature". How should you
+    describe it to a friend?
+  options:
+    - As a plastic glitter with a green label, so no better than any other.
+    - As completely safe to wash down the sink after the festival.
+    - As craft glitter, because plant glitter can't be a cosmetic.
+    - As a lower-impact cosmetic glitter that still needs careful clean-up.
+  correct: 3
+  explanation: >-
+    Cellulose glitter sold as a cosmetic is fine for skin and lower-impact than plastic, but research
+    suggests it is not harmless in water, so wipe it up and bin it rather than rinsing it away.
+- id: q3
+  question: >-
+    You live in France and see plastic cosmetic body glitter for sale in 2026. Your friend says the
+    shop is breaking the law because "glitter was banned in 2023". Who is right?
+  options:
+    - The shop can be right; plastic cosmetic glitter has later end dates by product type.
+    - Your friend; plastic glitter of every kind has been illegal in the EU since October 2023.
+    - Your friend; the ban covers everything that contains mica or glass.
+    - Neither; the EU has no rules about glitter at all.
+  correct: 0
+  explanation: >-
+    The 2023 ban covers loose plastic glitter for crafts, toys and similar uses. Cosmetics with
+    plastic glitter can be sold until 2027, 2029 or 2035, depending on the product type.
+- id: q4
+  question: >-
+    Your glitter crescent looked great at home, but after an hour of dancing the glitter is spread
+    over your whole cheek and a few flakes are near your eye. What went wrong most likely?
+  options:
+    - The glitter flakes were too small to stay on the skin.
+    - You should have used a thick layer of petroleum jelly on the eyelids too.
+    - It was rubbed on without a proper base instead of patted onto one.
+    - You needed craft glitter, because its bigger flakes hold better.
+  correct: 2
+  explanation: >-
+    A thin base painted in the exact shape, with glitter patted on and loose flakes tapped off, keeps
+    a crisp edge. Rubbing and no base let glitter travel, sometimes toward the eyes.
+- id: q5
+  question: >-
+    At the end of the night your cheekbones and the parting of your hair are full of glitter. What is
+    the best removal plan?
+  options:
+    - Tape to lift most flakes, oil cleanser, wipe away from the eyes, then wash.
+    - Scrub with a dry towel first, then rinse everything off under the shower.
+    - Leave it on overnight so it falls off by itself while you sleep.
+    - Rubbing alcohol on a cotton pad, because it dissolves the gel fastest.
+  correct: 0
+  explanation: >-
+    Tape lifts flakes without spreading them, oil loosens the base, and wiping outward keeps flakes
+    out of the eyes. Take glitter off before sleeping, and never use alcohol on the face.
+- id: q6
+  question: >-
+    You want a big decorative jewel in the center of your forehead and five small gems above one
+    brow. Which plan is safe?
+  options:
+    - Superglue for the jewel, since it is heavy, and lash glue for the small gems.
+    - Spirit gum for everything, including two gems on the eyelid for balance.
+    - School glue for all of them, because it is gentle and washes off easily with water.
+    - Spirit gum or Pros-Aide for the forehead jewel, self-adhesive gems above the brow.
+  correct: 3
+  explanation: >-
+    Heavier pieces away from the eyes can use spirit gum or a prosthetic adhesive after a patch test;
+    small gems are easiest self-adhesive. Superglue and school glue never go on skin, and no gems go
+    on the eyelid.
+- id: q7
+  question: >-
+    While gluing a gem, a drop of superglue lands on your finger and sticks two fingers together.
+    What do you do?
+  options:
+    - Pull the fingers apart quickly, before the glue has time to set.
+    - Soak them in warm water and ease them apart, never pulling.
+    - Rub nail polish remover between them and pull hard.
+    - Wait until bedtime and sleep on it so it loosens.
+  correct: 1
+  explanation: >-
+    Poison centre first aid: don't pull skin apart, soak it in warm water; oil or petroleum jelly
+    helps on tender skin. This is also why superglue never goes on the face.
+- id: q8
+  question: >-
+    You are planning a neon festival face. Which layout keeps the neon in allowed places?
+  options:
+    - Neon wings over the eyelids and a neon line under the lower lashes.
+    - Neon only on the brows, so it stays off the eyelids.
+    - Neon on cheeks, temples and forehead; eye-safe ordinary color by the eyes.
+    - Neon everywhere on the face, but only a thin, light layer around the eyes.
+  correct: 2
+  explanation: >-
+    No fluorescent colors are allowed near the eyes, and the eye area includes the brows and under the
+    eyes. Ordinary, non-fluorescent eye-safe colors can go there instead.
+- id: q9
+  question: >-
+    You have three UV paints. A says "face and body paint, do not use in the eye area". B says "UV
+    body paint, not for the face". C says "Special FX, not a cosmetic". Where can each go?
+  options:
+    - A on the face away from the eyes, B on the body only, C nowhere on skin.
+    - A and B anywhere on the face including the eyes, C only on the body.
+    - All three anywhere on the face, as long as you patch-test them first.
+    - A around the eyes, B on the face, C on the body.
+  correct: 0
+  explanation: >-
+    Each label sets the limit. A cosmetic neon stays out of the eye area, a body-only paint stays off
+    the face, and a Special FX paint that is not a cosmetic never goes on skin.
+- id: q10
+  question: >-
+    Your neon design is finished, and a friend wants to light it with a UV torch for a photo. What do
+    you tell them?
+  options:
+    - Hold it close to my eyes so the lashes glow too.
+    - Point it from the side at the cheek or forehead, never at my eyes.
+    - Shine it straight at my face from very close for the brightest glow.
+    - Any direction is fine, because UV torches are only a toy light.
+  correct: 1
+  explanation: >-
+    A UV torch is never shone into anyone's eyes. Lighting the painted cheek or forehead from the side
+    shows the glow safely.

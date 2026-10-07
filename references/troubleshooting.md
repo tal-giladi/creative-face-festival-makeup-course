@@ -128,3 +128,18 @@ stings, itches, swells or turns red, stop and take the paint off first: see the
 | Eyeliner wings point to different heights | drawn freehand without a guide | mark both wing tips with a dot first | [05.4](../lessons/module-05/lesson-04.md) |
 | Eyes water and sting during the day | liner on the waterline, or a product not labeled for eyes | keep makeup outside the lashes; eye-labeled products only; remove if it stings | [05.4](../lessons/module-05/lesson-04.md) |
 | Wing shaky or blobby | one long stroke from the inner corner | start at the tip dot; short strokes back toward the lashes | [05.4](../lessons/module-05/lesson-04.md) |
+
+## Module 6: Glitter, Gems and Neon
+
+| What you see | Likely cause | Try this | Lesson |
+|---|---|---|---|
+| Glitter falls off within minutes | no base, or the base dried before the glitter went on | paint a small area of base at a time and glitter it straight away | [06.2](../lessons/module-06/lesson-02.md) |
+| Glitter spreads over the whole cheek | rubbing instead of patting | press and lift; tap off loose flakes with a clean fluffy brush, eyes closed | [06.2](../lessons/module-06/lesson-02.md) |
+| Glitter looks lumpy and wet | too much base | use a base layer so thin it only looks shiny | [06.2](../lessons/module-06/lesson-02.md) |
+| Glitter flakes near the eye | base painted too close, or tapping with eyes open | keep the crescent outside the eye area; close your eyes when tapping and removing | [06.2](../lessons/module-06/lesson-02.md) |
+| Glitter still there after washing | water only | sticky tape first, then an oil cleanser, wipe away from the eyes, then soap and water | [06.2](../lessons/module-06/lesson-02.md) |
+| Gems fall off quickly | oily skin, cream, or too much glue | clean, dry skin; a tiny dot of glue on the gem, tacky before pressing | [06.3](../lessons/module-06/lesson-03.md) |
+| Gem line looks crooked | gems placed one by one without a plan | dot the whole line first and check both sides in the phone camera | [06.3](../lessons/module-06/lesson-03.md) |
+| Skin red where a gem was | pulled off, or glue not patch-tested | soften the edge with oil and lift; patch-test every adhesive | [06.3](../lessons/module-06/lesson-03.md) |
+| A UV color looks dull in daylight | some UV colors only glow under black light | normal; check under the UV torch or pick a brighter neon | [06.4](../lessons/module-06/lesson-04.md) |
+| Neon design glows patchy | one thin, streaky layer | let it dry and add a second thin layer | [06.4](../lessons/module-06/lesson-04.md) |

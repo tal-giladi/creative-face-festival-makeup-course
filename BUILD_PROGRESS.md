@@ -34,7 +34,7 @@ Tools: `curriculum/tools/lib/` (geom, face, art, figure, sheet), `assets-mNN.mjs
 - [x] M3 Color and Symmetry
 - [x] M4 First Designs (+ P1-P5)
 - [x] M5 Festival Faces
-- [ ] M6 Glitter, Gems and Neon (+ P7, P8)
+- [x] M6 Glitter, Gems and Neon (+ P7, P8)
 - [ ] M7 Patterns and Complete Looks (+ P6, P9)
 - [ ] M8 Advanced Color and Illusion
 - [ ] M9 Fantasy Characters and Masks (+ P10-P12)
@@ -44,7 +44,7 @@ Tools: `curriculum/tools/lib/` (geom, face, art, figure, sheet), `assets-mNN.mjs
 
 ## Working now
 
-- Agent A: M7 (+ P6, P9). Agent B: M6 (+ P7, P8). Main session: merges inboxes, checks, commits after each module.
+- Agent A: M7 (+ P6, P9). Agent B: M8. Main session: merges inboxes, checks, commits after each module.
 
 ## Decisions during the build
 

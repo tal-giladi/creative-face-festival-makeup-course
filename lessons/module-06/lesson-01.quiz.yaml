@@ -1,0 +1,52 @@
+- id: q1
+  question: >-
+    A jar of very fine silver glitter from the craft aisle says "non-toxic" and has no ingredient
+    list. Can it go on your cheekbones?
+  options:
+    - Yes, if it is very fine, because fine flakes can't scratch.
+    - Yes, as long as it stays on the cheeks and away from the eyes.
+    - No, because it is not sold as a cosmetic for skin.
+    - Only on top of a thick glitter gel, so it never touches skin.
+  correct: 2
+  explanation: >-
+    Craft glitter is not made or checked as a cosmetic, so nobody has confirmed its colors and
+    materials are allowed on skin. "Non-toxic" and "fine" don't change that; use glitter sold for skin.
+- id: q2
+  question: >-
+    A glitter label lists "Cellulose, Mica (CI 77019), Iron oxides (CI 77491)" and says "cosmetic
+    glitter, face and body". What is the best way to describe it?
+  options:
+    - A cosmetic plant-based glitter that is a lower-impact choice.
+    - A completely eco-safe glitter that can go down the drain.
+    - A plastic glitter, because all glitter is plastic.
+    - A craft glitter, because it contains mica.
+  correct: 0
+  explanation: >-
+    Cellulose first means plant-based flakes, and the front says it is a cosmetic. Plant glitter is
+    lower-impact, but research shows it is not harmless in water, so it is not "eco-safe".
+- id: q3
+  question: >-
+    Your friend in Germany says "plastic glitter was banned in the EU in 2023, so any glitter you can
+    still buy there must be plastic-free". What is right?
+  options:
+    - She is right; all plastic glitter left the shops in October 2023.
+    - The ban covers only glitter sold for children's toys, nothing else.
+    - The ban only starts in 2035, so nothing in the shops has changed yet.
+    - Craft glitter went in 2023; plastic cosmetic glitter has later dates.
+  correct: 3
+  explanation: >-
+    Regulation 2023/2055 stopped sales of loose plastic glitter for crafts and toys in October 2023.
+    Cosmetics with plastic glitter can be sold until 2027, 2029 or 2035, depending on the product type.
+- id: q4
+  question: >-
+    You bought a new cosmetic glitter and a tube of aloe vera gel to stick it with. What do you do
+    before your first glitter design on your face?
+  options:
+    - Test only the glitter, because aloe gel is always gentle.
+    - Patch-test the gel and glitter together on your inner arm.
+    - Skip the test, because cosmetic glitter is already tested.
+    - Test the glitter on your eyelid, where skin is most sensitive.
+  correct: 1
+  explanation: >-
+    The base touches the most skin, so test both together on the inner arm, wear it as long as a
+    design, and watch for 24-48 hours. Never test on the eyelids.

@@ -166,13 +166,19 @@ export function glitter(d, bbox, { colors = [P.gold, P.silver, '#fff3b0'], n = 1
   return `<defs><clipPath id="${g}"><path d="${d}"/></clipPath></defs><g clip-path="url(#${g})">${out.join('')}</g>`;
 }
 
+// Quarter circle (cubic) from angle t0 to t0 - 90 around (cx, cy): no SVG arcs, so sheets can flatten it.
+const qArc = (cx, cy, r, t0) => {
+  const k = 0.5523 * r, a0 = rad(t0), a1 = rad(t0 - 90), p3 = pol(cx, cy, r, t0 - 90), p0 = pol(cx, cy, r, t0);
+  return `C${n1(p0[0] + k * Math.sin(a0))} ${n1(p0[1] - k * Math.cos(a0))} ${n1(p3[0] - k * Math.sin(a1))} ${n1(p3[1] + k * Math.cos(a1))} ${n1(p3[0])} ${n1(p3[1])}`;
+};
+
 // Faceted gem. shape: 'round' | 'drop' | 'star' | 'square'; deg rotates drop/star.
 export function gem(cx, cy, r, color = '#6fd3ff', { shape = 'round', deg = -90 } = {}) {
   const hi = '#ffffff', edge = 'rgba(0,0,0,0.35)';
   let outline;
   if (shape === 'drop') {
     const tip = pol(cx, cy, r * 1.9, deg), a = pol(cx, cy, r, deg - 90), b = pol(cx, cy, r, deg + 90), bk = pol(cx, cy, r, deg + 180);
-    outline = `M${n1(tip[0])} ${n1(tip[1])}Q${n1(a[0] + (tip[0] - cx) * 0.35)} ${n1(a[1] + (tip[1] - cy) * 0.35)} ${n1(a[0])} ${n1(a[1])}A${r} ${r} 0 0 0 ${n1(bk[0])} ${n1(bk[1])}A${r} ${r} 0 0 0 ${n1(b[0])} ${n1(b[1])}Q${n1(b[0] + (tip[0] - cx) * 0.35)} ${n1(b[1] + (tip[1] - cy) * 0.35)} ${n1(tip[0])} ${n1(tip[1])}Z`;
+    outline = `M${n1(tip[0])} ${n1(tip[1])}Q${n1(a[0] + (tip[0] - cx) * 0.35)} ${n1(a[1] + (tip[1] - cy) * 0.35)} ${n1(a[0])} ${n1(a[1])}${qArc(cx, cy, r, deg - 90)}${qArc(cx, cy, r, deg - 180)}Q${n1(b[0] + (tip[0] - cx) * 0.35)} ${n1(b[1] + (tip[1] - cy) * 0.35)} ${n1(tip[0])} ${n1(tip[1])}Z`;
   } else if (shape === 'star') {
     const pts = []; for (let i = 0; i < 10; i++) pts.push(pol(cx, cy, i % 2 ? r * 0.5 : r * 1.2, deg + i * 36));
     outline = polyD(pts, true);

@@ -1,0 +1,10 @@
+- Glitter falls off within minutes | no base, or the base dried before the glitter went on | paint a small area of base at a time and glitter it straight away | 06.2
+- Glitter spreads over the whole cheek | rubbing instead of patting | press and lift; tap off loose flakes with a clean fluffy brush, eyes closed | 06.2
+- Glitter looks lumpy and wet | too much base | use a base layer so thin it only looks shiny | 06.2
+- Glitter flakes near the eye | base painted too close, or tapping with eyes open | keep the crescent outside the eye area; close your eyes when tapping and removing | 06.2
+- Glitter still there after washing | water only | sticky tape first, then an oil cleanser, wipe away from the eyes, then soap and water | 06.2
+- Gems fall off quickly | oily skin, cream, or too much glue | clean, dry skin; a tiny dot of glue on the gem, tacky before pressing | 06.3
+- Gem line looks crooked | gems placed one by one without a plan | dot the whole line first and check both sides in the phone camera | 06.3
+- Skin red where a gem was | pulled off, or glue not patch-tested | soften the edge with oil and lift; patch-test every adhesive | 06.3
+- A UV color looks dull in daylight | some UV colors only glow under black light | normal; check under the UV torch or pick a brighter neon | 06.4
+- Neon design glows patchy | one thin, streaky layer | let it dry and add a second thin layer | 06.4
