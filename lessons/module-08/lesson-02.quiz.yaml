@@ -1,0 +1,51 @@
+- id: q1
+  question: >-
+    You are shading a purple ball and want the shadow to look clean, not dirty. What do you paint the
+    shadow with?
+  options:
+    - Black, painted thinly so the purple still shows through.
+    - Gray, because it is softer than black on skin.
+    - A darker shade of purple, mixed from purple and a darker neighbor.
+    - White, because shadows are just less color.
+  correct: 2
+  explanation: >-
+    A darker shade of the same color keeps the shadow bright and clean. Black and gray turn most colors
+    dull and dirty; save black for thin outlines.
+- id: q2
+  question: >-
+    Your design is lit from the top left. On a gem, which facets do you paint darkest?
+  options:
+    - The facets on the bottom right, facing away from the light.
+    - The facets on the top left, so the gem has strong contrast.
+    - The flat top in the middle, because it is the deepest part.
+    - Every second facet, so the gem sparkles evenly.
+  correct: 0
+  explanation: >-
+    Facets facing the light get the light values and facets facing away get the shadow shade. With
+    light from the top left, the bottom-right facets are darkest.
+- id: q3
+  question: >-
+    Your shaded ball has a white highlight and a dark side, but it looks like a disk cut in half.
+    What is missing?
+  options:
+    - A second white highlight on the dark side, for balance.
+    - A thick black outline all the way around the ball.
+    - A brighter, bigger white shine in the highlight spot.
+    - A wide midtone zone and a faint reflected light.
+  correct: 3
+  explanation: >-
+    A round shape changes slowly from light to dark. A wide midtone zone and a faint lighter band
+    inside the shadow edge make it read as round instead of split.
+- id: q4
+  question: >-
+    You add a cast shadow beside a 3D horn painted on the forehead, with the light from the top left.
+    Where does the cast shadow go?
+  options:
+    - On the top-left side, next to the highlight.
+    - On the skin to the right of the horn, away from the light.
+    - Under the brows, so the horn looks lit from straight above.
+    - All around the horn, like a dark outline.
+  correct: 1
+  explanation: >-
+    A cast shadow falls on the surface on the side away from the light. With light from the top left,
+    it sits to the right and slightly below the shape.

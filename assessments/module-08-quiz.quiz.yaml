@@ -1,0 +1,130 @@
+- id: q1
+  question: >-
+    You are planning a sunset blend for the temple with yellow, purple and green, sponged as three
+    stripes. A friend warns it may go muddy. What change keeps both blending zones clean?
+  options:
+    - Swap the middle color for pink, which sits next to both yellow and purple.
+    - Add more water to the sponge so the colors spread further apart.
+    - Blend the zones longer, rubbing the sponge across the stripes.
+    - Keep the same three colors but outline each stripe in black afterwards.
+  correct: 0
+  explanation: >-
+    Each zone is a mix of two neighbors. A middle color that sits next to both outer colors on the
+    color wheel keeps both zones clean; yellow and purple, or purple and green, would turn dull.
+- id: q2
+  question: >-
+    Halfway through a layered blend on your arm, you stop to answer the door. When you come back the
+    first color is completely dry. What happens if you just sponge the next color beside it?
+  options:
+    - Nothing, because dry paint blends more easily than damp paint.
+    - The new color will slide off the dry layer and leave gaps.
+    - A hard line will likely show where the new color starts.
+    - The first color will dissolve and turn the patch muddy.
+  correct: 2
+  explanation: >-
+    Blends melt together only while the edge is still slightly damp. On a fully dry edge, soften the
+    join with light, almost dry dabs over the line, or expect a visible edge.
+- id: q3
+  question: >-
+    Your one-stroke petals come out with the dark color in the middle of the flower and the light
+    color at the tips. What do you change?
+  options:
+    - Load the brush from the other side of the split cake each time.
+    - Put the brush's light corner at the flower center for every petal.
+    - Use more water so the colors mix inside the bristles.
+    - Paint the petals from the tip toward the center instead.
+  correct: 1
+  explanation: >-
+    The corner that stays at the flower center decides which color sits there. Keep the light corner
+    on the center and every petal is pale at the base and dark at the rim.
+- id: q4
+  question: >-
+    You paint a 3D horn on the forehead, lit from the top left, and shade its right side with black.
+    In the photo the horn looks gray and dirty. What would have worked better?
+  options:
+    - A thicker black outline, so the gray shading is hidden by it.
+    - A white shadow on the right, so the horn looks glowing.
+    - The same black, but blended out further onto the skin.
+    - A darker shade of the horn's own color on the right side.
+  correct: 3
+  explanation: >-
+    Shadows stay clean when they are a darker shade of the same color. Black dulls most colors to gray;
+    keep it for thin outlines.
+- id: q5
+  question: >-
+    On a 3D gem lit from the top left, you painted the bottom-right facets light and the top-left
+    facets dark. How does it look, and why?
+  options:
+    - Wrong, because the light seems to come from the bottom right.
+    - Fine, because any facets can be light as long as some are dark.
+    - Fine, because gems reflect light from every direction.
+    - Wrong, because gems need black facets to look shiny.
+  correct: 0
+  explanation: >-
+    Facets facing the light are lighter and facets facing away are darker. Swapping them makes the
+    light seem to come from the opposite side, which clashes with the rest of the design.
+- id: q6
+  question: >-
+    You want mermaid scales from the temple down to the cheekbone using a stencil. Which plan is both
+    clean and safe?
+  options:
+    - Hold the stencil across the closed eyelid, then dab with a wet sponge.
+    - Hold it on the temple and cheekbone, dab with a nearly dry sponge, lift straight up.
+    - Tape it over the eye area so it can't move, then rub the sponge across it.
+    - Hold it on the cheek, dab with a very wet sponge, then slide it off to the side.
+  correct: 1
+  explanation: >-
+    Stencils stay away from the eyes. A nearly dry sponge keeps paint from creeping under the edges,
+    and lifting straight up avoids smears.
+- id: q7
+  question: >-
+    You borrow a friend's scale stencil that still has dried paint on it from her last festival. What
+    should you do first?
+  options:
+    - Use it as it is; dried paint can't spread anything.
+    - Wipe it quickly with a dry tissue and then start painting.
+    - Wash it in soapy water, rinse it and press it dry before use.
+    - Use it only on your arm for now, and never on your face.
+  correct: 2
+  explanation: >-
+    Stencils are cleaned like brushes: soapy water, a rinse and drying between paper towels, between
+    people and after every use.
+- id: q8
+  question: >-
+    Your freehand dragon scales look flat, like a pattern of U shapes. Which addition makes them look
+    3D?
+  options:
+    - A thick black outline around every single scale in the patch.
+    - Brighter colors and many more U shapes squeezed into each row.
+    - Bigger scales in the middle of the patch and tiny ones at the edges.
+    - A darker top on each scale and a white highlight on its rim.
+  correct: 3
+  explanation: >-
+    Each scale is tucked under the row above, so its top is in shadow, and its rounded rim catches the
+    light. A darker top and a light rim, all on the same side, make the scales look raised.
+- id: q9
+  question: >-
+    You paint a peeled-skin patch on the cheek. With the light from the top left, where does the
+    shadow inside the hole belong?
+  options:
+    - Inside, along the top-left torn edge.
+    - Inside, along the bottom-right torn edge.
+    - Outside, all around the torn edge.
+    - Nowhere; the flap is enough to show depth.
+  correct: 0
+  explanation: >-
+    A hole's shadow falls inside along the edge nearest the light. Put it on the far edge and the patch
+    looks like it bulges out instead of sinking in.
+- id: q10
+  question: >-
+    You're planning a zipper illusion that opens near the eye for maximum drama. What is the better
+    placement?
+  options:
+    - Along the lash line, so it looks like the eye is unzipped.
+    - Over the closed eyelid, painted quickly with a light touch.
+    - On the cheek, starting well below the eye, with a galaxy inside.
+    - Under the lower lashes, as close to the eye as possible.
+  correct: 2
+  explanation: >-
+    Illusions stay outside the eye area. A zipper on the cheek reads clearly from across a room and
+    keeps paint away from the eyelids and lash line.

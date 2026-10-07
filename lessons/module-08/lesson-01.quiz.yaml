@@ -1,0 +1,52 @@
+- id: q1
+  question: >-
+    You want a three-color sponge blend on the temple. Which set of colors gives two clean blending
+    zones?
+  options:
+    - Yellow, purple and green, because three different colors look brightest.
+    - Orange, blue and yellow, because opposite colors make each other pop on skin.
+    - Yellow, pink and purple, because the middle color sits next to both others.
+    - Red, green and purple, because red and green are a classic pair.
+  correct: 2
+  explanation: >-
+    Each blending zone is a mix of two colors. When the middle color is a neighbor of both outer
+    colors on the color wheel, both zones stay clean instead of turning brown.
+- id: q2
+  question: >-
+    You sponge yellow on your arm, wash the sponge, wait ten minutes, then dab pink next to it. A
+    sharp line shows where the pink starts. What should you do differently next time?
+  options:
+    - Add the pink while the edge of the yellow is still slightly damp.
+    - Use a much wetter sponge so the pink runs into the yellow and hides it.
+    - Paint a thin white line over the meeting point to hide it.
+    - Use a brush instead of a sponge for the second color.
+  correct: 0
+  explanation: >-
+    Paint that has fully dried leaves a hard edge. Working into the still-damp edge (the wet edge)
+    lets the colors melt together; extra water only makes them run into mud.
+- id: q3
+  question: >-
+    After a few loads, the stripes on your pink split cake have smeared into each other and your
+    petals look dull. What most likely caused it?
+  options:
+    - The cake was misted with water before loading.
+    - The flat brush was too wide for the cake.
+    - The cake was used for leaves and petals in the same session.
+    - The brush was rubbed across the stripes or in circles while loading.
+  correct: 3
+  explanation: >-
+    Lay the brush across the stripes but slide it along them, on the same path every time. Rubbing in
+    other directions drags each color into its neighbors and muddies the cake.
+- id: q4
+  question: >-
+    You are painting a one-stroke flower and want every petal pale in the middle and dark at the rim.
+    Where does the brush's light corner go?
+  options:
+    - At the outer tip of each petal, so the edge looks bright.
+    - At the center of the flower, for every petal.
+    - On a different side for each petal, so the flower looks varied.
+    - Anywhere, as long as the brush is fully loaded.
+  correct: 1
+  explanation: >-
+    Keeping the light corner on the flower center makes each petal pale at the base and dark at the
+    rim. The rotated flower works the same way: the light corner stays still while the brush turns.

@@ -1,0 +1,14 @@
+- Hard line inside a blend | the first color dried before the next went on | add the next color while the edge is still slightly damp; soften an old line with almost dry dabs | 08.1
+- Brown or gray zone in a three-color blend | the middle color is not a neighbor of both outer colors | choose three neighbors on the color wheel, e.g. yellow, pink, purple | 08.1
+- Split cake turns muddy | brush rubbed across the stripes or in circles | load across, slide along the stripes on the same path; wipe a smudged top layer off | 08.1
+- One-stroke colors run and drip | too much water on the cake or brush | mist once or twice only; blot the brush before loading | 08.1
+- One-stroke petals streaky with gaps | too little paint in the brush | slide along the stripes 10-15 times so the paint sits high in the bristles | 08.1
+- Shadow looks gray and dirty | black used for shading | shade with a darker shade of the same color; keep black for thin outlines | 08.2
+- 3D shape still looks flat | highlights on two sides, no clear light direction | draw a sun mark; every highlight on that side, every shadow on the other | 08.2
+- Ball looks cut in half | light and dark meet with no midtone | let the shadow fade into the midtone; add a faint reflected light | 08.2
+- Stencil print fuzzy | sponge too wet | dab the sponge on a paper towel until it prints dry and even | 08.3
+- Stencil print smeared or doubled | stencil slid when lifting, or moved while dabbing | hold it flat and still, dab from the edges in, lift straight up | 08.3
+- Freehand scales look like a grid | rows stacked straight above each other | start each U in the gap between two U shapes below | 08.3
+- Painted opening looks like a flat sticker | no shadow inside the edge | dark band inside the edge nearest the light, thin light line on the far inner edge | 08.4
+- Painted hole looks like a bump | shadow on the wrong side | put the shadow inside the edge nearest the light | 08.4
+- Cracks look like a road map | smooth curves, even thickness | change direction often, taper each line, add thinner branches | 08.4

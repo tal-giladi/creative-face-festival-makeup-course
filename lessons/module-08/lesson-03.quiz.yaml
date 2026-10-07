@@ -1,0 +1,50 @@
+- id: q1
+  question: >-
+    Your stencil scales come out fuzzy, as if the paint crept under the edges. What is the most likely
+    cause?
+  options:
+    - The stencil was too thin and flexible for skin.
+    - The base underneath was a three-color blend, not one color.
+    - The sponge was too wet when you dabbed through the stencil.
+    - You dabbed from the edges of the holes inward.
+  correct: 2
+  explanation: >-
+    Wet paint runs under the stencil. Dab the loaded sponge on a paper towel until it prints dry and
+    even, then dab lightly through the holes.
+- id: q2
+  question: >-
+    You want fishnet scales around your eyes for a mermaid look. How do you place the stencil?
+  options:
+    - Across the closed eyelids, holding it very still.
+    - On the temples and cheekbones only, keeping it away from the eyes.
+    - Over the eyes with the eyes open, so you can see what you paint.
+    - Anywhere at all, because a fabric stencil is softer than a plastic one.
+  correct: 1
+  explanation: >-
+    Stencils can slip and the sponge can push paint under them, so they never go over the eyes. Keep
+    them on the temples, cheekbones, forehead or body.
+- id: q3
+  question: >-
+    You want to use a fishnet stocking as a stencil. The only one you have was worn last year and has
+    been in a drawer since. What is the right choice?
+  options:
+    - Use it as it is, since the paint covers the skin anyway.
+    - Rinse it quickly in water and use it while damp.
+    - Use it only on the forehead and keep it away from the cheeks.
+    - Use a new piece, washed with soap, kept for face paint only.
+  correct: 3
+  explanation: >-
+    Anything that touches skin as a stencil should be new, washed and used only for face paint, like a
+    brush or sponge. A damp stencil would also make the paint bleed.
+- id: q4
+  question: >-
+    Your freehand scales look like a square grid instead of scales. What should you change?
+  options:
+    - Start each new row in the gap between two scales of the row below.
+    - Paint each row directly above the last one, but make the scales bigger.
+    - Use black outlines around every scale.
+    - Paint the top row first and work down.
+  correct: 0
+  explanation: >-
+    Scales overlap like bricks: each U starts in the gap between two below. Working from the bottom
+    row up lets each new row sit over the tops of the row below.

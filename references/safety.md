@@ -59,6 +59,7 @@ before painting a child or before a long festival day.
 - Keep paint out of eyes and mouth. Take everything off before you sleep.
 - Contact lenses: put soft lenses in before makeup and take them out before you remove it.
 - Never paint or apply eye makeup in a moving vehicle, and keep makeup outside the lash line, never on the waterline.
+- Stencils: wash them before first use and after every use, keep them for face paint only, and never use them over the eyes. Fishnet or lace used as a stencil must be new and washed.
 - Store paints and makeup out of the heat (FDA advises not above 85 °F / about 29 °C).
 - Ask before painting anyone: allergies? sensitive skin? contact lenses? For a child, ask a parent
   or guardian.

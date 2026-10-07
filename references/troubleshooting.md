@@ -163,3 +163,22 @@ stings, itches, swells or turns red, stop and take the paint off first: see the
 | Ran out of time on a full look | no timing in the plan | minutes for each step, 15 spare, finish an hour before leaving | [07.4](../lessons/module-07/lesson-04.md) |
 | Glitter dull or gems loose after setting | glitter and gems put on before the setting spray | set first, glitter and gems last | [07.4](../lessons/module-07/lesson-04.md) |
 | Eye area glows under UV light | UV paint placed too close to the eyes | UV parts on the forehead, temples and cheekbones only | [07.4](../lessons/module-07/lesson-04.md) |
+
+## Module 8: Advanced Color and Illusion
+
+| What you see | Likely cause | Try this | Lesson |
+|---|---|---|---|
+| Hard line inside a blend | the first color dried before the next went on | add the next color while the edge is still slightly damp; soften an old line with almost dry dabs | [08.1](../lessons/module-08/lesson-01.md) |
+| Brown or gray zone in a three-color blend | the middle color is not a neighbor of both outer colors | choose three neighbors on the color wheel, e.g. yellow, pink, purple | [08.1](../lessons/module-08/lesson-01.md) |
+| Split cake turns muddy | brush rubbed across the stripes or in circles | load across, slide along the stripes on the same path; wipe a smudged top layer off | [08.1](../lessons/module-08/lesson-01.md) |
+| One-stroke colors run and drip | too much water on the cake or brush | mist once or twice only; blot the brush before loading | [08.1](../lessons/module-08/lesson-01.md) |
+| One-stroke petals streaky with gaps | too little paint in the brush | slide along the stripes 10-15 times so the paint sits high in the bristles | [08.1](../lessons/module-08/lesson-01.md) |
+| Shadow looks gray and dirty | black used for shading | shade with a darker shade of the same color; keep black for thin outlines | [08.2](../lessons/module-08/lesson-02.md) |
+| 3D shape still looks flat | highlights on two sides, no clear light direction | draw a sun mark; every highlight on that side, every shadow on the other | [08.2](../lessons/module-08/lesson-02.md) |
+| Ball looks cut in half | light and dark meet with no midtone | let the shadow fade into the midtone; add a faint reflected light | [08.2](../lessons/module-08/lesson-02.md) |
+| Stencil print fuzzy | sponge too wet | dab the sponge on a paper towel until it prints dry and even | [08.3](../lessons/module-08/lesson-03.md) |
+| Stencil print smeared or doubled | stencil slid when lifting, or moved while dabbing | hold it flat and still, dab from the edges in, lift straight up | [08.3](../lessons/module-08/lesson-03.md) |
+| Freehand scales look like a grid | rows stacked straight above each other | start each U in the gap between two U shapes below | [08.3](../lessons/module-08/lesson-03.md) |
+| Painted opening looks like a flat sticker | no shadow inside the edge | dark band inside the edge nearest the light, thin light line on the far inner edge | [08.4](../lessons/module-08/lesson-04.md) |
+| Painted hole looks like a bump | shadow on the wrong side | put the shadow inside the edge nearest the light | [08.4](../lessons/module-08/lesson-04.md) |
+| Cracks look like a road map | smooth curves, even thickness | change direction often, taper each line, add thinner branches | [08.4](../lessons/module-08/lesson-04.md) |

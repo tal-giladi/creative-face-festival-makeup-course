@@ -62,7 +62,7 @@ second thin layer instead of one thick wet one.
 - a round brush with a sharp point, size 2-4 (lines, teardrops, details);
 - a smaller round or "liner", size 0-1 (very thin lines, eyelashes, cracks);
 - a flat or filbert brush, about 1-1.5 cm wide (filling, petals, broad strokes);
-- optional later: a wide flat "one-stroke" brush, 2-2.5 cm, for split cakes (Module 8).
+- optional later: a wide flat "one-stroke" brush, 1.5-2.5 cm, for split cakes (Module 8). No split cake? Paint short stripes of ordinary face-paint cakes side by side on a clean plate and load the flat brush from those (a "home-made split load").
 
 **Cheaper or easier to find:** synthetic watercolor or acrylic brushes from an art shop or
 supermarket craft aisle in the same shapes; makeup brushes for the flat/filbert job (a small
@@ -386,6 +386,22 @@ for the eye area.
 craft knife (adults only); fishnet stockings or lace fabric for scales and lace (new, washed).
 
 **Must:** be thin and flexible enough to lie flat on the skin, washable, and free of sharp edges.
+
+**Make your own:** the course provides a printable `stencil-cutouts` sheet in `labs/module-08/`
+(scales, stars, lace edge, diamonds). Tape a card onto thin clear plastic and an adult cuts through
+both on a cutting mat; a hole punch makes small circles. Wash before first use and after every use
+(soapy water, rinse, press dry between paper towels). Keep stencils for face paint only and never use
+them over the eyes. Fishnet or lace used as a stencil must be **new and washed**.
+
+### Low-density sponge (stencils, optional)
+
+**What it is for:** dabbing paint through a stencil with very little water (lesson 08.3).
+
+**Ideal:** a small low-density face-painting sponge (it holds paint on its surface).
+
+**Cheaper or easier to find:** a makeup wedge cut into small pieces.
+
+**A substitute must:** be soft and new, squeeze almost dry, and be used for one person only.
 
 ### Rainbow split cake (optional)
 

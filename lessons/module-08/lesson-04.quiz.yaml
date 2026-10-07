@@ -1,0 +1,52 @@
+- id: q1
+  question: >-
+    You paint a round galaxy "hole" on your cheek with the light coming from the top left. Where do
+    you put the dark shadow so it looks sunken?
+  options:
+    - On the skin outside the hole, on its bottom-right side, away from the light.
+    - Inside the hole, along the top-left edge nearest the light.
+    - Inside the hole, along the bottom-right edge.
+    - All around the outside, as an even dark ring.
+  correct: 1
+  explanation: >-
+    The edge nearest the light blocks it, so the shadow falls inside along that edge. Shadow on the
+    far side, or outside, makes the shape look like a bump instead.
+- id: q2
+  question: >-
+    Your porcelain crack looks like a smooth black road on a map rather than a crack. What is the best
+    fix?
+  options:
+    - Make the line thicker and darker so it shows more clearly.
+    - Paint over it in white and start again with one straight crack.
+    - Change direction often, taper each line and add thin branches.
+    - Outline the whole crack in red so it looks deeper and fresher.
+  correct: 2
+  explanation: >-
+    Real cracks change direction every centimeter or two, split into thinner branches and taper. A
+    soft shadow on one side and a white line on the other then give them depth.
+- id: q3
+  question: >-
+    A friend asks for a zipper face for a party and suggests gluing on a real zipper with craft glue.
+    What do you do in this module's version?
+  options:
+    - Use craft glue, but only a thin line along the edges.
+    - Glue it on with eyelash glue, because eyelash glue is made for skin.
+    - Glue it with superglue, because it holds for hours.
+    - Paint the whole zipper with face paint, teeth and slider included.
+  correct: 3
+  explanation: >-
+    This module uses only face paint and makeup tools. Craft glue and superglue never go on skin, and
+    lash glue is for small gems, not big objects; painted teeth with shine and shadow look convincing.
+- id: q4
+  question: >-
+    You want a stitched seam that looks fun, not frightening, for a younger cousin. Which choice fits
+    best?
+  options:
+    - A dusky-pink seam line with neat black stitches across the forehead.
+    - Bright red seam lines with drips of fake blood running down from each stitch.
+    - Stitches across the eyelids so the eyes look sewn shut.
+    - A wide dark-red gash with stitches crossing it.
+  correct: 0
+  explanation: >-
+    A soft seam in a darker skin shade with neat stitches reads as a rag-doll look. Red drips and
+    wounds turn it gory, and nothing goes on the eyelids.
