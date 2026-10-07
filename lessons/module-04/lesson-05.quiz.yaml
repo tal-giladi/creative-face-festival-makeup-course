@@ -1,0 +1,48 @@
+- id: q1
+  question: >-
+    Your tiger stripes look like straight black bars. What change makes them look like fur?
+  options:
+    - Paint them thinner with a liner brush.
+    - Press at the edge and lift to a point inward.
+    - Paint each stripe twice so the color is denser.
+    - Make all the stripes exactly the same length.
+  correct: 1
+  explanation: >-
+    A stripe is a pressure stroke: wide where you press at the edge, sharp where you lift. The taper is
+    what makes it read as fur.
+- id: q2
+  question: >-
+    You paint black stripes and they smear into brown streaks. What most likely happened?
+  options:
+    - The black paint was too old.
+    - Orange and black always mix into brown.
+    - The stripes were painted from the middle outward.
+    - The orange base was still wet.
+  correct: 3
+  explanation: >-
+    Wet paint mixes with the next layer. Let the base dry to the touch before painting dark lines on
+    top.
+- id: q3
+  question: >-
+    You have only five minutes before a party and want an animal face. What do you paint?
+  options:
+    - The cat, with a white muzzle, black nose and whiskers.
+    - Only the tiger stripes, without a base.
+    - A full orange base, to finish the rest later.
+    - The white areas over the brows only.
+  correct: 0
+  explanation: >-
+    The muzzle and nose make a face read as an animal at once. A cat is complete in a few minutes; a
+    base alone is not.
+- id: q4
+  question: >-
+    How do you keep the tiger's stripes matching on both sides of the face?
+  options:
+    - Finish the left side completely, then copy it on the right.
+    - Paint all the stripes the same length so they match.
+    - Paint one stripe on the left, then the same one on the right.
+    - Paint the right side first, since it is easier to see.
+  correct: 2
+  explanation: >-
+    Working in pairs keeps the two sides in step. Painting a whole side first makes the second side
+    a guess from memory.

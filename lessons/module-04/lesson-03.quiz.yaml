@@ -1,0 +1,62 @@
+- id: q1
+  question: >-
+    Where does the butterfly's body go for a symmetrical full-face butterfly?
+  options:
+    - On the cheek of the side you paint best.
+    - Across the forehead, from temple to temple.
+    - Under one eye, with the wings around it.
+    - On the center line, down the nose bridge.
+  correct: 3
+  explanation: >-
+    The body sits on the center line between the brows and down the nose. With the body in the middle,
+    the two mirrored wings look balanced.
+- id: q2
+  question: >-
+    Your paint set's label says "not for use around the eyes". You want to paint a butterfly today.
+    What do you do?
+  options:
+    - Paint the small cheek butterfly instead of the full face.
+    - Paint the full butterfly but use a thinner layer on the lids.
+    - Paint the lids anyway, since the photo on the box shows it.
+    - Mix the paint with water so it becomes gentle enough.
+  correct: 0
+  explanation: >-
+    Believe the label. A color allowed on the cheek may not be allowed on the eyelid, so keep that
+    paint away from the eyes and paint the cheek version.
+- id: q3
+  question: >-
+    You finish a butterfly and one upper wing tip sits clearly higher than the other. What would have
+    prevented it?
+  options:
+    - Painting the whole left side first, then the whole right side.
+    - Dotting both wing tips first and checking they are level.
+    - Using a bigger sponge so the wings come out larger.
+    - Painting the body last so it can hide the difference.
+  correct: 1
+  explanation: >-
+    Two level dots planned at the start fix the size and height of both wings. Working wing by wing in
+    pairs keeps them matching.
+- id: q4
+  question: >-
+    Where should the lower wings start under the eyes?
+  options:
+    - Right on the lower lash line, so there is no gap.
+    - Inside the lower lid, so the color frames the eye.
+    - A few millimeters below the lower lashes, on the cheek.
+    - Halfway down the cheek, at the level of the mouth.
+  correct: 2
+  explanation: >-
+    Lower wings sit on the cheeks and start just below the lashes. Paint on the lash line or inside the
+    lid can get into the eye.
+- id: q5
+  question: >-
+    Your butterfly looks flat and dull after sponging one color per wing. What adds the most life?
+  options:
+    - Adding a thicker black outline around every edge.
+    - Sponging a second layer of the same color.
+    - Adding more water to make the colors brighter.
+    - Two or three blended colors, then white teardrops.
+  correct: 3
+  explanation: >-
+    A gradient in each wing and white highlights give depth and shine. A thin outer outline is enough;
+    a heavy one makes it look darker, not brighter.

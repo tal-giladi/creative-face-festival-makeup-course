@@ -1,0 +1,51 @@
+- id: q1
+  question: >-
+    You paint a leaf, but it comes out the same width all along, like a green sausage. What should
+    you change?
+  options:
+    - Use more water so the paint spreads into a leaf shape.
+    - Paint the leaf twice, the second time a little wider.
+    - Touch with the tip, press in the middle, then lift to a point.
+    - Switch to a sponge, which gives the leaf softer, rounder edges.
+  correct: 2
+  explanation: >-
+    A leaf is one pressure stroke. The width comes from pressing in the middle and lifting at both
+    ends, not from extra paint or water.
+- id: q2
+  question: >-
+    You add a black outline to your pink flower and the black smears into the petals, turning them
+    muddy. What went wrong?
+  options:
+    - The pink was still wet when you painted the outline.
+    - Black and pink are colors that never go together.
+    - The outline should have been painted before the petals.
+    - The brush was too small for an outline.
+  correct: 0
+  explanation: >-
+    Paint mixes when wet touches wet. Let each layer dry to the touch before you paint a dark line
+    over or next to it.
+- id: q3
+  question: >-
+    Your cheek cluster has three flowers of the same size in a straight row and looks stiff. What is
+    the best fix next time?
+  options:
+    - Add a fourth flower of the same size to fill the cheek.
+    - Paint one big flower and two smaller ones placed like a triangle.
+    - Make all three flowers bigger so they touch each other.
+    - Paint each flower a different color so they look different.
+  correct: 1
+  explanation: >-
+    A cluster looks natural with one big focus flower and two smaller ones at different heights. Size
+    and placement matter more than extra flowers.
+- id: q4
+  question: >-
+    Where should the big flower of a cheek cluster go?
+  options:
+    - Right under the lower lashes, so the flowers frame the eye nicely.
+    - On the side of the nose, so both cheeks can share it.
+    - Close to the corner of the mouth, where the skin is flat.
+    - On the cheekbone, with the cluster growing outward from there.
+  correct: 3
+  explanation: >-
+    The cheekbone is a flat, easy place to paint and keeps the design away from the eye, nose and
+    mouth. Leaves and vines then grow outward from it.

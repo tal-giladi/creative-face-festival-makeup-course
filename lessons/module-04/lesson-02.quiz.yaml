@@ -1,0 +1,49 @@
+- id: q1
+  question: >-
+    Your freehand stars always come out with one arm much longer than the others. What is the
+    simplest fix?
+  options:
+    - Paint the star bigger, so small differences don't show.
+    - Mark the five tips with tiny dots first, then join them.
+    - Use a sponge, which makes even shapes on its own.
+    - Paint the arms faster so the hand has no time to wobble.
+  correct: 1
+  explanation: >-
+    Five tip dots act as a map. Joining dots is much easier than guessing the length of each arm.
+- id: q2
+  question: >-
+    You outline a yellow star in black and the line comes out gray and smeared. What is the most
+    likely cause?
+  options:
+    - Black always looks gray on top of yellow.
+    - The liner brush was too thin to carry enough black.
+    - The outline needs to be painted twice to look black.
+    - The yellow was still wet, or the black was too watery.
+  correct: 3
+  explanation: >-
+    Wet paint mixes with the next layer. Let the yellow dry and blot the black brush so the line is
+    crisp and dark.
+- id: q3
+  question: >-
+    How do you paint a heart with the teardrop method?
+  options:
+    - Two mirrored teardrops, round at the top, meeting at one point.
+    - One big teardrop with the tail pointing up, then a dot on top.
+    - Two teardrops side by side with both tails pointing up.
+    - A circle first, then a triangle painted under it.
+  correct: 0
+  explanation: >-
+    Each half of a heart is a teardrop: press for the round top, then pull down while lifting. Both
+    tails meet at the bottom point.
+- id: q4
+  question: >-
+    You sponge a colorful swoosh for a star design. Where should it go on the face for this lesson?
+  options:
+    - Across the eyelid and up to the brow, like eye shadow.
+    - Around the whole eye, so the stars frame it.
+    - From the cheek up toward the ear, below the eye.
+    - Along the lower lash line, where it shows best.
+  correct: 2
+  explanation: >-
+    This design stays on the cheek, below the eye. Eye-area designs need eye-safe products and come
+    later in the module.

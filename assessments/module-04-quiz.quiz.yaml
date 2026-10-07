@@ -1,0 +1,125 @@
+- id: q1
+  question: >-
+    You are planning a full-face butterfly on the face map. Where do the body and the upper wings go?
+  options:
+    - Body on one cheek, wings spreading over the nose to the other cheek.
+    - Body down the nose, upper wings over the brows and closed lids.
+    - Body across the forehead, wings hanging down over both eyes.
+    - Body under the eyes, upper wings on the cheeks, lower wings on the jaw.
+  correct: 1
+  explanation: >-
+    The body sits on the center line so the mirrored wings balance. The upper wings cover the brows
+    and closed eyelids; the lower wings sit on the cheeks below the lashes.
+- id: q2
+  question: >-
+    Your only blue paint says "not for use around the eyes" on the label, but the box photo shows a
+    blue mask. You want a blue hero mask. What do you do?
+  options:
+    - Use it, because the photo shows it is meant for masks.
+    - Use it, but only in a thin layer and wash it off early in the day.
+    - Mix it with white so it is gentler around the eyes.
+    - Use eye-safe paint for the mask, or paint a cheek design.
+  correct: 3
+  explanation: >-
+    Believe the label, not the photo. A color allowed on the cheek may not be allowed near the eyes,
+    and thinning or mixing does not change that.
+- id: q3
+  question: >-
+    A child wants a tiger face. After the orange base you paint the black stripes and they smudge
+    into brown streaks. What should you do differently?
+  options:
+    - Let the orange dry to the touch before the black.
+    - Paint the stripes first and the orange base on top.
+    - Use a sponge for the stripes so they blend in.
+    - Add more water to the black so it glides over the orange.
+  correct: 0
+  explanation: >-
+    Dark lines on a wet base mix into it. A dry base gives crisp black stripes; more water makes it
+    worse.
+- id: q4
+  question: >-
+    You paint a cheek flower cluster. It looks flat and unfinished even though the petals are neat.
+    What is the quickest way to make it pop?
+  options:
+    - Paint every petal a second time in the same color.
+    - Add three more flowers of the same size around it.
+    - A thin dry black outline plus white highlights.
+    - Sponge a dark color over the whole cluster to blend it.
+  correct: 2
+  explanation: >-
+    Contrast finishes a design: a thin dark outline makes shapes crisp, and white highlights make them
+    look shiny and round.
+- id: q5
+  question: >-
+    You paint a rainbow and bare skin shows between the stripes. Next time you paint each stripe
+    right away against the wet one before it, and they turn muddy. What is the right method?
+  options:
+    - Paint the stripes far apart and fill the gaps with white.
+    - Touch each new stripe to the last one once that is dry.
+    - Paint all six colors at once while everything is wet.
+    - Sponge each color on instead of using a brush at all.
+  correct: 1
+  explanation: >-
+    Stripes must touch but not mix. Wait a few seconds until each stripe looks matte, then paint the
+    next one against its edge.
+- id: q6
+  question: >-
+    A friend asks for gems on the eyelid near the lashes to finish a crown look. What do you do?
+  options:
+    - Use craft rhinestones with a dab of school glue on the lid.
+    - Use self-adhesive gems on the lid, but keep the eye closed.
+    - Put the gems on the lash line only, where they hold best.
+    - Put face gems on the forehead and crown instead.
+  correct: 3
+  explanation: >-
+    Gems and glitter near the lash line can fall into the eye and scratch it. Use gems made for skin,
+    on the forehead or cheekbone, and never glue from the drawer.
+- id: q7
+  question: >-
+    Your tiger stripes look like heavy black bars of the same width. What change to the stroke fixes
+    it?
+  options:
+    - Press at the edge and lift to a point toward the middle.
+    - Paint the stripes with a liner so every stripe is thin.
+    - Paint each stripe twice so the edges become softer.
+    - Paint from the middle outward with even pressure.
+  correct: 0
+  explanation: >-
+    A tiger stripe is a pressure stroke: wide where you press at the edge, sharp where you lift.
+    That taper reads as fur.
+- id: q8
+  question: >-
+    You finish a hero mask and in your phone camera one outer tip is clearly higher. You will paint it
+    again tomorrow. What do you change?
+  options:
+    - Paint the right side first, then the left side.
+    - Use a bigger sponge so the mask covers more of the face.
+    - Dot both tips level before filling the mask.
+    - Skip the black outline, since it shows the difference.
+  correct: 2
+  explanation: >-
+    Planning dots at the same height set the shape for both sides. Fill and outline then follow the
+    plan instead of guesswork.
+- id: q9
+  question: >-
+    You have no model and want to practice the butterfly face this week. What is the best order?
+  options:
+    - Paint it on your face first, then fix the template to match.
+    - Template first, then a small one on your hand, then your face.
+    - Practice only on paper until it is perfect, then skip skin.
+    - Paint the full face on your forearm, because it is flat.
+  correct: 1
+  explanation: >-
+    Paper or template first, then your own hand or arm, then your face in a mirror. The sheet
+    protector lets you repeat the template as often as you like.
+- id: q10
+  question: >-
+    Your sponged clouds on a rainbow cheek look streaky and see-through. What two changes help most?
+  options:
+    - A wetter sponge and one thick coat.
+    - A brush instead of a sponge, and more water.
+    - Wiping in circles, then a black outline.
+    - Dab and lift, in two thin layers.
+  correct: 3
+  explanation: >-
+    Clouds are dabbed, not wiped, and two thin layers cover better than one wet one.

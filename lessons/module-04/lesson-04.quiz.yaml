@@ -1,0 +1,49 @@
+- id: q1
+  question: >-
+    Where your yellow and green stripes meet, the color turns muddy and runs together. What is the
+    most likely cause?
+  options:
+    - The green was painted while the yellow was still wet.
+    - Yellow and green are colors that always turn brown together.
+    - The brush was too small for rainbow stripes.
+    - The stripes were painted in the wrong direction.
+  correct: 0
+  explanation: >-
+    Wet paint next to wet paint mixes. Wait a few seconds until each stripe looks matte before
+    painting the next one against it.
+- id: q2
+  question: >-
+    Your rainbow stripes have thin lines of bare skin between them. How do you fix this next time?
+  options:
+    - Paint every stripe twice as wide.
+    - Paint each new stripe just touching the edge of the dry one.
+    - Sponge a white base under the whole rainbow first.
+    - Use more water so the colors flow into the gaps.
+  correct: 1
+  explanation: >-
+    Stripes should touch all along. Painting each stripe against the dry edge of the last one closes
+    the gaps without mixing the colors.
+- id: q3
+  question: >-
+    Your sponged clouds come out streaky and flat instead of fluffy. What should you change?
+  options:
+    - Use a brush instead of a sponge for clouds.
+    - Use a wetter sponge so the white spreads further.
+    - Wipe the sponge in small circles instead of straight lines.
+    - Press the sponge straight down and lift, in round puffs.
+  correct: 3
+  explanation: >-
+    Clouds are dabbed, not wiped. Pressing and lifting leaves the soft, fluffy texture; wiping drags
+    the paint into streaks.
+- id: q4
+  question: >-
+    Why do the clouds go on last, over the ends of the rainbow?
+  options:
+    - Clouds dry faster than rainbow colors.
+    - White paint seals the colors so they last longer.
+    - They hide the uneven stripe ends, so the ends need not be neat.
+    - Clouds painted first would turn the stripes pale.
+  correct: 2
+  explanation: >-
+    Neat stripe ends are hard to paint. Fluffy clouds over both ends cover them and make the rainbow
+    look finished.

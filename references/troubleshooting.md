@@ -81,3 +81,29 @@ stings, itches, swells or turns red, stop and take the paint off first: see the
 | Design looks messy and loud | too many colors, all used equally | three or four colors; one clearly leads (about 60%) | [03.5](../lessons/module-03/lesson-05.md) |
 | Yellow, orange or pastels look thin on deep skin | light colors are see-through over dark skin | paint a thin layer of white underneath first and let it dry | [03.5](../lessons/module-03/lesson-05.md) |
 | Pale colors vanish on light skin | too little contrast with the skin | add a thin black outline or use a deeper shade | [03.5](../lessons/module-03/lesson-05.md) |
+
+## Module 4: First Designs
+
+| What you see | Likely cause | Try this | Lesson |
+|---|---|---|---|
+| Leaves cover the flower petals | leaves painted across the flower | start each leaf at a petal's edge, in the gap | [04.1](../lessons/module-04/lesson-01.md) |
+| Outline is thick and heavy | big brush or too much black | use the tip of a thin brush; outline only the outer edges | [04.1](../lessons/module-04/lesson-01.md) |
+| Black smudges into the color under it | the color was still wet | wait until each layer is dry to the touch | [04.1](../lessons/module-04/lesson-01.md) |
+| A flower cluster looks flat and stiff | three flowers of the same size in a row | one big flower and two small ones placed like a triangle | [04.1](../lessons/module-04/lesson-01.md) |
+| Star looks lopsided | freehand arms of different lengths | mark five tip dots first; paint top, bottom, then sides | [04.2](../lessons/module-04/lesson-02.md) |
+| Star tips are blunt and round | pressing at the tip | only the brush point touches at the tip | [04.2](../lessons/module-04/lesson-02.md) |
+| Heart has a lumpy top or blunt point | the two teardrops don't mirror each other | start both at the same height and pull both to one shared point | [04.2](../lessons/module-04/lesson-02.md) |
+| Sparkles look like plus signs | both strokes the same | make the up-down stroke longer and thicker than the side stroke | [04.2](../lessons/module-04/lesson-02.md) |
+| Butterfly looks crooked | body off the center line | mark the head between the brows and paint the body straight down the nose | [04.3](../lessons/module-04/lesson-03.md) |
+| One butterfly wing sits higher | each side painted from memory | dot both wing tips level first; work wing pairs together | [04.3](../lessons/module-04/lesson-03.md) |
+| Paint on the lashes, eyes sting | painting too close to the eye | lids only with eyes closed and eye-safe paint; lower wings start below the lashes | [04.3](../lessons/module-04/lesson-03.md) |
+| Bare skin between rainbow stripes | stripes painted apart | paint each stripe touching the edge of the last | [04.4](../lessons/module-04/lesson-04.md) |
+| Rainbow stripes turn muddy | painting next to a wet stripe, or wrong color order | wait a few seconds per stripe; keep the order red, orange, yellow, green, blue, purple | [04.4](../lessons/module-04/lesson-04.md) |
+| Clouds look streaky | wiping the sponge | dab straight down and lift, puff by puff | [04.4](../lessons/module-04/lesson-04.md) |
+| White looks see-through | one thin wet layer | let it dry and add a second thin layer | [04.4](../lessons/module-04/lesson-04.md) |
+| Tiger stripes look like bars | same pressure along the stroke | press at the edge of the face, lift toward the middle | [04.5](../lessons/module-04/lesson-05.md) |
+| Stripes on the two sides don't match | one whole side painted first | paint each stripe left, then right | [04.5](../lessons/module-04/lesson-05.md) |
+| Whiskers are blunt and heavy | pressing to the end | flick off to a point | [04.5](../lessons/module-04/lesson-05.md) |
+| Mask paint creeps onto the lashes | eye holes sketched too small | sketch big eye ovals first and fill only outside them | [04.6](../lessons/module-04/lesson-06.md) |
+| Mask is higher on one side | tips not planned | dot both outer tips level before filling | [04.6](../lessons/module-04/lesson-06.md) |
+| Crown looks flat yellow | one color, no contrast | orange along the band, a thin black outline, white shine | [04.6](../lessons/module-04/lesson-06.md) |

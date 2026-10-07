@@ -1,0 +1,61 @@
+- id: q1
+  question: >-
+    You want to paint a red hero mask around open eyes. Which paint can you use?
+  options:
+    - Any face paint, as long as you paint a thin layer.
+    - Red face paint whose label allows use around the eyes.
+    - Red lipstick, because it is already made for the face.
+    - A red neon face paint, because it looks brightest.
+  correct: 1
+  explanation: >-
+    Near the eyes, use only products labeled for the eye area. Neon and fluorescent colors are not
+    allowed near the eyes at all.
+- id: q2
+  question: >-
+    How big should the eye holes of a painted mask be?
+  options:
+    - Exactly the shape of the eye, painted up to the lashes.
+    - Smaller than the eye, so the color frames it closely.
+    - Big enough to leave bare skin all around each eye.
+    - Any size, as long as both holes are exactly the same size.
+  correct: 2
+  explanation: >-
+    A clear gap between the paint and the lashes keeps paint out of the eye and makes the mask look
+    neat.
+- id: q3
+  question: >-
+    A friend wants face gems on her crown and also one on the eyelid "for sparkle". What do you do?
+  options:
+    - Add the eyelid gem with a little superglue so it holds all day.
+    - Use school glue for the eyelid, since it is gentle.
+    - Add it to the eyelid but take it off after an hour.
+    - Gems on the forehead only, none on the eyelid.
+  correct: 3
+  explanation: >-
+    Gems and glitter near the lash line can fall into the eye and scratch it. Self-adhesive face gems
+    go on the forehead or cheekbone, and never glue from the drawer.
+- id: q4
+  question: >-
+    Your painted crown looks like a flat yellow shape. What makes it look like gold?
+  options:
+    - A little orange along the band, a thin black outline and white shine.
+    - A second thick layer of yellow so the color is deeper.
+    - Mixing the yellow with brown until it looks darker.
+    - Painting the crown much bigger across the forehead.
+  correct: 0
+  explanation: >-
+    Gold is a gradient from yellow to orange, made crisp with a thin outline and bright with white
+    shine lines.
+- id: q5
+  question: >-
+    You finish a mask and see in your phone camera that one side flares higher than the other. What
+    would have prevented it?
+  options:
+    - Painting the mask faster, in one smooth go from tip to tip.
+    - Dotting both outer tips at the same height before filling.
+    - Using a wider sponge so the fill covers both sides evenly.
+    - Painting the black outline first and the sketch afterwards.
+  correct: 1
+  explanation: >-
+    Planning dots at both tips sets the height on both sides. Then the fill and outline follow the
+    plan.
