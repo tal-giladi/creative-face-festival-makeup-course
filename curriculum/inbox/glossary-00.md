@@ -1,0 +1,3 @@
+- **water-activated face paint** — face paint sold as a solid cake that you wet with water to use; it dries on the skin and washes off with soap and water (01.1)
+- **cake** — a solid pot or pan of face paint (01.1)
+- **cosmetic** — a product made and sold to be put on the body, such as face paint or makeup, which must follow cosmetic safety rules (01.1)

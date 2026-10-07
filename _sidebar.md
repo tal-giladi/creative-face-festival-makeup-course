@@ -1,0 +1,79 @@
+- [Home](/)
+- [Glossary](glossary.md)
+- [Templates](templates/README.md)
+- [Materials and substitutes](references/materials.md)
+- [Safety guide](references/safety.md)
+- [Fix-it guide](references/troubleshooting.md)
+- [Sources](references/sources.md)
+
+- Level 1 — Creative Face Painting
+- **Module 1 — Tools, Materials and Safety**
+  - [01 · Your face painting kit](lessons/module-01/lesson-01.md)
+  - [02 · Skin-safe or not? Reading the label](lessons/module-01/lesson-02.md)
+  - [03 · Patch test and clean hands](lessons/module-01/lesson-03.md)
+  - [04 · Water, paint and your first swatches](lessons/module-01/lesson-04.md)
+  - [05 · Taking it off and cleaning up](lessons/module-01/lesson-05.md)
+  - [Module 1 quiz](assessments/module-01-quiz.md)
+- **Module 2 — Brush Control**
+  - [06 · Holding the brush and the pressure stroke](lessons/module-02/lesson-01.md)
+  - [07 · Teardrops and petals](lessons/module-02/lesson-02.md)
+  - [08 · Swirls, curls and spirals](lessons/module-02/lesson-03.md)
+  - [09 · Dots, dot trails and dot flowers](lessons/module-02/lesson-04.md)
+  - [10 · Painting on skin: hand, arm, then face](lessons/module-02/lesson-05.md)
+  - [Module 2 quiz](assessments/module-02-quiz.md)
+- **Module 3 — Color and Symmetry**
+  - [11 · Mixing many colors from a few](lessons/module-03/lesson-01.md)
+  - [12 · Your first sponge gradient](lessons/module-03/lesson-02.md)
+  - [13 · Light and dark: white highlights and black outlines](lessons/module-03/lesson-03.md)
+  - [14 · Symmetry and the face map](lessons/module-03/lesson-04.md)
+  - [15 · Color combinations that always work](lessons/module-03/lesson-05.md)
+  - [Module 3 quiz](assessments/module-03-quiz.md)
+- **Module 4 — First Designs**
+  - [16 · Flowers and leaves](lessons/module-04/lesson-01.md)
+  - [17 · Stars, hearts and sparkles](lessons/module-04/lesson-02.md)
+  - [18 · The butterfly](lessons/module-04/lesson-03.md)
+  - [19 · Rainbows and clouds](lessons/module-04/lesson-04.md)
+  - [20 · Simple animals: cat and tiger](lessons/module-04/lesson-05.md)
+  - [21 · Hero masks and fantasy crowns](lessons/module-04/lesson-06.md)
+  - [Module 4 quiz](assessments/module-04-quiz.md)
+
+- Level 2 — Festival & Trance Makeup
+- **Module 5 — Festival Faces**
+  - [22 · Bold color for festivals](lessons/module-05/lesson-01.md)
+  - [23 · Paint plus makeup: skin prep and setting](lessons/module-05/lesson-02.md)
+  - [24 · The festival face map: symmetrical layouts](lessons/module-05/lesson-03.md)
+  - [25 · Bold eye designs, safely](lessons/module-05/lesson-04.md)
+  - [Module 5 quiz](assessments/module-05-quiz.md)
+- **Module 6 — Glitter, Gems and Neon**
+  - [26 · Cosmetic glitter, craft glitter and bio glitter](lessons/module-06/lesson-01.md)
+  - [27 · Applying glitter that stays put](lessons/module-06/lesson-02.md)
+  - [28 · Face gems and skin-safe adhesives](lessons/module-06/lesson-03.md)
+  - [29 · Neon and UV: what's allowed where](lessons/module-06/lesson-04.md)
+  - [Module 6 quiz](assessments/module-06-quiz.md)
+- **Module 7 — Patterns and Complete Looks**
+  - [30 · Dotwork and mandalas](lessons/module-07/lesson-01.md)
+  - [31 · Geometric lines](lessons/module-07/lesson-02.md)
+  - [32 · Psychedelic waves and swirls](lessons/module-07/lesson-03.md)
+  - [33 · Planning and building a complete festival look](lessons/module-07/lesson-04.md)
+  - [Module 7 quiz](assessments/module-07-quiz.md)
+
+- Level 3 — Fantasy & Artistic Makeup
+- **Module 8 — Advanced Color and Illusion**
+  - [34 · Three-color blends and split cakes](lessons/module-08/lesson-01.md)
+  - [35 · Making shapes look 3D](lessons/module-08/lesson-02.md)
+  - [36 · Scales, lace and stencils](lessons/module-08/lesson-03.md)
+  - [37 · Simple illusions](lessons/module-08/lesson-04.md)
+  - [Module 8 quiz](assessments/module-08-quiz.md)
+- **Module 9 — Fantasy Characters and Masks**
+  - [38 · From idea to face design](lessons/module-09/lesson-01.md)
+  - [39 · Decorative masks](lessons/module-09/lesson-02.md)
+  - [40 · Fantasy characters](lessons/module-09/lesson-03.md)
+  - [41 · Designing your own artistic look](lessons/module-09/lesson-04.md)
+  - [Module 9 quiz](assessments/module-09-quiz.md)
+
+- Optional Level 4 — Body Art
+- **Module 10 — Body Art (Optional)**
+  - [42 · From face to body](lessons/module-10/lesson-01.md)
+  - [43 · Hands and arms](lessons/module-10/lesson-02.md)
+  - [44 · Shoulders and upper body](lessons/module-10/lesson-03.md)
+  - [Module 10 quiz](assessments/module-10-quiz.md)

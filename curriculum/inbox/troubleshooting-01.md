@@ -1,0 +1,2 @@
+- Using craft or acrylic paint on skin | it looks like face paint and costs less | use only paint sold as face or body paint | 01.1
+- Lines are fuzzy or doubled | the round brush tip is split | use it for filling; use a brush that springs to one point for lines | 01.1

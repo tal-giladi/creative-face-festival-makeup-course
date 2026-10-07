@@ -1,0 +1,51 @@
+- id: q1
+  question: >-
+    You have no face paint white, but you have white acrylic craft paint labeled "non-toxic". What
+    should you do for a design on a friend's cheek?
+  options:
+    - Use it, because "non-toxic" means it is safe for skin.
+    - Mix it with water first so it is gentle enough for skin.
+    - Leave white out of the design until you have face paint white.
+    - Use it only in small dots, where very little touches the skin.
+  correct: 2
+  explanation: >-
+    "Non-toxic" means safe for art use, not tested for skin. Only paint sold as face or body paint
+    goes on skin, so leave white out until you have it.
+- id: q2
+  question: >-
+    You can't find a face-painting brush in your town. Which brush is the best substitute for
+    painting thin lines?
+  options:
+    - A synthetic watercolor brush that springs back to one sharp point when wet.
+    - A natural-hair brush that has been used before for acrylic paint.
+    - A wide, soft makeup powder brush with a round, fluffy end.
+    - A stiff bristle brush for oil painting, because it holds a lot of paint.
+  correct: 0
+  explanation: >-
+    For lines the brush must come to one sharp point and be new or used only for face paint. A
+    clean synthetic watercolor brush does that job.
+- id: q3
+  question: >-
+    After the brush test, your round brush's tip splits into three little points. What is the
+    best use for it?
+  options:
+    - Fine lines and eyelashes, since three points make three lines at once.
+    - Filling in shapes, where a sharp point doesn't matter.
+    - Nothing; throw it away, because it will scratch the skin.
+    - Dots, because a split tip makes rounder dots.
+  correct: 1
+  explanation: >-
+    A split tip paints ragged, doubled lines, but it can still fill shapes well. Get a brush with one
+    sharp point for lines.
+- id: q4
+  question: >-
+    Why does the beginner kit have two cups of water instead of one?
+  options:
+    - One is for warm water and one is for cold water.
+    - One is for brushes and one is for washing the face afterwards.
+    - One is spare in case the first one gets knocked over.
+    - One is for rinsing and one stays clean for wetting the paint.
+  correct: 3
+  explanation: >-
+    If you wet your paint with dirty rinse water, the colors get muddy. Rinse in one cup and take
+    clean water from the other.
